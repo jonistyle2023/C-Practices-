@@ -1,0 +1,15 @@
+# ninja log v6
+10	398	7636062270836943	build.ninja	8f64bc778684ec5d
+37	258	7636051661760896	CMakeFiles/fundamentosProgramacion.dir/ejemplo2/ejemplo2.cpp.obj	feec5f9fa794fef9
+698	847	7636059585547916	ejemplo2.exe	36c16120f61110e1
+42	270	7636051661810524	CMakeFiles/fundamentosProgramacion.dir/ejemplo3/ejemplo3.cpp.obj	dabb8b136da8dc22
+27	900	7636051661661172	CMakeFiles/fundamentosProgramacion.dir/main.cpp.obj	c5539d52e28b0749
+32	954	7636051661710909	CMakeFiles/fundamentosProgramacion.dir/ejemplo1/ejemplo1.cpp.obj	75f53e31839837d0
+31	144	7636056329860336	fundamentosProgramacion.exe	784c6a6eec85b90a
+7	689	7636059578631710	CMakeFiles/ejemplo1.dir/ejemplo1/ejemplo1.cpp.obj	5e9f744a50df19cb
+12	698	7636059578678080	CMakeFiles/ejemplo2.dir/ejemplo2/ejemplo2.cpp.obj	a02f8ba6607a00c0
+690	844	7636059585462703	ejemplo1.exe	cbac0a551404267d
+27	608	7636081629217835	CMakeFiles/ejemplo3.dir/ejemplo3/ejemplo3.cpp.obj	e402f7cb2f146259
+609	737	7636081635024561	ejemplo3.exe	7e647182410802fe
+21	580	7636082369108860	CMakeFiles/ejemplo3.dir/ejemplo3/ejemplo3.cpp.obj	e402f7cb2f146259
+581	707	7636082374709200	ejemplo3.exe	7e647182410802fe
