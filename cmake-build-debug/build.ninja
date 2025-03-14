@@ -88,6 +88,30 @@ build CMakeFiles/ejemplo1.dir/ejemplo1/ejemplo1.cpp.obj: CXX_COMPILER__ejemplo1_
   OBJECT_DIR = CMakeFiles\ejemplo1.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo1.dir\ejemplo1
 
+build CMakeFiles/ejemplo1.dir/ejemplo4/ejemplo4.cpp.obj: CXX_COMPILER__ejemplo1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejemplo4/ejemplo4.cpp || cmake_object_order_depends_target_ejemplo1
+  DEP_FILE = CMakeFiles\ejemplo1.dir\ejemplo4\ejemplo4.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo1.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo1.dir\ejemplo4
+
+build CMakeFiles/ejemplo1.dir/Ejemplo5/ejemplo5.cpp.obj: CXX_COMPILER__ejemplo1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Ejemplo5/ejemplo5.cpp || cmake_object_order_depends_target_ejemplo1
+  DEP_FILE = CMakeFiles\ejemplo1.dir\Ejemplo5\ejemplo5.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo1.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo1.dir\Ejemplo5
+
+build CMakeFiles/ejemplo1.dir/ejemplo6/ejemplo6.cpp.obj: CXX_COMPILER__ejemplo1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejemplo6/ejemplo6.cpp || cmake_object_order_depends_target_ejemplo1
+  DEP_FILE = CMakeFiles\ejemplo1.dir\ejemplo6\ejemplo6.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo1.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo1.dir\ejemplo6
+
+build CMakeFiles/ejemplo1.dir/ejemplo7/ejemplo7.cpp.obj: CXX_COMPILER__ejemplo1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejemplo7/ejemplo7.cpp || cmake_object_order_depends_target_ejemplo1
+  DEP_FILE = CMakeFiles\ejemplo1.dir\ejemplo7\ejemplo7.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo1.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo1.dir\ejemplo7
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ejemplo1
@@ -96,7 +120,7 @@ build CMakeFiles/ejemplo1.dir/ejemplo1/ejemplo1.cpp.obj: CXX_COMPILER__ejemplo1_
 #############################################
 # Link the executable ejemplo1.exe
 
-build ejemplo1.exe: CXX_EXECUTABLE_LINKER__ejemplo1_Debug CMakeFiles/ejemplo1.dir/ejemplo1/ejemplo1.cpp.obj
+build ejemplo1.exe: CXX_EXECUTABLE_LINKER__ejemplo1_Debug CMakeFiles/ejemplo1.dir/ejemplo1/ejemplo1.cpp.obj CMakeFiles/ejemplo1.dir/ejemplo4/ejemplo4.cpp.obj CMakeFiles/ejemplo1.dir/Ejemplo5/ejemplo5.cpp.obj CMakeFiles/ejemplo1.dir/ejemplo6/ejemplo6.cpp.obj CMakeFiles/ejemplo1.dir/ejemplo7/ejemplo7.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ejemplo1.dir
@@ -172,6 +196,138 @@ build ejemplo3.exe: CXX_EXECUTABLE_LINKER__ejemplo3_Debug CMakeFiles/ejemplo3.di
   TARGET_IMPLIB = libejemplo3.dll.a
   TARGET_PDB = ejemplo3.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target ejemplo4
+
+
+#############################################
+# Order-only phony target for ejemplo4
+
+build cmake_object_order_depends_target_ejemplo4: phony || .
+
+build CMakeFiles/ejemplo4.dir/ejemplo4/ejemplo4.cpp.obj: CXX_COMPILER__ejemplo4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejemplo4/ejemplo4.cpp || cmake_object_order_depends_target_ejemplo4
+  DEP_FILE = CMakeFiles\ejemplo4.dir\ejemplo4\ejemplo4.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo4.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo4.dir\ejemplo4
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejemplo4
+
+
+#############################################
+# Link the executable ejemplo4.exe
+
+build ejemplo4.exe: CXX_EXECUTABLE_LINKER__ejemplo4_Debug CMakeFiles/ejemplo4.dir/ejemplo4/ejemplo4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejemplo4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejemplo4.exe
+  TARGET_IMPLIB = libejemplo4.dll.a
+  TARGET_PDB = ejemplo4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejemplo5
+
+
+#############################################
+# Order-only phony target for ejemplo5
+
+build cmake_object_order_depends_target_ejemplo5: phony || .
+
+build CMakeFiles/ejemplo5.dir/Ejemplo5/ejemplo5.cpp.obj: CXX_COMPILER__ejemplo5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Ejemplo5/ejemplo5.cpp || cmake_object_order_depends_target_ejemplo5
+  DEP_FILE = CMakeFiles\ejemplo5.dir\Ejemplo5\ejemplo5.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo5.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo5.dir\Ejemplo5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejemplo5
+
+
+#############################################
+# Link the executable ejemplo5.exe
+
+build ejemplo5.exe: CXX_EXECUTABLE_LINKER__ejemplo5_Debug CMakeFiles/ejemplo5.dir/Ejemplo5/ejemplo5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejemplo5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejemplo5.exe
+  TARGET_IMPLIB = libejemplo5.dll.a
+  TARGET_PDB = ejemplo5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejemplo6
+
+
+#############################################
+# Order-only phony target for ejemplo6
+
+build cmake_object_order_depends_target_ejemplo6: phony || .
+
+build CMakeFiles/ejemplo6.dir/ejemplo6/ejemplo6.cpp.obj: CXX_COMPILER__ejemplo6_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejemplo6/ejemplo6.cpp || cmake_object_order_depends_target_ejemplo6
+  DEP_FILE = CMakeFiles\ejemplo6.dir\ejemplo6\ejemplo6.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo6.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo6.dir\ejemplo6
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejemplo6
+
+
+#############################################
+# Link the executable ejemplo6.exe
+
+build ejemplo6.exe: CXX_EXECUTABLE_LINKER__ejemplo6_Debug CMakeFiles/ejemplo6.dir/ejemplo6/ejemplo6.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejemplo6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejemplo6.exe
+  TARGET_IMPLIB = libejemplo6.dll.a
+  TARGET_PDB = ejemplo6.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejemplo7
+
+
+#############################################
+# Order-only phony target for ejemplo7
+
+build cmake_object_order_depends_target_ejemplo7: phony || .
+
+build CMakeFiles/ejemplo7.dir/ejemplo7/ejemplo7.cpp.obj: CXX_COMPILER__ejemplo7_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejemplo7/ejemplo7.cpp || cmake_object_order_depends_target_ejemplo7
+  DEP_FILE = CMakeFiles\ejemplo7.dir\ejemplo7\ejemplo7.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo7.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo7.dir\ejemplo7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejemplo7
+
+
+#############################################
+# Link the executable ejemplo7.exe
+
+build ejemplo7.exe: CXX_EXECUTABLE_LINKER__ejemplo7_Debug CMakeFiles/ejemplo7.dir/ejemplo7/ejemplo7.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejemplo7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejemplo7.exe
+  TARGET_IMPLIB = libejemplo7.dll.a
+  TARGET_PDB = ejemplo7.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -204,6 +360,14 @@ build ejemplo2: phony ejemplo2.exe
 
 build ejemplo3: phony ejemplo3.exe
 
+build ejemplo4: phony ejemplo4.exe
+
+build ejemplo5: phony ejemplo5.exe
+
+build ejemplo6: phony ejemplo6.exe
+
+build ejemplo7: phony ejemplo7.exe
+
 build fundamentosProgramacion: phony fundamentosProgramacion.exe
 
 # =============================================================================
@@ -214,7 +378,7 @@ build fundamentosProgramacion: phony fundamentosProgramacion.exe
 #############################################
 # Folder: C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug
 
-build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe
 
 # =============================================================================
 # Built-in targets
