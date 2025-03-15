@@ -1,5 +1,6 @@
 # **Primeras prácticas con C++**
 
+>[!NOTE]
 >**Realizado por:** _Jonathan David Panchana Rodríguez_
 
 ---
