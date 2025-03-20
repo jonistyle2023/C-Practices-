@@ -1,11 +1,8 @@
 # **Primeras prácticas con C++**
 
 >[!NOTE]
-<<<<<<< HEAD
-=======
 >
->>>>>>> 51c2581 (Actualización del 20 de marzo)
->**Realizado por:** _Jonathan David Panchana Rodríguez_
+> **Realizado por:** _Jonathan David Panchana Rodríguez_
 
 >[!IMPORTANT]
 > 
