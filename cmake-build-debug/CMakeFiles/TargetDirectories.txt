@@ -6,5 +6,9 @@ C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFile
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/ejemplo5.dir
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/ejemplo6.dir
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/ejemplo7.dir
+C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/ejemplo8.dir
+C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/ejemplo9.dir
+C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/ejemplo10.dir
+C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/ejemplo11.dir
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
