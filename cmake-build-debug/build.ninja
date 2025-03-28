@@ -469,6 +469,39 @@ build ejemplo12.exe: CXX_EXECUTABLE_LINKER__ejemplo12_Debug CMakeFiles/ejemplo12
   TARGET_IMPLIB = libejemplo12.dll.a
   TARGET_PDB = ejemplo12.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target leccion1
+
+
+#############################################
+# Order-only phony target for leccion1
+
+build cmake_object_order_depends_target_leccion1: phony || .
+
+build CMakeFiles/leccion1.dir/lecciones/leccion1.cpp.obj: CXX_COMPILER__leccion1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/lecciones/leccion1.cpp || cmake_object_order_depends_target_leccion1
+  DEP_FILE = CMakeFiles\leccion1.dir\lecciones\leccion1.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leccion1.dir
+  OBJECT_FILE_DIR = CMakeFiles\leccion1.dir\lecciones
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leccion1
+
+
+#############################################
+# Link the executable leccion1.exe
+
+build leccion1.exe: CXX_EXECUTABLE_LINKER__leccion1_Debug CMakeFiles/leccion1.dir/lecciones/leccion1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\leccion1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leccion1.exe
+  TARGET_IMPLIB = libleccion1.dll.a
+  TARGET_PDB = leccion1.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -521,6 +554,8 @@ build ejemplo9: phony ejemplo9.exe
 
 build fundamentosProgramacion: phony fundamentosProgramacion.exe
 
+build leccion1: phony leccion1.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -529,7 +564,7 @@ build fundamentosProgramacion: phony fundamentosProgramacion.exe
 #############################################
 # Folder: C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug
 
-build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe leccion1.exe
 
 # =============================================================================
 # Built-in targets
