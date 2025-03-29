@@ -502,6 +502,270 @@ build leccion1.exe: CXX_EXECUTABLE_LINKER__leccion1_Debug CMakeFiles/leccion1.di
   TARGET_IMPLIB = libleccion1.dll.a
   TARGET_PDB = leccion1.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio1
+
+
+#############################################
+# Order-only phony target for ejercicio1
+
+build cmake_object_order_depends_target_ejercicio1: phony || .
+
+build CMakeFiles/ejercicio1.dir/ejerciciosS1-3/ejercicio1.cpp.obj: CXX_COMPILER__ejercicio1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejerciciosS1-3/ejercicio1.cpp || cmake_object_order_depends_target_ejercicio1
+  DEP_FILE = CMakeFiles\ejercicio1.dir\ejerciciosS1-3\ejercicio1.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio1.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio1.dir\ejerciciosS1-3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio1
+
+
+#############################################
+# Link the executable ejercicio1.exe
+
+build ejercicio1.exe: CXX_EXECUTABLE_LINKER__ejercicio1_Debug CMakeFiles/ejercicio1.dir/ejerciciosS1-3/ejercicio1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio1.exe
+  TARGET_IMPLIB = libejercicio1.dll.a
+  TARGET_PDB = ejercicio1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio2
+
+
+#############################################
+# Order-only phony target for ejercicio2
+
+build cmake_object_order_depends_target_ejercicio2: phony || .
+
+build CMakeFiles/ejercicio2.dir/ejerciciosS1-3/ejercicio2.cpp.obj: CXX_COMPILER__ejercicio2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejerciciosS1-3/ejercicio2.cpp || cmake_object_order_depends_target_ejercicio2
+  DEP_FILE = CMakeFiles\ejercicio2.dir\ejerciciosS1-3\ejercicio2.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio2.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio2.dir\ejerciciosS1-3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio2
+
+
+#############################################
+# Link the executable ejercicio2.exe
+
+build ejercicio2.exe: CXX_EXECUTABLE_LINKER__ejercicio2_Debug CMakeFiles/ejercicio2.dir/ejerciciosS1-3/ejercicio2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio2.exe
+  TARGET_IMPLIB = libejercicio2.dll.a
+  TARGET_PDB = ejercicio2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio3
+
+
+#############################################
+# Order-only phony target for ejercicio3
+
+build cmake_object_order_depends_target_ejercicio3: phony || .
+
+build CMakeFiles/ejercicio3.dir/ejerciciosS1-3/ejercicio3.cpp.obj: CXX_COMPILER__ejercicio3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejerciciosS1-3/ejercicio3.cpp || cmake_object_order_depends_target_ejercicio3
+  DEP_FILE = CMakeFiles\ejercicio3.dir\ejerciciosS1-3\ejercicio3.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio3.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio3.dir\ejerciciosS1-3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio3
+
+
+#############################################
+# Link the executable ejercicio3.exe
+
+build ejercicio3.exe: CXX_EXECUTABLE_LINKER__ejercicio3_Debug CMakeFiles/ejercicio3.dir/ejerciciosS1-3/ejercicio3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio3.exe
+  TARGET_IMPLIB = libejercicio3.dll.a
+  TARGET_PDB = ejercicio3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio4
+
+
+#############################################
+# Order-only phony target for ejercicio4
+
+build cmake_object_order_depends_target_ejercicio4: phony || .
+
+build CMakeFiles/ejercicio4.dir/ejerciciosS1-3/ejercicio4.cpp.obj: CXX_COMPILER__ejercicio4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejerciciosS1-3/ejercicio4.cpp || cmake_object_order_depends_target_ejercicio4
+  DEP_FILE = CMakeFiles\ejercicio4.dir\ejerciciosS1-3\ejercicio4.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio4.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio4.dir\ejerciciosS1-3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio4
+
+
+#############################################
+# Link the executable ejercicio4.exe
+
+build ejercicio4.exe: CXX_EXECUTABLE_LINKER__ejercicio4_Debug CMakeFiles/ejercicio4.dir/ejerciciosS1-3/ejercicio4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio4.exe
+  TARGET_IMPLIB = libejercicio4.dll.a
+  TARGET_PDB = ejercicio4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio5
+
+
+#############################################
+# Order-only phony target for ejercicio5
+
+build cmake_object_order_depends_target_ejercicio5: phony || .
+
+build CMakeFiles/ejercicio5.dir/ejerciciosS1-3/ejercicio5.cpp.obj: CXX_COMPILER__ejercicio5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejerciciosS1-3/ejercicio5.cpp || cmake_object_order_depends_target_ejercicio5
+  DEP_FILE = CMakeFiles\ejercicio5.dir\ejerciciosS1-3\ejercicio5.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio5.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio5.dir\ejerciciosS1-3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio5
+
+
+#############################################
+# Link the executable ejercicio5.exe
+
+build ejercicio5.exe: CXX_EXECUTABLE_LINKER__ejercicio5_Debug CMakeFiles/ejercicio5.dir/ejerciciosS1-3/ejercicio5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio5.exe
+  TARGET_IMPLIB = libejercicio5.dll.a
+  TARGET_PDB = ejercicio5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio6
+
+
+#############################################
+# Order-only phony target for ejercicio6
+
+build cmake_object_order_depends_target_ejercicio6: phony || .
+
+build CMakeFiles/ejercicio6.dir/ejerciciosS1-3/ejercicio6.cpp.obj: CXX_COMPILER__ejercicio6_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejerciciosS1-3/ejercicio6.cpp || cmake_object_order_depends_target_ejercicio6
+  DEP_FILE = CMakeFiles\ejercicio6.dir\ejerciciosS1-3\ejercicio6.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio6.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio6.dir\ejerciciosS1-3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio6
+
+
+#############################################
+# Link the executable ejercicio6.exe
+
+build ejercicio6.exe: CXX_EXECUTABLE_LINKER__ejercicio6_Debug CMakeFiles/ejercicio6.dir/ejerciciosS1-3/ejercicio6.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio6.exe
+  TARGET_IMPLIB = libejercicio6.dll.a
+  TARGET_PDB = ejercicio6.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio7
+
+
+#############################################
+# Order-only phony target for ejercicio7
+
+build cmake_object_order_depends_target_ejercicio7: phony || .
+
+build CMakeFiles/ejercicio7.dir/ejerciciosS1-3/ejercicio7.cpp.obj: CXX_COMPILER__ejercicio7_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejerciciosS1-3/ejercicio7.cpp || cmake_object_order_depends_target_ejercicio7
+  DEP_FILE = CMakeFiles\ejercicio7.dir\ejerciciosS1-3\ejercicio7.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio7.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio7.dir\ejerciciosS1-3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio7
+
+
+#############################################
+# Link the executable ejercicio7.exe
+
+build ejercicio7.exe: CXX_EXECUTABLE_LINKER__ejercicio7_Debug CMakeFiles/ejercicio7.dir/ejerciciosS1-3/ejercicio7.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio7.exe
+  TARGET_IMPLIB = libejercicio7.dll.a
+  TARGET_PDB = ejercicio7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio8
+
+
+#############################################
+# Order-only phony target for ejercicio8
+
+build cmake_object_order_depends_target_ejercicio8: phony || .
+
+build CMakeFiles/ejercicio8.dir/ejerciciosS1-3/ejercicio8.cpp.obj: CXX_COMPILER__ejercicio8_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/ejerciciosS1-3/ejercicio8.cpp || cmake_object_order_depends_target_ejercicio8
+  DEP_FILE = CMakeFiles\ejercicio8.dir\ejerciciosS1-3\ejercicio8.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio8.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio8.dir\ejerciciosS1-3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio8
+
+
+#############################################
+# Link the executable ejercicio8.exe
+
+build ejercicio8.exe: CXX_EXECUTABLE_LINKER__ejercicio8_Debug CMakeFiles/ejercicio8.dir/ejerciciosS1-3/ejercicio8.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio8.exe
+  TARGET_IMPLIB = libejercicio8.dll.a
+  TARGET_PDB = ejercicio8.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -552,6 +816,22 @@ build ejemplo8: phony ejemplo8.exe
 
 build ejemplo9: phony ejemplo9.exe
 
+build ejercicio1: phony ejercicio1.exe
+
+build ejercicio2: phony ejercicio2.exe
+
+build ejercicio3: phony ejercicio3.exe
+
+build ejercicio4: phony ejercicio4.exe
+
+build ejercicio5: phony ejercicio5.exe
+
+build ejercicio6: phony ejercicio6.exe
+
+build ejercicio7: phony ejercicio7.exe
+
+build ejercicio8: phony ejercicio8.exe
+
 build fundamentosProgramacion: phony fundamentosProgramacion.exe
 
 build leccion1: phony leccion1.exe
@@ -564,7 +844,7 @@ build leccion1: phony leccion1.exe
 #############################################
 # Folder: C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug
 
-build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe leccion1.exe
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe
 
 # =============================================================================
 # Built-in targets

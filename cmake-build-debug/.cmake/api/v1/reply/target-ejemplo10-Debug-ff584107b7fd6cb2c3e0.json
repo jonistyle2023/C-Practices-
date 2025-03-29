@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "ejemplo3.exe"
+			"path" : "ejemplo10.exe"
 		},
 		{
-			"path" : "ejemplo3.pdb"
+			"path" : "ejemplo10.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 15,
+				"line" : 38,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "ejemplo3::@6890427a1f51a3e7e1df",
+	"id" : "ejemplo10::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "ejemplo3",
-	"nameOnDisk" : "ejemplo3.exe",
+	"name" : "ejemplo10",
+	"nameOnDisk" : "ejemplo10.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "secci\u00f3n1/ejemplo3.cpp",
+			"path" : "secci\u00f3n3/ejemplo10.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
