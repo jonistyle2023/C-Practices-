@@ -43,6 +43,12 @@ add_executable(ejemplo11 sección3/ejemplo11.cpp)
 ## Ejecutable para ejemplo12
 add_executable(ejemplo12 sección3/ejemplo12.cpp)
 
+## Ejecutable para ejemplo13
+add_executable(ejemplo13 sección3/ejemplo13.cpp)
+
+## Ejecutable para ejemplo14
+add_executable(ejemplo14 sección3/ejemplo14.cpp)
+
 # EJECUTABLES PARA LAS LECCIONES
 
 ## Ejecutable para lección1
