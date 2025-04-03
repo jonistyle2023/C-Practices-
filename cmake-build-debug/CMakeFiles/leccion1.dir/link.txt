@@ -1,3 +1,0 @@
-C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\leccion1.dir/objects.a
-C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\leccion1.dir/objects.a @CMakeFiles\leccion1.dir\objects1.rsp
-C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\leccion1.dir/objects.a -Wl,--no-whole-archive -o leccion1.exe -Wl,--out-implib,libleccion1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\leccion1.dir\linkLibs.rsp

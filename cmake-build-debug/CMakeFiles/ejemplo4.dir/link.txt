@@ -1,3 +1,0 @@
-C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\ejemplo4.dir/objects.a
-C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\ejemplo4.dir/objects.a @CMakeFiles\ejemplo4.dir\objects1.rsp
-C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ejemplo4.dir/objects.a -Wl,--no-whole-archive -o ejemplo4.exe -Wl,--out-implib,libejemplo4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ejemplo4.dir\linkLibs.rsp
