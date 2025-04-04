@@ -37,6 +37,11 @@
 - **Ejemplo 11:** Uso de la **Estructura Repetitiva _For_**
 - **Ejemplo 12:** Programa básico que permite la entrada y salida de datos.
 
+### **Sección 4: Funciones y procedimientos**
+
+- **Ejemplo 13:** Uso de funciones y procedimientos #1.
+- **Ejemplo 14:** Uso de funciones y procedimientos #2.
+
 ---
 
 ## **Ejercicios**
@@ -51,3 +56,4 @@
 - **Ejercicio 6:** Programa que convierte metros a pies y pulgadas.
 - **Ejercicio 7:** Programa que calcula el área de un triángulo conocídos sus tres lados.
 - **Ejercicio 8:** Programa que calcula el área y el perímetro de un triángulo.
+
