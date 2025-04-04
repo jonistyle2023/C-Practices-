@@ -5,7 +5,9 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(fundamentosProgramacion main.cpp)
 
-## EJECUTABLES PARA LOS EJEMPLOS
+#------------------------------------------------
+
+# EJECUTABLES PARA LOS EJEMPLOS
 
 ## Ejecutable para ejemplo1
 add_executable(ejemplo1 section1/ejemplo1.cpp)
@@ -49,12 +51,16 @@ add_executable(ejemplo13 section4/ejemplo13.cpp)
 ## Ejecutable para ejemplo14
 add_executable(ejemplo14 section4/ejemplo14.cpp)
 
-## EJECUTABLES PARA LAS LECCIONES
+#------------------------------------------------
+
+# EJECUTABLES PARA LAS LECCIONES
 
 ## Ejecutable para lección1
 add_executable(leccion1 lessons/leccion1.cpp)
 
-## EJECUTABLES PARA LOS EJERCICIOS
+#------------------------------------------------
+
+# EJECUTABLES PARA LOS EJERCICIOS
 
 ## Ejecutable para el ejercicio1
 add_executable(ejercicio1 exercises1-3/ejercicio1.cpp)
@@ -80,6 +86,8 @@ add_executable(ejercicio7 exercises1-3/ejercicio7.cpp)
 ## Ejecutable para el ejercicio8
 add_executable(ejercicio8 exercises1-3/ejercicio8.cpp)
 
-## TALLERES
+#------------------------------------------------
+
+# TALLERES
 ## Ejecutable para el taller1
 add_executable(taller1 workshops/taller1.cpp)
