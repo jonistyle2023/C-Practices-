@@ -18,7 +18,7 @@ float A, B, C, D;
 // Prototipos de procedimientos
 void P_Inicializar ();
 void P_Ingresar();
-float P_Procesar();
+float P_Procesar(float X, float Y);
 void P_Visualizar();
 void P_Pausa();
 
@@ -33,7 +33,7 @@ int main() {
     P_Ingresar();
 
     // Proceso
-    D=P_Procesar();
+    D=P_Procesar(A,B);
 
     // Datos de salida
     P_Visualizar();
@@ -62,8 +62,8 @@ void P_Ingresar() {
     cin >> B;
 }
 
-float P_Procesar() {
-    C=A*B;
+float P_Procesar(float X, float Y) {
+    C=X*Y;
     return C;
 }
 
