@@ -2,7 +2,7 @@
 // Created by jonathan panchana on 3/4/2025.
 //
 
-/* Procedimientos
+/* Funciones con paso de parámetros por referencia al estilo c
  * Autor: Jonathan Panchana Rodríguez
  * curso: SW 2/2
  * fecha 3/04/2025 */
@@ -14,11 +14,11 @@
 using namespace std;
 
 // Definición de contantes y variables globales
-float A, B, C, D;
+float A, B, C;
 // Prototipos de procedimientos
 void P_Inicializar ();
 void P_Ingresar();
-float P_Procesar(float X, float Y);
+float P_Procesar(float *X, float *Y, float *Z);
 void P_Visualizar();
 void P_Pausa();
 
@@ -33,7 +33,7 @@ int main() {
     P_Ingresar();
 
     // Proceso0
-    D=P_Procesar(A,B);
+    P_Procesar(&A,&B,&C);
 
     // Datos de salida
     P_Visualizar();
@@ -48,7 +48,6 @@ int main() {
 void P_Inicializar() {
     // Inicialización de variables
     C=0;
-    D=0;
     // Llamada a los procedimientos
 } // Fin del procedimiento
 
@@ -62,16 +61,17 @@ void P_Ingresar() {
     cin >> B;
 }
 
-float P_Procesar(float X, float Y) {
-    C=X*Y;
-    return C;
+float P_Procesar(float *X, float *Y, float *Z) {
+    *Z=(*X)**(Y);
+    return *Z;
 }
 
 void P_Visualizar() {
-    cout<<"\nEl resultado es: "<<D;
+    cout<<"\nEl resultado es: "<<C;
 }
 
 void P_Pausa() {
     cout << "\n\n";
     system("pause");
 }
+

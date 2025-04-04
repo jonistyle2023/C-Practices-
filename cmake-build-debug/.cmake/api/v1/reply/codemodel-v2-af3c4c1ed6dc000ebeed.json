@@ -39,7 +39,10 @@
 						21,
 						22,
 						23,
-						24
+						24,
+						25,
+						26,
+						27
 					]
 				}
 			],
@@ -78,7 +81,10 @@
 						21,
 						22,
 						23,
-						24
+						24,
+						25,
+						26,
+						27
 					]
 				}
 			],
@@ -124,6 +130,20 @@
 					"id" : "ejemplo14::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ejemplo14-Debug-1105b5490a8eb74ec344.json",
 					"name" : "ejemplo14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejemplo15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejemplo15-Debug-74cd90df1a336a2eb00a.json",
+					"name" : "ejemplo15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejemplo16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejemplo16-Debug-2ae05aa0a110305d0b60.json",
+					"name" : "ejemplo16",
 					"projectIndex" : 0
 				},
 				{
@@ -185,56 +205,56 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ejercicio1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ejercicio1-Debug-b49f665006a47e34641f.json",
+					"jsonFile" : "target-ejercicio1-Debug-647bebcf3b2945850fa7.json",
 					"name" : "ejercicio1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ejercicio2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ejercicio2-Debug-2e65bbf70444ee382153.json",
+					"jsonFile" : "target-ejercicio2-Debug-3c0a7e67b49857fc77d8.json",
 					"name" : "ejercicio2",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ejercicio3::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ejercicio3-Debug-abd543b86c2c52362b5d.json",
+					"jsonFile" : "target-ejercicio3-Debug-21fe0e1c1f573ce87860.json",
 					"name" : "ejercicio3",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ejercicio4::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ejercicio4-Debug-c7a799e9b2a49b5b1a58.json",
+					"jsonFile" : "target-ejercicio4-Debug-4f6e8fa7da3862a55baa.json",
 					"name" : "ejercicio4",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ejercicio5::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ejercicio5-Debug-7027f615e57f5261a159.json",
+					"jsonFile" : "target-ejercicio5-Debug-e21c83d29df4e3e71084.json",
 					"name" : "ejercicio5",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ejercicio6::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ejercicio6-Debug-b1a47f219dca4c4e893c.json",
+					"jsonFile" : "target-ejercicio6-Debug-acc4da8bcc78f10ad05b.json",
 					"name" : "ejercicio6",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ejercicio7::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ejercicio7-Debug-a320cbe877eea2af3415.json",
+					"jsonFile" : "target-ejercicio7-Debug-ccc27d57c2738648a198.json",
 					"name" : "ejercicio7",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ejercicio8::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ejercicio8-Debug-e20646c42be8df115461.json",
+					"jsonFile" : "target-ejercicio8-Debug-630a49c1def7e18ad5ee.json",
 					"name" : "ejercicio8",
 					"projectIndex" : 0
 				},
@@ -248,15 +268,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "leccion1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-leccion1-Debug-446051a11cb723de529d.json",
+					"jsonFile" : "target-leccion1-Debug-f13a0489a687912b8e60.json",
 					"name" : "leccion1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "taller1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-taller1-Debug-9df1d85ec36999f6267a.json",
+					"jsonFile" : "target-taller1-Debug-238a397b631c1ca35060.json",
 					"name" : "taller1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "taller2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-taller2-Debug-a147574ce21accb8baf6.json",
+					"name" : "taller2",
 					"projectIndex" : 0
 				}
 			]
@@ -265,8 +292,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug",
-		"source" : "C:/Users/jonat/CLionProjects/fundamentosProgramacion"
+		"build" : "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug",
+		"source" : "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-"
 	},
 	"version" : 
 	{

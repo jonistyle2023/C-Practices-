@@ -51,6 +51,12 @@ add_executable(ejemplo13 section4/ejemplo13.cpp)
 ## Ejecutable para ejemplo14
 add_executable(ejemplo14 section4/ejemplo14.cpp)
 
+## Ejecutable para ejemplo15
+add_executable(ejemplo15 section4/ejemplo15.cpp)
+
+## Ejecutable para ejemplo16
+add_executable(ejemplo16 section4/ejemplo16.cpp)
+
 #------------------------------------------------
 
 # EJECUTABLES PARA LAS LECCIONES
@@ -91,3 +97,6 @@ add_executable(ejercicio8 exercises1-3/ejercicio8.cpp)
 # TALLERES
 ## Ejecutable para el taller1
 add_executable(taller1 workshops/taller1.cpp)
+
+## Ejecutable para el taller2
+add_executable(taller2 workshops/taller2.cpp)

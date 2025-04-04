@@ -1,5 +1,7 @@
 # ninja log v6
-3	772	7654286048953916	CMakeFiles/taller1.dir/workshops/taller1.cpp.obj	fc95e9b5cf6a3409
-775	973	7654286056682287	taller1.exe	b2695ac18d48487
 61	2636	7654397145407393	CMakeFiles/taller1.dir/workshops/taller1.cpp.obj	fc95e9b5cf6a3409
 2639	2949	7654397171188388	taller1.exe	b2695ac18d48487
+25	873	7654961691289232	CMakeFiles/ejemplo16.dir/section4/ejemplo16.cpp.obj	10a36a1ebb15218f
+876	1069	7654961699805277	ejemplo16.exe	fc880d83663043fb
+9	3892	7654970499904950	CMakeFiles/taller2.dir/workshops/taller2.cpp.obj	562d0a1f92ee78bc
+3897	4172	7654970538782156	taller2.exe	a5342c66cd8e3a87
