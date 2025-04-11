@@ -6,7 +6,7 @@
 24	1038	7660985561249586	CMakeFiles/ejemplo16.dir/section4/ejemplo16.cpp.obj	10a36a1ebb15218f
 1038	1262	7660985571399250	ejemplo16.exe	fc880d83663043fb
 9	3892	7654970499904950	CMakeFiles/taller2.dir/workshops/taller2.cpp.obj	562d0a1f92ee78bc
-15	569	7661034999846764	build.ninja	8f64bc778684ec5d
+15	569	7661136760613039	build.ninja	8f64bc778684ec5d
 33	622	7660325944892792	CMakeFiles/ejemplo17.dir/section4/ejemplo17.cpp.obj	ed9e28f0084bb9b3
 623	794	7660325950798849	ejemplo17.exe	fab78bfb322c0894
 13	760	7660330082651076	CMakeFiles/ejemplo18.dir/section4/ejemplo18.cpp.obj	8d86782746406fc
@@ -17,6 +17,17 @@
 810	951	7661001003815878	ejemplo20.exe	780975923ac7dca6
 18	834	7661018878480383	CMakeFiles/ejemplo22.dir/section4/ejemplo22.cpp.obj	430401eddc342cdc
 834	996	7661018886632565	ejemplo22.exe	7aeee0111a958911
-8	850	7661022839662013	CMakeFiles/ejemplo23.dir/section4/ejercicio23.cpp.obj	7b44b1bffd6f098
 851	1022	7661022848094728	ejemplo23.exe	562f3e7e0abb61be
 737	888	7661026643375902	fibonacci.exe	82ed311e5666f6d1
+63	882	7661156187636087	CMakeFiles/recursividad1.dir/recursividad/recursividad1.cpp.obj	909b5afc19f1c018
+883	1191	7661156195832636	recursividad1.exe	4de45f37ea1d2c17
+9	763	7661158180120999	CMakeFiles/recursividad2.dir/recursividad/recursividad2.cpp.obj	f30a4594ebbaba71
+764	892	7661158187676276	recursividad2.exe	a735c02d85b41524
+9	639	7661161152364845	CMakeFiles/recursividad3.dir/recursividad/recursividad3.cpp.obj	38a22f4638708dd7
+640	761	7661161158676236	recursividad3.exe	32a801df1eef4750
+24	894	7661161778531731	CMakeFiles/recursividad3.dir/recursividad/recursividad3.cpp.obj	38a22f4638708dd7
+895	1060	7661161787243695	recursividad3.exe	32a801df1eef4750
+21	814	7661176149820367	CMakeFiles/recursividad4.dir/recursividad/recursividad4.cpp.obj	ada96b23d9d69f71
+815	956	7661176157755518	recursividad4.exe	d52e7343ef2d501f
+16	616	7661176264318224	CMakeFiles/recursividad5.dir/recursividad/recursividad5.cpp.obj	d67d5f0a041f53de
+617	729	7661176270331953	recursividad5.exe	4cd960cf8ce0bd7d

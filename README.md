@@ -37,6 +37,8 @@
 - **Ejemplo 11:** Uso de la **Estructura Repetitiva _For_**
 - **Ejemplo 12:** Programa básico que permite la entrada y salida de datos.
 
+---
+
 ### **Sección 4: Funciones y procedimientos**
 
 - **Ejemplo 13:** Uso de funciones y procedimientos #1.
@@ -46,6 +48,15 @@
 - **Ejemplo 17:** Ejercicios con MiLibreria.
 - **Ejemplo 18:** Librerias - Funciones Matemáticas.
 - **Ejemplo 19:** Librerias - Funciones de Cadena.
+
+---
+
+### **Sección 5: Recursividad**
+
+- **Ejemplo 20:** Función de intercambio.
+- **Ejemplo 21:** Función de intercambio con 3 variables.
+- **Ejemplo 22:** Función de intercambio recursiva.
+- **Ejemplo 23:** Función recursiva para calcular el n-ésimo número de Fibonacci (Hecho con ChatGPT).
 
 ---
 
@@ -61,4 +72,13 @@
 - **Ejercicio 6:** Programa que convierte metros a pies y pulgadas.
 - **Ejercicio 7:** Programa que calcula el área de un triángulo conocídos sus tres lados.
 - **Ejercicio 8:** Programa que calcula el área y el perímetro de un triángulo.
+
+### **Ejercicios Aplicando Recursividad.**
+
+- **Recursividad1:** Menú interactivo para operaciones matemáticas.
+- **Recursividad2:** verificador de número palíndromo usando recursión (más funciones de cadena).
+- **Recursividad3:** Juego de adivinar el número con intentos y recursividad.
+- **Recursividad4:** Generador de la serie Fibonacci hasta un límite definido por el usuario.
+- **Recursividad5:** Programa conversor recursivo de números decimales a binarios.
+
 

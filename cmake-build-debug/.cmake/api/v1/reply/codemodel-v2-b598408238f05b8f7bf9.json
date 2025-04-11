@@ -418,8 +418,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug",
-		"source" : "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-"
+		"build" : "C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug",
+		"source" : "C:/Users/jonat/CLionProjects/fundamentosProgramacion"
 	},
 	"version" : 
 	{
