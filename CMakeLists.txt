@@ -66,6 +66,18 @@ add_executable(ejemplo18 section4/ejemplo18.cpp)
 ## Ejecutable para ejemplo19
 add_executable(ejemplo19 section4/ejemplo19.cpp)
 
+## Ejecutable para ejemplo20
+add_executable(ejemplo20 section4/ejemplo20.cpp)
+
+## Ejecutable para ejemplo21
+add_executable(ejemplo21 section4/ejemplo21.cpp)
+
+## Ejecutable para ejemplo22
+add_executable(ejemplo22 section4/ejemplo22.cpp)
+
+## Ejecutable para ejemplo23
+add_executable(ejemplo23 section4/ejemplo23.cpp)
+
 #------------------------------------------------
 
 # EJECUTABLES PARA LAS LECCIONES
@@ -112,3 +124,14 @@ add_executable(taller2 workshops/taller2.cpp)
 
 ## Ejecutable para el taller3
 add_executable(taller3 workshops/EJ_U2_011.cpp)
+
+## Ejecutable para el ejercicio de fibonacci
+add_executable(fibonacci workshops/fibonacci.cpp)
+
+# EJERCICIOS DE RECURSIVIDAD
+## Ejecutable para el ejercicio de recursividad1
+add_executable(recursividad1 recursividad/recursividad1.cpp)
+add_executable(recursividad2 recursividad/recursividad2.cpp)
+add_executable(recursividad3 recursividad/recursividad3.cpp)
+add_executable(recursividad4 recursividad/recursividad4.cpp)
+add_executable(recursividad5 recursividad/recursividad5.cpp)
