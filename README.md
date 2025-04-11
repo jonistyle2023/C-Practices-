@@ -41,6 +41,11 @@
 
 - **Ejemplo 13:** Uso de funciones y procedimientos #1.
 - **Ejemplo 14:** Uso de funciones y procedimientos #2.
+- **Ejemplo 15:** Funciones con paso de parámetros por referencia al estilo c.
+- **Ejemplo 16:** Funciones con paso de parámetros por referencia al estilo c++.
+- **Ejemplo 17:** Ejercicios con MiLibreria.
+- **Ejemplo 18:** Librerias - Funciones Matemáticas.
+- **Ejemplo 19:** Librerias - Funciones de Cadena.
 
 ---
 

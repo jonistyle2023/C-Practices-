@@ -2,7 +2,7 @@
 // Created by jonathan panchana on 3/4/2025.
 //
 
-/* Procedimientos
+/* Funciones con pasos de parámetros por valor
  * Autor: Jonathan Panchana Rodríguez
  * curso: SW 2/2
  * fecha 3/04/2025 */
