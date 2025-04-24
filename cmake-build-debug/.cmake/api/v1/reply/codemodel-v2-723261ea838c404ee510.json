@@ -56,7 +56,11 @@
 						38,
 						39,
 						40,
-						41
+						41,
+						42,
+						43,
+						44,
+						45
 					]
 				}
 			],
@@ -112,7 +116,11 @@
 						38,
 						39,
 						40,
-						41
+						41,
+						42,
+						43,
+						44,
+						45
 					]
 				}
 			],
@@ -337,6 +345,34 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "examen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examen-Debug-cf7165b61feb339fe076.json",
+					"name" : "examen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "examen2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examen2-Debug-0e8f3b4859b076b10435.json",
+					"name" : "examen2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "examen3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examen3-Debug-2f8855ef0933bb4f15a6.json",
+					"name" : "examen3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "examen4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examen4-Debug-33c4d9ea33f9cc3f621c.json",
+					"name" : "examen4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "fibonacci::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-fibonacci-Debug-9acb9d87e9ad57280daa.json",
 					"name" : "fibonacci",
@@ -359,35 +395,35 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "recursividad1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-recursividad1-Debug-2ec32123125eee19549e.json",
+					"jsonFile" : "target-recursividad1-Debug-f7ae0ba89bf2ec9af37e.json",
 					"name" : "recursividad1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "recursividad2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-recursividad2-Debug-edf3968661d269ec1cb9.json",
+					"jsonFile" : "target-recursividad2-Debug-0eba90d2cee352ed7792.json",
 					"name" : "recursividad2",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "recursividad3::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-recursividad3-Debug-3f7651b93d695404be12.json",
+					"jsonFile" : "target-recursividad3-Debug-6f265ed0c4deb2f9a828.json",
 					"name" : "recursividad3",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "recursividad4::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-recursividad4-Debug-15e3187facdbf5257018.json",
+					"jsonFile" : "target-recursividad4-Debug-2f867b23fbc78a0e871b.json",
 					"name" : "recursividad4",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "recursividad5::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-recursividad5-Debug-367ac4d11ca4238bb05a.json",
+					"jsonFile" : "target-recursividad5-Debug-de1cfee4307254d4400d.json",
 					"name" : "recursividad5",
 					"projectIndex" : 0
 				},
@@ -418,8 +454,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug",
-		"source" : "C:/Users/jonat/CLionProjects/fundamentosProgramacion"
+		"build" : "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug",
+		"source" : "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-"
 	},
 	"version" : 
 	{

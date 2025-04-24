@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "recursividad3.exe"
+			"path" : "examen4.exe"
 		},
 		{
-			"path" : "recursividad3.pdb"
+			"path" : "examen4.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 135,
+				"line" : 141,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "recursividad3::@6890427a1f51a3e7e1df",
+	"id" : "examen4::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "recursividad3",
-	"nameOnDisk" : "recursividad3.exe",
+	"name" : "examen4",
+	"nameOnDisk" : "examen4.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "recursividad/recursividad3.cpp",
+			"path" : "workshops/examen,e4.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

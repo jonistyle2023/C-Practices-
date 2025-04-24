@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "recursividad5.exe"
+			"path" : "recursividad2.exe"
 		},
 		{
-			"path" : "recursividad5.pdb"
+			"path" : "recursividad2.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 137,
+				"line" : 146,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "recursividad5::@6890427a1f51a3e7e1df",
+	"id" : "recursividad2::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "recursividad5",
-	"nameOnDisk" : "recursividad5.exe",
+	"name" : "recursividad2",
+	"nameOnDisk" : "recursividad2.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "recursividad/recursividad5.cpp",
+			"path" : "recursividad/recursividad2.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

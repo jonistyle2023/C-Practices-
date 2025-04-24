@@ -128,6 +128,18 @@ add_executable(taller3 workshops/EJ_U2_011.cpp)
 ## Ejecutable para el ejercicio de fibonacci
 add_executable(fibonacci workshops/fibonacci.cpp)
 
+## Ejecutable para el ejercicio de examen
+add_executable(examen Exams/examenP1-e1.cpp)
+
+## Ejecutable para el ejercicio de examen2
+add_executable(examen2 Exams/examenP1-e2.cpp)
+
+## Ejecutable para el ejercicio de examen3
+add_executable(examen3 Exams/examenP1-e3.cpp)
+
+## Ejecutable para el ejercicio de examen4
+add_executable(examen4 Exams/examenP1-e4.cpp)
+
 # EJERCICIOS DE RECURSIVIDAD
 ## Ejecutable para el ejercicio de recursividad1
 add_executable(recursividad1 recursividad/recursividad1.cpp)
