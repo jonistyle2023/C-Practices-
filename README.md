@@ -10,7 +10,7 @@
 
 ---
 
-## **Secciónes**
+## **Contenido**
 
 ### **Sección 1: Estructura de un programa en C++**
 

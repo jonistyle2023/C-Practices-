@@ -346,28 +346,28 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "examen::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-examen-Debug-cf7165b61feb339fe076.json",
+					"jsonFile" : "target-examen-Debug-9ba13c20a4f096e9d656.json",
 					"name" : "examen",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "examen2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-examen2-Debug-0e8f3b4859b076b10435.json",
+					"jsonFile" : "target-examen2-Debug-932fb1218dc72b56a5cc.json",
 					"name" : "examen2",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "examen3::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-examen3-Debug-2f8855ef0933bb4f15a6.json",
+					"jsonFile" : "target-examen3-Debug-6a938f60f6930b2abead.json",
 					"name" : "examen3",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "examen4::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-examen4-Debug-33c4d9ea33f9cc3f621c.json",
+					"jsonFile" : "target-examen4-Debug-4cc5a5f3b1825a9c8a30.json",
 					"name" : "examen4",
 					"projectIndex" : 0
 				},
@@ -454,8 +454,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug",
-		"source" : "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-"
+		"build" : "C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug",
+		"source" : "C:/Users/jonat/CLionProjects/fundamentosProgramacion"
 	},
 	"version" : 
 	{
