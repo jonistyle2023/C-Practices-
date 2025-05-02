@@ -60,6 +60,13 @@
 
 ---
 
+### **Sección 6: Punteros y Arreglos**
+- **Ejemplo 24:** Uso de arreglos *Unidimensionales*.
+- **Ejemplo 25:** Uso de arreglos *Bidimensionales*.
+- **Ejemplo 26:** Uso de arreglos *Tridimensionales*.
+
+---
+
 ## **Ejercicios**
 
 ### **Ejercicios Secciones 1 - 3.**
