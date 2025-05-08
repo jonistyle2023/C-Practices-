@@ -15,7 +15,7 @@ struct criterioaut {
 struct empresa {
     char nemp[30];
     char demp[30];
-    criterioaut dca; // Se agregó correctamente la estructura anidada
+    criterioaut dca; // Aquí agrego correctamente la estructura anidada
     float paemp;
 };
 

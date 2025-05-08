@@ -10,7 +10,7 @@
 
 ---
 
-## **Secciónes**
+## **Contenido**
 
 ### **Sección 1: Estructura de un programa en C++**
 
@@ -57,6 +57,13 @@
 - **Ejemplo 21:** Función de intercambio con 3 variables.
 - **Ejemplo 22:** Función de intercambio recursiva.
 - **Ejemplo 23:** Función recursiva para calcular el n-ésimo número de Fibonacci (Hecho con ChatGPT).
+
+---
+
+### **Sección 6: Punteros y Arreglos**
+- **Ejemplo 24:** Uso de arreglos *Unidimensionales*.
+- **Ejemplo 25:** Uso de arreglos *Bidimensionales*.
+- **Ejemplo 26:** Uso de arreglos *Tridimensionales*.
 
 ---
 

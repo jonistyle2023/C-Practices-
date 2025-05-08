@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target fundamentosProgramacion
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake
 
 build cmake_object_order_depends_target_fundamentosProgramacion: phony || .
 
-build CMakeFiles/fundamentosProgramacion.dir/main.cpp.obj: CXX_COMPILER__fundamentosProgramacion_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/main.cpp || cmake_object_order_depends_target_fundamentosProgramacion
+build CMakeFiles/fundamentosProgramacion.dir/main.cpp.obj: CXX_COMPILER__fundamentosProgramacion_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/main.cpp || cmake_object_order_depends_target_fundamentosProgramacion
   DEP_FILE = CMakeFiles\fundamentosProgramacion.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\fundamentosProgramacion.dir
@@ -82,7 +82,7 @@ build fundamentosProgramacion.exe: CXX_EXECUTABLE_LINKER__fundamentosProgramacio
 
 build cmake_object_order_depends_target_ejemplo1: phony || .
 
-build CMakeFiles/ejemplo1.dir/section1/ejemplo1.cpp.obj: CXX_COMPILER__ejemplo1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section1/ejemplo1.cpp || cmake_object_order_depends_target_ejemplo1
+build CMakeFiles/ejemplo1.dir/section1/ejemplo1.cpp.obj: CXX_COMPILER__ejemplo1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section1/ejemplo1.cpp || cmake_object_order_depends_target_ejemplo1
   DEP_FILE = CMakeFiles\ejemplo1.dir\section1\ejemplo1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo1.dir
@@ -115,7 +115,7 @@ build ejemplo1.exe: CXX_EXECUTABLE_LINKER__ejemplo1_Debug CMakeFiles/ejemplo1.di
 
 build cmake_object_order_depends_target_ejemplo2: phony || .
 
-build CMakeFiles/ejemplo2.dir/section1/ejemplo2.cpp.obj: CXX_COMPILER__ejemplo2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section1/ejemplo2.cpp || cmake_object_order_depends_target_ejemplo2
+build CMakeFiles/ejemplo2.dir/section1/ejemplo2.cpp.obj: CXX_COMPILER__ejemplo2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section1/ejemplo2.cpp || cmake_object_order_depends_target_ejemplo2
   DEP_FILE = CMakeFiles\ejemplo2.dir\section1\ejemplo2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo2.dir
@@ -148,7 +148,7 @@ build ejemplo2.exe: CXX_EXECUTABLE_LINKER__ejemplo2_Debug CMakeFiles/ejemplo2.di
 
 build cmake_object_order_depends_target_ejemplo3: phony || .
 
-build CMakeFiles/ejemplo3.dir/section1/ejemplo3.cpp.obj: CXX_COMPILER__ejemplo3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section1/ejemplo3.cpp || cmake_object_order_depends_target_ejemplo3
+build CMakeFiles/ejemplo3.dir/section1/ejemplo3.cpp.obj: CXX_COMPILER__ejemplo3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section1/ejemplo3.cpp || cmake_object_order_depends_target_ejemplo3
   DEP_FILE = CMakeFiles\ejemplo3.dir\section1\ejemplo3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo3.dir
@@ -181,7 +181,7 @@ build ejemplo3.exe: CXX_EXECUTABLE_LINKER__ejemplo3_Debug CMakeFiles/ejemplo3.di
 
 build cmake_object_order_depends_target_ejemplo4: phony || .
 
-build CMakeFiles/ejemplo4.dir/section2/ejemplo4.cpp.obj: CXX_COMPILER__ejemplo4_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section2/ejemplo4.cpp || cmake_object_order_depends_target_ejemplo4
+build CMakeFiles/ejemplo4.dir/section2/ejemplo4.cpp.obj: CXX_COMPILER__ejemplo4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo4.cpp || cmake_object_order_depends_target_ejemplo4
   DEP_FILE = CMakeFiles\ejemplo4.dir\section2\ejemplo4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo4.dir
@@ -214,7 +214,7 @@ build ejemplo4.exe: CXX_EXECUTABLE_LINKER__ejemplo4_Debug CMakeFiles/ejemplo4.di
 
 build cmake_object_order_depends_target_ejemplo5: phony || .
 
-build CMakeFiles/ejemplo5.dir/section2/ejemplo5.cpp.obj: CXX_COMPILER__ejemplo5_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section2/ejemplo5.cpp || cmake_object_order_depends_target_ejemplo5
+build CMakeFiles/ejemplo5.dir/section2/ejemplo5.cpp.obj: CXX_COMPILER__ejemplo5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo5.cpp || cmake_object_order_depends_target_ejemplo5
   DEP_FILE = CMakeFiles\ejemplo5.dir\section2\ejemplo5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo5.dir
@@ -247,7 +247,7 @@ build ejemplo5.exe: CXX_EXECUTABLE_LINKER__ejemplo5_Debug CMakeFiles/ejemplo5.di
 
 build cmake_object_order_depends_target_ejemplo6: phony || .
 
-build CMakeFiles/ejemplo6.dir/section2/ejemplo6.cpp.obj: CXX_COMPILER__ejemplo6_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section2/ejemplo6.cpp || cmake_object_order_depends_target_ejemplo6
+build CMakeFiles/ejemplo6.dir/section2/ejemplo6.cpp.obj: CXX_COMPILER__ejemplo6_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo6.cpp || cmake_object_order_depends_target_ejemplo6
   DEP_FILE = CMakeFiles\ejemplo6.dir\section2\ejemplo6.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo6.dir
@@ -280,7 +280,7 @@ build ejemplo6.exe: CXX_EXECUTABLE_LINKER__ejemplo6_Debug CMakeFiles/ejemplo6.di
 
 build cmake_object_order_depends_target_ejemplo7: phony || .
 
-build CMakeFiles/ejemplo7.dir/section2/ejemplo7.cpp.obj: CXX_COMPILER__ejemplo7_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section2/ejemplo7.cpp || cmake_object_order_depends_target_ejemplo7
+build CMakeFiles/ejemplo7.dir/section2/ejemplo7.cpp.obj: CXX_COMPILER__ejemplo7_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo7.cpp || cmake_object_order_depends_target_ejemplo7
   DEP_FILE = CMakeFiles\ejemplo7.dir\section2\ejemplo7.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo7.dir
@@ -313,7 +313,7 @@ build ejemplo7.exe: CXX_EXECUTABLE_LINKER__ejemplo7_Debug CMakeFiles/ejemplo7.di
 
 build cmake_object_order_depends_target_ejemplo8: phony || .
 
-build CMakeFiles/ejemplo8.dir/section3/ejemplo8.cpp.obj: CXX_COMPILER__ejemplo8_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo8.cpp || cmake_object_order_depends_target_ejemplo8
+build CMakeFiles/ejemplo8.dir/section3/ejemplo8.cpp.obj: CXX_COMPILER__ejemplo8_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo8.cpp || cmake_object_order_depends_target_ejemplo8
   DEP_FILE = CMakeFiles\ejemplo8.dir\section3\ejemplo8.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo8.dir
@@ -346,7 +346,7 @@ build ejemplo8.exe: CXX_EXECUTABLE_LINKER__ejemplo8_Debug CMakeFiles/ejemplo8.di
 
 build cmake_object_order_depends_target_ejemplo9: phony || .
 
-build CMakeFiles/ejemplo9.dir/section3/ejemplo9.cpp.obj: CXX_COMPILER__ejemplo9_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo9.cpp || cmake_object_order_depends_target_ejemplo9
+build CMakeFiles/ejemplo9.dir/section3/ejemplo9.cpp.obj: CXX_COMPILER__ejemplo9_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo9.cpp || cmake_object_order_depends_target_ejemplo9
   DEP_FILE = CMakeFiles\ejemplo9.dir\section3\ejemplo9.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo9.dir
@@ -379,7 +379,7 @@ build ejemplo9.exe: CXX_EXECUTABLE_LINKER__ejemplo9_Debug CMakeFiles/ejemplo9.di
 
 build cmake_object_order_depends_target_ejemplo10: phony || .
 
-build CMakeFiles/ejemplo10.dir/section3/ejemplo10.cpp.obj: CXX_COMPILER__ejemplo10_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo10.cpp || cmake_object_order_depends_target_ejemplo10
+build CMakeFiles/ejemplo10.dir/section3/ejemplo10.cpp.obj: CXX_COMPILER__ejemplo10_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo10.cpp || cmake_object_order_depends_target_ejemplo10
   DEP_FILE = CMakeFiles\ejemplo10.dir\section3\ejemplo10.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo10.dir
@@ -412,7 +412,7 @@ build ejemplo10.exe: CXX_EXECUTABLE_LINKER__ejemplo10_Debug CMakeFiles/ejemplo10
 
 build cmake_object_order_depends_target_ejemplo11: phony || .
 
-build CMakeFiles/ejemplo11.dir/section3/ejemplo11.cpp.obj: CXX_COMPILER__ejemplo11_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo11.cpp || cmake_object_order_depends_target_ejemplo11
+build CMakeFiles/ejemplo11.dir/section3/ejemplo11.cpp.obj: CXX_COMPILER__ejemplo11_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo11.cpp || cmake_object_order_depends_target_ejemplo11
   DEP_FILE = CMakeFiles\ejemplo11.dir\section3\ejemplo11.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo11.dir
@@ -445,7 +445,7 @@ build ejemplo11.exe: CXX_EXECUTABLE_LINKER__ejemplo11_Debug CMakeFiles/ejemplo11
 
 build cmake_object_order_depends_target_ejemplo12: phony || .
 
-build CMakeFiles/ejemplo12.dir/section3/ejemplo12.cpp.obj: CXX_COMPILER__ejemplo12_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo12.cpp || cmake_object_order_depends_target_ejemplo12
+build CMakeFiles/ejemplo12.dir/section3/ejemplo12.cpp.obj: CXX_COMPILER__ejemplo12_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo12.cpp || cmake_object_order_depends_target_ejemplo12
   DEP_FILE = CMakeFiles\ejemplo12.dir\section3\ejemplo12.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo12.dir
@@ -478,7 +478,7 @@ build ejemplo12.exe: CXX_EXECUTABLE_LINKER__ejemplo12_Debug CMakeFiles/ejemplo12
 
 build cmake_object_order_depends_target_ejemplo13: phony || .
 
-build CMakeFiles/ejemplo13.dir/section4/ejemplo13.cpp.obj: CXX_COMPILER__ejemplo13_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo13.cpp || cmake_object_order_depends_target_ejemplo13
+build CMakeFiles/ejemplo13.dir/section4/ejemplo13.cpp.obj: CXX_COMPILER__ejemplo13_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo13.cpp || cmake_object_order_depends_target_ejemplo13
   DEP_FILE = CMakeFiles\ejemplo13.dir\section4\ejemplo13.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo13.dir
@@ -511,7 +511,7 @@ build ejemplo13.exe: CXX_EXECUTABLE_LINKER__ejemplo13_Debug CMakeFiles/ejemplo13
 
 build cmake_object_order_depends_target_ejemplo14: phony || .
 
-build CMakeFiles/ejemplo14.dir/section4/ejemplo14.cpp.obj: CXX_COMPILER__ejemplo14_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo14.cpp || cmake_object_order_depends_target_ejemplo14
+build CMakeFiles/ejemplo14.dir/section4/ejemplo14.cpp.obj: CXX_COMPILER__ejemplo14_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo14.cpp || cmake_object_order_depends_target_ejemplo14
   DEP_FILE = CMakeFiles\ejemplo14.dir\section4\ejemplo14.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo14.dir
@@ -544,7 +544,7 @@ build ejemplo14.exe: CXX_EXECUTABLE_LINKER__ejemplo14_Debug CMakeFiles/ejemplo14
 
 build cmake_object_order_depends_target_ejemplo15: phony || .
 
-build CMakeFiles/ejemplo15.dir/section4/ejemplo15.cpp.obj: CXX_COMPILER__ejemplo15_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo15.cpp || cmake_object_order_depends_target_ejemplo15
+build CMakeFiles/ejemplo15.dir/section4/ejemplo15.cpp.obj: CXX_COMPILER__ejemplo15_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo15.cpp || cmake_object_order_depends_target_ejemplo15
   DEP_FILE = CMakeFiles\ejemplo15.dir\section4\ejemplo15.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo15.dir
@@ -577,7 +577,7 @@ build ejemplo15.exe: CXX_EXECUTABLE_LINKER__ejemplo15_Debug CMakeFiles/ejemplo15
 
 build cmake_object_order_depends_target_ejemplo16: phony || .
 
-build CMakeFiles/ejemplo16.dir/section4/ejemplo16.cpp.obj: CXX_COMPILER__ejemplo16_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo16.cpp || cmake_object_order_depends_target_ejemplo16
+build CMakeFiles/ejemplo16.dir/section4/ejemplo16.cpp.obj: CXX_COMPILER__ejemplo16_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo16.cpp || cmake_object_order_depends_target_ejemplo16
   DEP_FILE = CMakeFiles\ejemplo16.dir\section4\ejemplo16.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo16.dir
@@ -610,7 +610,7 @@ build ejemplo16.exe: CXX_EXECUTABLE_LINKER__ejemplo16_Debug CMakeFiles/ejemplo16
 
 build cmake_object_order_depends_target_ejemplo17: phony || .
 
-build CMakeFiles/ejemplo17.dir/section4/ejemplo17.cpp.obj: CXX_COMPILER__ejemplo17_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo17.cpp || cmake_object_order_depends_target_ejemplo17
+build CMakeFiles/ejemplo17.dir/section4/ejemplo17.cpp.obj: CXX_COMPILER__ejemplo17_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo17.cpp || cmake_object_order_depends_target_ejemplo17
   DEP_FILE = CMakeFiles\ejemplo17.dir\section4\ejemplo17.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo17.dir
@@ -643,7 +643,7 @@ build ejemplo17.exe: CXX_EXECUTABLE_LINKER__ejemplo17_Debug CMakeFiles/ejemplo17
 
 build cmake_object_order_depends_target_ejemplo18: phony || .
 
-build CMakeFiles/ejemplo18.dir/section4/ejemplo18.cpp.obj: CXX_COMPILER__ejemplo18_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo18.cpp || cmake_object_order_depends_target_ejemplo18
+build CMakeFiles/ejemplo18.dir/section4/ejemplo18.cpp.obj: CXX_COMPILER__ejemplo18_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo18.cpp || cmake_object_order_depends_target_ejemplo18
   DEP_FILE = CMakeFiles\ejemplo18.dir\section4\ejemplo18.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo18.dir
@@ -676,7 +676,7 @@ build ejemplo18.exe: CXX_EXECUTABLE_LINKER__ejemplo18_Debug CMakeFiles/ejemplo18
 
 build cmake_object_order_depends_target_ejemplo19: phony || .
 
-build CMakeFiles/ejemplo19.dir/section4/ejemplo19.cpp.obj: CXX_COMPILER__ejemplo19_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo19.cpp || cmake_object_order_depends_target_ejemplo19
+build CMakeFiles/ejemplo19.dir/section4/ejemplo19.cpp.obj: CXX_COMPILER__ejemplo19_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo19.cpp || cmake_object_order_depends_target_ejemplo19
   DEP_FILE = CMakeFiles\ejemplo19.dir\section4\ejemplo19.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo19.dir
@@ -709,11 +709,11 @@ build ejemplo19.exe: CXX_EXECUTABLE_LINKER__ejemplo19_Debug CMakeFiles/ejemplo19
 
 build cmake_object_order_depends_target_ejemplo20: phony || .
 
-build CMakeFiles/ejemplo20.dir/section4/ejemplo20.cpp.obj: CXX_COMPILER__ejemplo20_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo20.cpp || cmake_object_order_depends_target_ejemplo20
-  DEP_FILE = CMakeFiles\ejemplo20.dir\section4\ejemplo20.cpp.obj.d
+build CMakeFiles/ejemplo20.dir/section5/ejemplo20.cpp.obj: CXX_COMPILER__ejemplo20_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo20.cpp || cmake_object_order_depends_target_ejemplo20
+  DEP_FILE = CMakeFiles\ejemplo20.dir\section5\ejemplo20.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo20.dir
-  OBJECT_FILE_DIR = CMakeFiles\ejemplo20.dir\section4
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo20.dir\section5
 
 
 # =============================================================================
@@ -723,7 +723,7 @@ build CMakeFiles/ejemplo20.dir/section4/ejemplo20.cpp.obj: CXX_COMPILER__ejemplo
 #############################################
 # Link the executable ejemplo20.exe
 
-build ejemplo20.exe: CXX_EXECUTABLE_LINKER__ejemplo20_Debug CMakeFiles/ejemplo20.dir/section4/ejemplo20.cpp.obj
+build ejemplo20.exe: CXX_EXECUTABLE_LINKER__ejemplo20_Debug CMakeFiles/ejemplo20.dir/section5/ejemplo20.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ejemplo20.dir
@@ -742,11 +742,11 @@ build ejemplo20.exe: CXX_EXECUTABLE_LINKER__ejemplo20_Debug CMakeFiles/ejemplo20
 
 build cmake_object_order_depends_target_ejemplo21: phony || .
 
-build CMakeFiles/ejemplo21.dir/section4/ejemplo21.cpp.obj: CXX_COMPILER__ejemplo21_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo21.cpp || cmake_object_order_depends_target_ejemplo21
-  DEP_FILE = CMakeFiles\ejemplo21.dir\section4\ejemplo21.cpp.obj.d
+build CMakeFiles/ejemplo21.dir/section5/ejemplo21.cpp.obj: CXX_COMPILER__ejemplo21_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo21.cpp || cmake_object_order_depends_target_ejemplo21
+  DEP_FILE = CMakeFiles\ejemplo21.dir\section5\ejemplo21.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo21.dir
-  OBJECT_FILE_DIR = CMakeFiles\ejemplo21.dir\section4
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo21.dir\section5
 
 
 # =============================================================================
@@ -756,7 +756,7 @@ build CMakeFiles/ejemplo21.dir/section4/ejemplo21.cpp.obj: CXX_COMPILER__ejemplo
 #############################################
 # Link the executable ejemplo21.exe
 
-build ejemplo21.exe: CXX_EXECUTABLE_LINKER__ejemplo21_Debug CMakeFiles/ejemplo21.dir/section4/ejemplo21.cpp.obj
+build ejemplo21.exe: CXX_EXECUTABLE_LINKER__ejemplo21_Debug CMakeFiles/ejemplo21.dir/section5/ejemplo21.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ejemplo21.dir
@@ -775,11 +775,11 @@ build ejemplo21.exe: CXX_EXECUTABLE_LINKER__ejemplo21_Debug CMakeFiles/ejemplo21
 
 build cmake_object_order_depends_target_ejemplo22: phony || .
 
-build CMakeFiles/ejemplo22.dir/section4/ejemplo22.cpp.obj: CXX_COMPILER__ejemplo22_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo22.cpp || cmake_object_order_depends_target_ejemplo22
-  DEP_FILE = CMakeFiles\ejemplo22.dir\section4\ejemplo22.cpp.obj.d
+build CMakeFiles/ejemplo22.dir/section5/ejemplo22.cpp.obj: CXX_COMPILER__ejemplo22_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo22.cpp || cmake_object_order_depends_target_ejemplo22
+  DEP_FILE = CMakeFiles\ejemplo22.dir\section5\ejemplo22.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo22.dir
-  OBJECT_FILE_DIR = CMakeFiles\ejemplo22.dir\section4
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo22.dir\section5
 
 
 # =============================================================================
@@ -789,7 +789,7 @@ build CMakeFiles/ejemplo22.dir/section4/ejemplo22.cpp.obj: CXX_COMPILER__ejemplo
 #############################################
 # Link the executable ejemplo22.exe
 
-build ejemplo22.exe: CXX_EXECUTABLE_LINKER__ejemplo22_Debug CMakeFiles/ejemplo22.dir/section4/ejemplo22.cpp.obj
+build ejemplo22.exe: CXX_EXECUTABLE_LINKER__ejemplo22_Debug CMakeFiles/ejemplo22.dir/section5/ejemplo22.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ejemplo22.dir
@@ -808,11 +808,11 @@ build ejemplo22.exe: CXX_EXECUTABLE_LINKER__ejemplo22_Debug CMakeFiles/ejemplo22
 
 build cmake_object_order_depends_target_ejemplo23: phony || .
 
-build CMakeFiles/ejemplo23.dir/section4/ejemplo23.cpp.obj: CXX_COMPILER__ejemplo23_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo23.cpp || cmake_object_order_depends_target_ejemplo23
-  DEP_FILE = CMakeFiles\ejemplo23.dir\section4\ejemplo23.cpp.obj.d
+build CMakeFiles/ejemplo23.dir/section5/ejemplo23.cpp.obj: CXX_COMPILER__ejemplo23_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo23.cpp || cmake_object_order_depends_target_ejemplo23
+  DEP_FILE = CMakeFiles\ejemplo23.dir\section5\ejemplo23.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo23.dir
-  OBJECT_FILE_DIR = CMakeFiles\ejemplo23.dir\section4
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo23.dir\section5
 
 
 # =============================================================================
@@ -822,7 +822,7 @@ build CMakeFiles/ejemplo23.dir/section4/ejemplo23.cpp.obj: CXX_COMPILER__ejemplo
 #############################################
 # Link the executable ejemplo23.exe
 
-build ejemplo23.exe: CXX_EXECUTABLE_LINKER__ejemplo23_Debug CMakeFiles/ejemplo23.dir/section4/ejemplo23.cpp.obj
+build ejemplo23.exe: CXX_EXECUTABLE_LINKER__ejemplo23_Debug CMakeFiles/ejemplo23.dir/section5/ejemplo23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ejemplo23.dir
@@ -841,11 +841,19 @@ build ejemplo23.exe: CXX_EXECUTABLE_LINKER__ejemplo23_Debug CMakeFiles/ejemplo23
 
 build cmake_object_order_depends_target_ejemplo24: phony || .
 
+<<<<<<< HEAD
 build CMakeFiles/ejemplo24.dir/section4/ejemplo24.cpp.obj: CXX_COMPILER__ejemplo24_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo24.cpp || cmake_object_order_depends_target_ejemplo24
   DEP_FILE = CMakeFiles\ejemplo24.dir\section4\ejemplo24.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejemplo24.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo24.dir\section4
+=======
+build CMakeFiles/ejemplo24.dir/section6/ejemplo24.cpp.obj: CXX_COMPILER__ejemplo24_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo24.cpp || cmake_object_order_depends_target_ejemplo24
+  DEP_FILE = CMakeFiles\ejemplo24.dir\section6\ejemplo24.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo24.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo24.dir\section6
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
 
 
 # =============================================================================
@@ -855,7 +863,11 @@ build CMakeFiles/ejemplo24.dir/section4/ejemplo24.cpp.obj: CXX_COMPILER__ejemplo
 #############################################
 # Link the executable ejemplo24.exe
 
+<<<<<<< HEAD
 build ejemplo24.exe: CXX_EXECUTABLE_LINKER__ejemplo24_Debug CMakeFiles/ejemplo24.dir/section4/ejemplo24.cpp.obj
+=======
+build ejemplo24.exe: CXX_EXECUTABLE_LINKER__ejemplo24_Debug CMakeFiles/ejemplo24.dir/section6/ejemplo24.cpp.obj
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ejemplo24.dir
@@ -866,6 +878,75 @@ build ejemplo24.exe: CXX_EXECUTABLE_LINKER__ejemplo24_Debug CMakeFiles/ejemplo24
   TARGET_PDB = ejemplo24.exe.dbg
 
 # =============================================================================
+<<<<<<< HEAD
+=======
+# Object build statements for EXECUTABLE target ejemplo25
+
+
+#############################################
+# Order-only phony target for ejemplo25
+
+build cmake_object_order_depends_target_ejemplo25: phony || .
+
+build CMakeFiles/ejemplo25.dir/section6/ejemplo25.cpp.obj: CXX_COMPILER__ejemplo25_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo25.cpp || cmake_object_order_depends_target_ejemplo25
+  DEP_FILE = CMakeFiles\ejemplo25.dir\section6\ejemplo25.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo25.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo25.dir\section6
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejemplo25
+
+
+#############################################
+# Link the executable ejemplo25.exe
+
+build ejemplo25.exe: CXX_EXECUTABLE_LINKER__ejemplo25_Debug CMakeFiles/ejemplo25.dir/section6/ejemplo25.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejemplo25.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejemplo25.exe
+  TARGET_IMPLIB = libejemplo25.dll.a
+  TARGET_PDB = ejemplo25.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejemplo26
+
+
+#############################################
+# Order-only phony target for ejemplo26
+
+build cmake_object_order_depends_target_ejemplo26: phony || .
+
+build CMakeFiles/ejemplo26.dir/section6/ejemplo26.cpp.obj: CXX_COMPILER__ejemplo26_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo26.cpp || cmake_object_order_depends_target_ejemplo26
+  DEP_FILE = CMakeFiles\ejemplo26.dir\section6\ejemplo26.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo26.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo26.dir\section6
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejemplo26
+
+
+#############################################
+# Link the executable ejemplo26.exe
+
+build ejemplo26.exe: CXX_EXECUTABLE_LINKER__ejemplo26_Debug CMakeFiles/ejemplo26.dir/section6/ejemplo26.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejemplo26.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejemplo26.exe
+  TARGET_IMPLIB = libejemplo26.dll.a
+  TARGET_PDB = ejemplo26.exe.dbg
+
+# =============================================================================
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
 # Object build statements for EXECUTABLE target leccion1
 
 
@@ -874,7 +955,7 @@ build ejemplo24.exe: CXX_EXECUTABLE_LINKER__ejemplo24_Debug CMakeFiles/ejemplo24
 
 build cmake_object_order_depends_target_leccion1: phony || .
 
-build CMakeFiles/leccion1.dir/lessons/leccion1.cpp.obj: CXX_COMPILER__leccion1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/lessons/leccion1.cpp || cmake_object_order_depends_target_leccion1
+build CMakeFiles/leccion1.dir/lessons/leccion1.cpp.obj: CXX_COMPILER__leccion1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/lessons/leccion1.cpp || cmake_object_order_depends_target_leccion1
   DEP_FILE = CMakeFiles\leccion1.dir\lessons\leccion1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\leccion1.dir
@@ -907,7 +988,7 @@ build leccion1.exe: CXX_EXECUTABLE_LINKER__leccion1_Debug CMakeFiles/leccion1.di
 
 build cmake_object_order_depends_target_ejercicio1: phony || .
 
-build CMakeFiles/ejercicio1.dir/exercises1-3/ejercicio1.cpp.obj: CXX_COMPILER__ejercicio1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio1.cpp || cmake_object_order_depends_target_ejercicio1
+build CMakeFiles/ejercicio1.dir/exercises1-3/ejercicio1.cpp.obj: CXX_COMPILER__ejercicio1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio1.cpp || cmake_object_order_depends_target_ejercicio1
   DEP_FILE = CMakeFiles\ejercicio1.dir\exercises1-3\ejercicio1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejercicio1.dir
@@ -940,7 +1021,7 @@ build ejercicio1.exe: CXX_EXECUTABLE_LINKER__ejercicio1_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio2: phony || .
 
-build CMakeFiles/ejercicio2.dir/exercises1-3/ejercicio2.cpp.obj: CXX_COMPILER__ejercicio2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio2.cpp || cmake_object_order_depends_target_ejercicio2
+build CMakeFiles/ejercicio2.dir/exercises1-3/ejercicio2.cpp.obj: CXX_COMPILER__ejercicio2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio2.cpp || cmake_object_order_depends_target_ejercicio2
   DEP_FILE = CMakeFiles\ejercicio2.dir\exercises1-3\ejercicio2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejercicio2.dir
@@ -973,7 +1054,7 @@ build ejercicio2.exe: CXX_EXECUTABLE_LINKER__ejercicio2_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio3: phony || .
 
-build CMakeFiles/ejercicio3.dir/exercises1-3/ejercicio3.cpp.obj: CXX_COMPILER__ejercicio3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio3.cpp || cmake_object_order_depends_target_ejercicio3
+build CMakeFiles/ejercicio3.dir/exercises1-3/ejercicio3.cpp.obj: CXX_COMPILER__ejercicio3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio3.cpp || cmake_object_order_depends_target_ejercicio3
   DEP_FILE = CMakeFiles\ejercicio3.dir\exercises1-3\ejercicio3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejercicio3.dir
@@ -1006,7 +1087,7 @@ build ejercicio3.exe: CXX_EXECUTABLE_LINKER__ejercicio3_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio4: phony || .
 
-build CMakeFiles/ejercicio4.dir/exercises1-3/ejercicio4.cpp.obj: CXX_COMPILER__ejercicio4_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio4.cpp || cmake_object_order_depends_target_ejercicio4
+build CMakeFiles/ejercicio4.dir/exercises1-3/ejercicio4.cpp.obj: CXX_COMPILER__ejercicio4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio4.cpp || cmake_object_order_depends_target_ejercicio4
   DEP_FILE = CMakeFiles\ejercicio4.dir\exercises1-3\ejercicio4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejercicio4.dir
@@ -1039,7 +1120,7 @@ build ejercicio4.exe: CXX_EXECUTABLE_LINKER__ejercicio4_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio5: phony || .
 
-build CMakeFiles/ejercicio5.dir/exercises1-3/ejercicio5.cpp.obj: CXX_COMPILER__ejercicio5_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio5.cpp || cmake_object_order_depends_target_ejercicio5
+build CMakeFiles/ejercicio5.dir/exercises1-3/ejercicio5.cpp.obj: CXX_COMPILER__ejercicio5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio5.cpp || cmake_object_order_depends_target_ejercicio5
   DEP_FILE = CMakeFiles\ejercicio5.dir\exercises1-3\ejercicio5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejercicio5.dir
@@ -1072,7 +1153,7 @@ build ejercicio5.exe: CXX_EXECUTABLE_LINKER__ejercicio5_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio6: phony || .
 
-build CMakeFiles/ejercicio6.dir/exercises1-3/ejercicio6.cpp.obj: CXX_COMPILER__ejercicio6_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio6.cpp || cmake_object_order_depends_target_ejercicio6
+build CMakeFiles/ejercicio6.dir/exercises1-3/ejercicio6.cpp.obj: CXX_COMPILER__ejercicio6_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio6.cpp || cmake_object_order_depends_target_ejercicio6
   DEP_FILE = CMakeFiles\ejercicio6.dir\exercises1-3\ejercicio6.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejercicio6.dir
@@ -1105,7 +1186,7 @@ build ejercicio6.exe: CXX_EXECUTABLE_LINKER__ejercicio6_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio7: phony || .
 
-build CMakeFiles/ejercicio7.dir/exercises1-3/ejercicio7.cpp.obj: CXX_COMPILER__ejercicio7_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio7.cpp || cmake_object_order_depends_target_ejercicio7
+build CMakeFiles/ejercicio7.dir/exercises1-3/ejercicio7.cpp.obj: CXX_COMPILER__ejercicio7_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio7.cpp || cmake_object_order_depends_target_ejercicio7
   DEP_FILE = CMakeFiles\ejercicio7.dir\exercises1-3\ejercicio7.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejercicio7.dir
@@ -1138,7 +1219,7 @@ build ejercicio7.exe: CXX_EXECUTABLE_LINKER__ejercicio7_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio8: phony || .
 
-build CMakeFiles/ejercicio8.dir/exercises1-3/ejercicio8.cpp.obj: CXX_COMPILER__ejercicio8_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio8.cpp || cmake_object_order_depends_target_ejercicio8
+build CMakeFiles/ejercicio8.dir/exercises1-3/ejercicio8.cpp.obj: CXX_COMPILER__ejercicio8_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio8.cpp || cmake_object_order_depends_target_ejercicio8
   DEP_FILE = CMakeFiles\ejercicio8.dir\exercises1-3\ejercicio8.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ejercicio8.dir
@@ -1171,7 +1252,7 @@ build ejercicio8.exe: CXX_EXECUTABLE_LINKER__ejercicio8_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_taller1: phony || .
 
-build CMakeFiles/taller1.dir/workshops/taller1.cpp.obj: CXX_COMPILER__taller1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/workshops/taller1.cpp || cmake_object_order_depends_target_taller1
+build CMakeFiles/taller1.dir/workshops/taller1.cpp.obj: CXX_COMPILER__taller1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/taller1.cpp || cmake_object_order_depends_target_taller1
   DEP_FILE = CMakeFiles\taller1.dir\workshops\taller1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\taller1.dir
@@ -1204,7 +1285,7 @@ build taller1.exe: CXX_EXECUTABLE_LINKER__taller1_Debug CMakeFiles/taller1.dir/w
 
 build cmake_object_order_depends_target_taller2: phony || .
 
-build CMakeFiles/taller2.dir/workshops/taller2.cpp.obj: CXX_COMPILER__taller2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/workshops/taller2.cpp || cmake_object_order_depends_target_taller2
+build CMakeFiles/taller2.dir/workshops/taller2.cpp.obj: CXX_COMPILER__taller2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/taller2.cpp || cmake_object_order_depends_target_taller2
   DEP_FILE = CMakeFiles\taller2.dir\workshops\taller2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\taller2.dir
@@ -1237,7 +1318,7 @@ build taller2.exe: CXX_EXECUTABLE_LINKER__taller2_Debug CMakeFiles/taller2.dir/w
 
 build cmake_object_order_depends_target_taller3: phony || .
 
-build CMakeFiles/taller3.dir/workshops/EJ_U2_011.cpp.obj: CXX_COMPILER__taller3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/workshops/EJ_U2_011.cpp || cmake_object_order_depends_target_taller3
+build CMakeFiles/taller3.dir/workshops/EJ_U2_011.cpp.obj: CXX_COMPILER__taller3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/EJ_U2_011.cpp || cmake_object_order_depends_target_taller3
   DEP_FILE = CMakeFiles\taller3.dir\workshops\EJ_U2_011.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\taller3.dir
@@ -1270,7 +1351,7 @@ build taller3.exe: CXX_EXECUTABLE_LINKER__taller3_Debug CMakeFiles/taller3.dir/w
 
 build cmake_object_order_depends_target_fibonacci: phony || .
 
-build CMakeFiles/fibonacci.dir/workshops/fibonacci.cpp.obj: CXX_COMPILER__fibonacci_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/workshops/fibonacci.cpp || cmake_object_order_depends_target_fibonacci
+build CMakeFiles/fibonacci.dir/workshops/fibonacci.cpp.obj: CXX_COMPILER__fibonacci_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/fibonacci.cpp || cmake_object_order_depends_target_fibonacci
   DEP_FILE = CMakeFiles\fibonacci.dir\workshops\fibonacci.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\fibonacci.dir
@@ -1303,7 +1384,11 @@ build fibonacci.exe: CXX_EXECUTABLE_LINKER__fibonacci_Debug CMakeFiles/fibonacci
 
 build cmake_object_order_depends_target_examen: phony || .
 
+<<<<<<< HEAD
 build CMakeFiles/examen.dir/Exams/examenP1-e1.cpp.obj: CXX_COMPILER__examen_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/Exams/examenP1-e1.cpp || cmake_object_order_depends_target_examen
+=======
+build CMakeFiles/examen.dir/Exams/examenP1-e1.cpp.obj: CXX_COMPILER__examen_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e1.cpp || cmake_object_order_depends_target_examen
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
   DEP_FILE = CMakeFiles\examen.dir\Exams\examenP1-e1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\examen.dir
@@ -1336,7 +1421,11 @@ build examen.exe: CXX_EXECUTABLE_LINKER__examen_Debug CMakeFiles/examen.dir/Exam
 
 build cmake_object_order_depends_target_examen2: phony || .
 
+<<<<<<< HEAD
 build CMakeFiles/examen2.dir/Exams/examenP1-e2.cpp.obj: CXX_COMPILER__examen2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/Exams/examenP1-e2.cpp || cmake_object_order_depends_target_examen2
+=======
+build CMakeFiles/examen2.dir/Exams/examenP1-e2.cpp.obj: CXX_COMPILER__examen2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e2.cpp || cmake_object_order_depends_target_examen2
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
   DEP_FILE = CMakeFiles\examen2.dir\Exams\examenP1-e2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\examen2.dir
@@ -1369,7 +1458,11 @@ build examen2.exe: CXX_EXECUTABLE_LINKER__examen2_Debug CMakeFiles/examen2.dir/E
 
 build cmake_object_order_depends_target_examen3: phony || .
 
+<<<<<<< HEAD
 build CMakeFiles/examen3.dir/Exams/examenP1-e3.cpp.obj: CXX_COMPILER__examen3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/Exams/examenP1-e3.cpp || cmake_object_order_depends_target_examen3
+=======
+build CMakeFiles/examen3.dir/Exams/examenP1-e3.cpp.obj: CXX_COMPILER__examen3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e3.cpp || cmake_object_order_depends_target_examen3
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
   DEP_FILE = CMakeFiles\examen3.dir\Exams\examenP1-e3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\examen3.dir
@@ -1402,7 +1495,11 @@ build examen3.exe: CXX_EXECUTABLE_LINKER__examen3_Debug CMakeFiles/examen3.dir/E
 
 build cmake_object_order_depends_target_examen4: phony || .
 
+<<<<<<< HEAD
 build CMakeFiles/examen4.dir/Exams/examenP1-e4.cpp.obj: CXX_COMPILER__examen4_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/Exams/examenP1-e4.cpp || cmake_object_order_depends_target_examen4
+=======
+build CMakeFiles/examen4.dir/Exams/examenP1-e4.cpp.obj: CXX_COMPILER__examen4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e4.cpp || cmake_object_order_depends_target_examen4
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
   DEP_FILE = CMakeFiles\examen4.dir\Exams\examenP1-e4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\examen4.dir
@@ -1435,7 +1532,7 @@ build examen4.exe: CXX_EXECUTABLE_LINKER__examen4_Debug CMakeFiles/examen4.dir/E
 
 build cmake_object_order_depends_target_recursividad1: phony || .
 
-build CMakeFiles/recursividad1.dir/recursividad/recursividad1.cpp.obj: CXX_COMPILER__recursividad1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad1.cpp || cmake_object_order_depends_target_recursividad1
+build CMakeFiles/recursividad1.dir/recursividad/recursividad1.cpp.obj: CXX_COMPILER__recursividad1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad1.cpp || cmake_object_order_depends_target_recursividad1
   DEP_FILE = CMakeFiles\recursividad1.dir\recursividad\recursividad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\recursividad1.dir
@@ -1468,7 +1565,7 @@ build recursividad1.exe: CXX_EXECUTABLE_LINKER__recursividad1_Debug CMakeFiles/r
 
 build cmake_object_order_depends_target_recursividad2: phony || .
 
-build CMakeFiles/recursividad2.dir/recursividad/recursividad2.cpp.obj: CXX_COMPILER__recursividad2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad2.cpp || cmake_object_order_depends_target_recursividad2
+build CMakeFiles/recursividad2.dir/recursividad/recursividad2.cpp.obj: CXX_COMPILER__recursividad2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad2.cpp || cmake_object_order_depends_target_recursividad2
   DEP_FILE = CMakeFiles\recursividad2.dir\recursividad\recursividad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\recursividad2.dir
@@ -1501,7 +1598,7 @@ build recursividad2.exe: CXX_EXECUTABLE_LINKER__recursividad2_Debug CMakeFiles/r
 
 build cmake_object_order_depends_target_recursividad3: phony || .
 
-build CMakeFiles/recursividad3.dir/recursividad/recursividad3.cpp.obj: CXX_COMPILER__recursividad3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad3.cpp || cmake_object_order_depends_target_recursividad3
+build CMakeFiles/recursividad3.dir/recursividad/recursividad3.cpp.obj: CXX_COMPILER__recursividad3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad3.cpp || cmake_object_order_depends_target_recursividad3
   DEP_FILE = CMakeFiles\recursividad3.dir\recursividad\recursividad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\recursividad3.dir
@@ -1534,7 +1631,7 @@ build recursividad3.exe: CXX_EXECUTABLE_LINKER__recursividad3_Debug CMakeFiles/r
 
 build cmake_object_order_depends_target_recursividad4: phony || .
 
-build CMakeFiles/recursividad4.dir/recursividad/recursividad4.cpp.obj: CXX_COMPILER__recursividad4_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad4.cpp || cmake_object_order_depends_target_recursividad4
+build CMakeFiles/recursividad4.dir/recursividad/recursividad4.cpp.obj: CXX_COMPILER__recursividad4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad4.cpp || cmake_object_order_depends_target_recursividad4
   DEP_FILE = CMakeFiles\recursividad4.dir\recursividad\recursividad4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\recursividad4.dir
@@ -1567,7 +1664,7 @@ build recursividad4.exe: CXX_EXECUTABLE_LINKER__recursividad4_Debug CMakeFiles/r
 
 build cmake_object_order_depends_target_recursividad5: phony || .
 
-build CMakeFiles/recursividad5.dir/recursividad/recursividad5.cpp.obj: CXX_COMPILER__recursividad5_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad5.cpp || cmake_object_order_depends_target_recursividad5
+build CMakeFiles/recursividad5.dir/recursividad/recursividad5.cpp.obj: CXX_COMPILER__recursividad5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad5.cpp || cmake_object_order_depends_target_recursividad5
   DEP_FILE = CMakeFiles\recursividad5.dir\recursividad\recursividad5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\recursividad5.dir
@@ -1596,7 +1693,7 @@ build recursividad5.exe: CXX_EXECUTABLE_LINKER__recursividad5_Debug CMakeFiles/r
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\jonat.COSMOS-PC\CLionProjects\C-Practices-\cmake-build-debug && C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\jonat\CLionProjects\fundamentosProgramacion\cmake-build-debug && C:\Users\jonat\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -1607,7 +1704,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\jonat.COSMOS-PC\CLionProjects\C-Practices-\cmake-build-debug && C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\jonat.COSMOS-PC\CLionProjects\C-Practices- -BC:\Users\jonat.COSMOS-PC\CLionProjects\C-Practices-\cmake-build-debug"
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\jonat\CLionProjects\fundamentosProgramacion\cmake-build-debug && C:\Users\jonat\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\jonat\CLionProjects\fundamentosProgramacion -BC:\Users\jonat\CLionProjects\fundamentosProgramacion\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -1651,6 +1748,13 @@ build ejemplo23: phony ejemplo23.exe
 
 build ejemplo24: phony ejemplo24.exe
 
+<<<<<<< HEAD
+=======
+build ejemplo25: phony ejemplo25.exe
+
+build ejemplo26: phony ejemplo26.exe
+
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
 build ejemplo3: phony ejemplo3.exe
 
 build ejemplo4: phony ejemplo4.exe
@@ -1717,9 +1821,13 @@ build taller3: phony taller3.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug
+# Folder: C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug
 
+<<<<<<< HEAD
 build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe
+=======
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
 
 # =============================================================================
 # Built-in targets
@@ -1728,14 +1836,22 @@ build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.
 #############################################
 # Re-run CMake if any of its inputs changed.
 
+<<<<<<< HEAD
 build build.ninja: RERUN_CMAKE | C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake
+=======
+build build.ninja: RERUN_CMAKE | C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/jonat/CLionProjects/fundamentosProgramacion/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
+<<<<<<< HEAD
 build C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake: phony
+=======
+build C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/jonat/CLionProjects/fundamentosProgramacion/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake: phony
+>>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
 
 
 #############################################
