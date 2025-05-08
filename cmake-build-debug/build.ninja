@@ -1031,6 +1031,39 @@ build ejemplo29.exe: CXX_EXECUTABLE_LINKER__ejemplo29_Debug CMakeFiles/ejemplo29
   TARGET_PDB = ejemplo29.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target ejemplo30
+
+
+#############################################
+# Order-only phony target for ejemplo30
+
+build cmake_object_order_depends_target_ejemplo30: phony || .
+
+build CMakeFiles/ejemplo30.dir/section6/ejemplo30.cpp.obj: CXX_COMPILER__ejemplo30_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/ejemplo30.cpp || cmake_object_order_depends_target_ejemplo30
+  DEP_FILE = CMakeFiles\ejemplo30.dir\section6\ejemplo30.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejemplo30.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejemplo30.dir\section6
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejemplo30
+
+
+#############################################
+# Link the executable ejemplo30.exe
+
+build ejemplo30.exe: CXX_EXECUTABLE_LINKER__ejemplo30_Debug CMakeFiles/ejemplo30.dir/section6/ejemplo30.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejemplo30.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejemplo30.exe
+  TARGET_IMPLIB = libejemplo30.dll.a
+  TARGET_PDB = ejemplo30.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target leccion1
 
 
@@ -1828,6 +1861,8 @@ build ejemplo29: phony ejemplo29.exe
 
 build ejemplo3: phony ejemplo3.exe
 
+build ejemplo30: phony ejemplo30.exe
+
 build ejemplo4: phony ejemplo4.exe
 
 build ejemplo5: phony ejemplo5.exe
@@ -1894,7 +1929,7 @@ build taller3: phony taller3.exe
 #############################################
 # Folder: C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug
 
-build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe
 
 # =============================================================================
 # Built-in targets

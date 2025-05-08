@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "leccion1.exe"
+			"path" : "ejemplo30.exe"
 		},
 		{
-			"path" : "leccion1.pdb"
+			"path" : "ejemplo30.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 104,
+				"line" : 100,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "leccion1::@6890427a1f51a3e7e1df",
+	"id" : "ejemplo30::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "leccion1",
-	"nameOnDisk" : "leccion1.exe",
+	"name" : "ejemplo30",
+	"nameOnDisk" : "ejemplo30.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "lessons/leccion1.cpp",
+			"path" : "section6/ejemplo30.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
