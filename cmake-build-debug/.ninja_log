@@ -7,7 +7,7 @@
 9	736	7661026636104770	CMakeFiles/fibonacci.dir/workshops/fibonacci.cpp.obj	db7f788ac1d229ec
 24	1038	7660985561249586	CMakeFiles/ejemplo16.dir/section4/ejemplo16.cpp.obj	10a36a1ebb15218f
 1038	1262	7660985571399250	ejemplo16.exe	fc880d83663043fb
-15	569	7672315442032917	build.ninja	8f64bc778684ec5d
+15	569	7684395348531569	build.ninja	8f64bc778684ec5d
 9	3892	7654970499904950	CMakeFiles/taller2.dir/workshops/taller2.cpp.obj	562d0a1f92ee78bc
 33	622	7660325944892792	CMakeFiles/ejemplo17.dir/section4/ejemplo17.cpp.obj	ed9e28f0084bb9b3
 623	794	7660325950798849	ejemplo17.exe	fab78bfb322c0894
@@ -29,6 +29,7 @@
 24	894	7661161778531731	CMakeFiles/recursividad3.dir/recursividad/recursividad3.cpp.obj	38a22f4638708dd7
 895	1060	7661161787243695	recursividad3.exe	32a801df1eef4750
 21	814	7661176149820367	CMakeFiles/recursividad4.dir/recursividad/recursividad4.cpp.obj	ada96b23d9d69f71
+943	1104	7672322864472375	examen4.exe	fba5cd37e9e28ff2
 815	956	7661176157755518	recursividad4.exe	d52e7343ef2d501f
 617	729	7661176270331953	recursividad5.exe	4cd960cf8ce0bd7d
 10	2966	7672309164644507	CMakeFiles/examen2.dir/workshops/examen,e2.cpp.obj	e46c0eef9635e2af
@@ -38,4 +39,5 @@
 849	1020	7672313639245062	ejemplo3.exe	954a165603446e5e
 12	740	7672313950560395	CMakeFiles/examen3.dir/workshops/examen,e3.cpp.obj	cc0df74b6dbff41c
 13	942	7672322855176951	CMakeFiles/examen4.dir/workshops/examen,e4.cpp.obj	5d0528753feb7010
-943	1104	7672322864472375	examen4.exe	fba5cd37e9e28ff2
+9	786	7684395526885938	CMakeFiles/ejemplo24.dir/section4/ejemplo24.cpp.obj	dbb4c53c36aa1672
+787	1294	7684395534661575	ejemplo24.exe	bbffa62eae5e6a71

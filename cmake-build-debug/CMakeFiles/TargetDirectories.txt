@@ -22,6 +22,7 @@ C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejemplo21.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejemplo22.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejemplo23.dir
+C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejemplo24.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/leccion1.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejercicio1.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejercicio2.dir
