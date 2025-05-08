@@ -87,8 +87,14 @@ add_executable(ejemplo25 section6/ejemplo25.cpp)
 ## Ejecutable para ejemplo26
 add_executable(ejemplo26 section6/ejemplo26.cpp)
 
-## Ejecutable para ejemplo24
-add_executable(ejemplo24 section4/ejemplo24.cpp)
+## Ejecutable para ejemplo27
+add_executable(ejemplo27 section6/ejemplo27.cpp)
+
+## Ejecutable para ejemplo28
+add_executable(ejemplo28 section6/ejemplo28.cpp)
+
+## Ejecutable para ejemplo29
+add_executable(ejemplo29 section6/ejemplo29.cpp)
 
 #------------------------------------------------
 

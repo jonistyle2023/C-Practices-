@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jonat/CLionProjects/fundamentosProgramacion
+# Install script for directory: C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,17 +34,13 @@ endif()
 
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/jonat/AppData/Local/Programs/CLion/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/mingw/bin/objdump.exe")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-<<<<<<< HEAD
   file(WRITE "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/install_local_manifest.txt"
-=======
-  file(WRITE "C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/install_local_manifest.txt"
->>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -60,10 +56,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-<<<<<<< HEAD
   file(WRITE "C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
-=======
-  file(WRITE "C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
->>>>>>> 45468972245d815431effd1e0182db2edf6c30cb
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
