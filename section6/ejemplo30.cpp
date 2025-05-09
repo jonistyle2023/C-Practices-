@@ -32,4 +32,3 @@ void gotoxy(int x,int y){
     dwPos.Y= y;  // Fila
     SetConsoleCursorPosition(hcon,dwPos);
 }
-
