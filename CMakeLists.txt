@@ -99,6 +99,15 @@ add_executable(ejemplo29 section6/ejemplo29.cpp)
 ## Ejecutable para ejemplo30
 add_executable(ejemplo30 section6/ejemplo30.cpp)
 
+## Ejecutable para gotoxyExample
+add_executable(gotoxyExample section6/gotoxyExample.cpp)
+
+## Ejecutable para gotoxyExample1
+add_executable(gotoxyExample1 section6/gotoxyExample1.cpp)
+
+## Ejecutable para gotoxyExample2
+add_executable(gotoxyExample2 section6/gotoxyExample2.cpp)
+
 #------------------------------------------------
 
 # EJECUTABLES PARA LAS LECCIONES
