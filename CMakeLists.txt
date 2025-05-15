@@ -99,6 +99,9 @@ add_executable(ejemplo29 section6/ejemplo29.cpp)
 ## Ejecutable para ejemplo30
 add_executable(ejemplo30 section6/ejemplo30.cpp)
 
+## Ejecutable para ejemplo31
+add_executable(ejemplo31 section7/ejemplo31.cpp)
+
 #------------------------------------------------
 
 # EJECUTABLES PARA LAS LECCIONES
