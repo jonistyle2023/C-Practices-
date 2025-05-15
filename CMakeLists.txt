@@ -102,6 +102,21 @@ add_executable(ejemplo30 section6/ejemplo30.cpp)
 ## Ejecutable para ejemplo31
 add_executable(ejemplo31 section7/ejemplo31.cpp)
 
+## Ejecutable para binarySearch
+add_executable(binarySearch section7/binarySearch.cpp)
+
+## Ejecutable para exponentialSearch
+add_executable(exponentialSearch section7/exponentialSearch.cpp)
+
+## Ejecutable para interpolationSearch
+add_executable(interpolationSearch section7/interpolationSearch.cpp)
+
+## Ejecutable para jumpSearch
+add_executable(jumpSearch section7/jumpSearch.cpp)
+
+## Ejecutable para linearSearch
+add_executable(linearSearch section7/linearSearch.cpp)
+
 #------------------------------------------------
 
 # EJECUTABLES PARA LAS LECCIONES

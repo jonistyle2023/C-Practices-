@@ -1097,6 +1097,171 @@ build ejemplo31.exe: CXX_EXECUTABLE_LINKER__ejemplo31_Debug CMakeFiles/ejemplo31
   TARGET_PDB = ejemplo31.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target binarySearch
+
+
+#############################################
+# Order-only phony target for binarySearch
+
+build cmake_object_order_depends_target_binarySearch: phony || .
+
+build CMakeFiles/binarySearch.dir/section7/binarySearch.cpp.obj: CXX_COMPILER__binarySearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/binarySearch.cpp || cmake_object_order_depends_target_binarySearch
+  DEP_FILE = CMakeFiles\binarySearch.dir\section7\binarySearch.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\binarySearch.dir
+  OBJECT_FILE_DIR = CMakeFiles\binarySearch.dir\section7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target binarySearch
+
+
+#############################################
+# Link the executable binarySearch.exe
+
+build binarySearch.exe: CXX_EXECUTABLE_LINKER__binarySearch_Debug CMakeFiles/binarySearch.dir/section7/binarySearch.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\binarySearch.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = binarySearch.exe
+  TARGET_IMPLIB = libbinarySearch.dll.a
+  TARGET_PDB = binarySearch.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exponentialSearch
+
+
+#############################################
+# Order-only phony target for exponentialSearch
+
+build cmake_object_order_depends_target_exponentialSearch: phony || .
+
+build CMakeFiles/exponentialSearch.dir/section7/exponentialSearch.cpp.obj: CXX_COMPILER__exponentialSearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/exponentialSearch.cpp || cmake_object_order_depends_target_exponentialSearch
+  DEP_FILE = CMakeFiles\exponentialSearch.dir\section7\exponentialSearch.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\exponentialSearch.dir
+  OBJECT_FILE_DIR = CMakeFiles\exponentialSearch.dir\section7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exponentialSearch
+
+
+#############################################
+# Link the executable exponentialSearch.exe
+
+build exponentialSearch.exe: CXX_EXECUTABLE_LINKER__exponentialSearch_Debug CMakeFiles/exponentialSearch.dir/section7/exponentialSearch.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\exponentialSearch.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = exponentialSearch.exe
+  TARGET_IMPLIB = libexponentialSearch.dll.a
+  TARGET_PDB = exponentialSearch.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target interpolationSearch
+
+
+#############################################
+# Order-only phony target for interpolationSearch
+
+build cmake_object_order_depends_target_interpolationSearch: phony || .
+
+build CMakeFiles/interpolationSearch.dir/section7/interpolationSearch.cpp.obj: CXX_COMPILER__interpolationSearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/interpolationSearch.cpp || cmake_object_order_depends_target_interpolationSearch
+  DEP_FILE = CMakeFiles\interpolationSearch.dir\section7\interpolationSearch.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\interpolationSearch.dir
+  OBJECT_FILE_DIR = CMakeFiles\interpolationSearch.dir\section7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target interpolationSearch
+
+
+#############################################
+# Link the executable interpolationSearch.exe
+
+build interpolationSearch.exe: CXX_EXECUTABLE_LINKER__interpolationSearch_Debug CMakeFiles/interpolationSearch.dir/section7/interpolationSearch.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\interpolationSearch.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = interpolationSearch.exe
+  TARGET_IMPLIB = libinterpolationSearch.dll.a
+  TARGET_PDB = interpolationSearch.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target jumpSearch
+
+
+#############################################
+# Order-only phony target for jumpSearch
+
+build cmake_object_order_depends_target_jumpSearch: phony || .
+
+build CMakeFiles/jumpSearch.dir/section7/jumpSearch.cpp.obj: CXX_COMPILER__jumpSearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/jumpSearch.cpp || cmake_object_order_depends_target_jumpSearch
+  DEP_FILE = CMakeFiles\jumpSearch.dir\section7\jumpSearch.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\jumpSearch.dir
+  OBJECT_FILE_DIR = CMakeFiles\jumpSearch.dir\section7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target jumpSearch
+
+
+#############################################
+# Link the executable jumpSearch.exe
+
+build jumpSearch.exe: CXX_EXECUTABLE_LINKER__jumpSearch_Debug CMakeFiles/jumpSearch.dir/section7/jumpSearch.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\jumpSearch.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = jumpSearch.exe
+  TARGET_IMPLIB = libjumpSearch.dll.a
+  TARGET_PDB = jumpSearch.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target linearSearch
+
+
+#############################################
+# Order-only phony target for linearSearch
+
+build cmake_object_order_depends_target_linearSearch: phony || .
+
+build CMakeFiles/linearSearch.dir/section7/linearSearch.cpp.obj: CXX_COMPILER__linearSearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/linearSearch.cpp || cmake_object_order_depends_target_linearSearch
+  DEP_FILE = CMakeFiles\linearSearch.dir\section7\linearSearch.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\linearSearch.dir
+  OBJECT_FILE_DIR = CMakeFiles\linearSearch.dir\section7
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target linearSearch
+
+
+#############################################
+# Link the executable linearSearch.exe
+
+build linearSearch.exe: CXX_EXECUTABLE_LINKER__linearSearch_Debug CMakeFiles/linearSearch.dir/section7/linearSearch.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\linearSearch.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = linearSearch.exe
+  TARGET_IMPLIB = liblinearSearch.dll.a
+  TARGET_PDB = linearSearch.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target leccion1
 
 
@@ -1848,6 +2013,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build binarySearch: phony binarySearch.exe
+
 build ejemplo1: phony ejemplo1.exe
 
 build ejemplo10: phony ejemplo10.exe
@@ -1934,11 +2101,19 @@ build examen3: phony examen3.exe
 
 build examen4: phony examen4.exe
 
+build exponentialSearch: phony exponentialSearch.exe
+
 build fibonacci: phony fibonacci.exe
 
 build fundamentosProgramacion: phony fundamentosProgramacion.exe
 
+build interpolationSearch: phony interpolationSearch.exe
+
+build jumpSearch: phony jumpSearch.exe
+
 build leccion1: phony leccion1.exe
+
+build linearSearch: phony linearSearch.exe
 
 build recursividad1: phony recursividad1.exe
 
@@ -1964,7 +2139,7 @@ build taller3: phony taller3.exe
 #############################################
 # Folder: C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug
 
-build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe ejemplo31.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe ejemplo31.exe binarySearch.exe exponentialSearch.exe interpolationSearch.exe jumpSearch.exe linearSearch.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe
 
 # =============================================================================
 # Built-in targets
