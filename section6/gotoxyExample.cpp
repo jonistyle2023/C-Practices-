@@ -1,8 +1,8 @@
-// Created by: Jonathan Panchana
+// Created by: Jonathan Panchana on 8/5/2025
 
-/*Procedimiento Gotoxy
-Curso: SW 2/2
-Fecha: 8/05/2025 */
+/* Procedimiento de Gotoxy
+ * Curso: SW 2/2
+ */
 
 //Bloque de Declaraciones
 //Librerias

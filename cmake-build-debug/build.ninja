@@ -1064,6 +1064,105 @@ build ejemplo30.exe: CXX_EXECUTABLE_LINKER__ejemplo30_Debug CMakeFiles/ejemplo30
   TARGET_PDB = ejemplo30.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target gotoxyExample
+
+
+#############################################
+# Order-only phony target for gotoxyExample
+
+build cmake_object_order_depends_target_gotoxyExample: phony || .
+
+build CMakeFiles/gotoxyExample.dir/section6/gotoxyExample.cpp.obj: CXX_COMPILER__gotoxyExample_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/gotoxyExample.cpp || cmake_object_order_depends_target_gotoxyExample
+  DEP_FILE = CMakeFiles\gotoxyExample.dir\section6\gotoxyExample.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\gotoxyExample.dir
+  OBJECT_FILE_DIR = CMakeFiles\gotoxyExample.dir\section6
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target gotoxyExample
+
+
+#############################################
+# Link the executable gotoxyExample.exe
+
+build gotoxyExample.exe: CXX_EXECUTABLE_LINKER__gotoxyExample_Debug CMakeFiles/gotoxyExample.dir/section6/gotoxyExample.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\gotoxyExample.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = gotoxyExample.exe
+  TARGET_IMPLIB = libgotoxyExample.dll.a
+  TARGET_PDB = gotoxyExample.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target gotoxyExample1
+
+
+#############################################
+# Order-only phony target for gotoxyExample1
+
+build cmake_object_order_depends_target_gotoxyExample1: phony || .
+
+build CMakeFiles/gotoxyExample1.dir/section6/gotoxyExample1.cpp.obj: CXX_COMPILER__gotoxyExample1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/gotoxyExample1.cpp || cmake_object_order_depends_target_gotoxyExample1
+  DEP_FILE = CMakeFiles\gotoxyExample1.dir\section6\gotoxyExample1.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\gotoxyExample1.dir
+  OBJECT_FILE_DIR = CMakeFiles\gotoxyExample1.dir\section6
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target gotoxyExample1
+
+
+#############################################
+# Link the executable gotoxyExample1.exe
+
+build gotoxyExample1.exe: CXX_EXECUTABLE_LINKER__gotoxyExample1_Debug CMakeFiles/gotoxyExample1.dir/section6/gotoxyExample1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\gotoxyExample1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = gotoxyExample1.exe
+  TARGET_IMPLIB = libgotoxyExample1.dll.a
+  TARGET_PDB = gotoxyExample1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target gotoxyExample2
+
+
+#############################################
+# Order-only phony target for gotoxyExample2
+
+build cmake_object_order_depends_target_gotoxyExample2: phony || .
+
+build CMakeFiles/gotoxyExample2.dir/section6/gotoxyExample2.cpp.obj: CXX_COMPILER__gotoxyExample2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/gotoxyExample2.cpp || cmake_object_order_depends_target_gotoxyExample2
+  DEP_FILE = CMakeFiles\gotoxyExample2.dir\section6\gotoxyExample2.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\gotoxyExample2.dir
+  OBJECT_FILE_DIR = CMakeFiles\gotoxyExample2.dir\section6
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target gotoxyExample2
+
+
+#############################################
+# Link the executable gotoxyExample2.exe
+
+build gotoxyExample2.exe: CXX_EXECUTABLE_LINKER__gotoxyExample2_Debug CMakeFiles/gotoxyExample2.dir/section6/gotoxyExample2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\gotoxyExample2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = gotoxyExample2.exe
+  TARGET_IMPLIB = libgotoxyExample2.dll.a
+  TARGET_PDB = gotoxyExample2.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target ejemplo31
 
 
@@ -2107,6 +2206,12 @@ build fibonacci: phony fibonacci.exe
 
 build fundamentosProgramacion: phony fundamentosProgramacion.exe
 
+build gotoxyExample: phony gotoxyExample.exe
+
+build gotoxyExample1: phony gotoxyExample1.exe
+
+build gotoxyExample2: phony gotoxyExample2.exe
+
 build interpolationSearch: phony interpolationSearch.exe
 
 build jumpSearch: phony jumpSearch.exe
@@ -2139,7 +2244,7 @@ build taller3: phony taller3.exe
 #############################################
 # Folder: C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug
 
-build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe ejemplo31.exe binarySearch.exe exponentialSearch.exe interpolationSearch.exe jumpSearch.exe linearSearch.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe gotoxyExample.exe gotoxyExample1.exe gotoxyExample2.exe ejemplo31.exe binarySearch.exe exponentialSearch.exe interpolationSearch.exe jumpSearch.exe linearSearch.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe
 
 # =============================================================================
 # Built-in targets

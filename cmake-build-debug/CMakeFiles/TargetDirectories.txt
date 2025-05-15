@@ -29,6 +29,9 @@ C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejemplo28.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejemplo29.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejemplo30.dir
+C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/gotoxyExample.dir
+C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/gotoxyExample1.dir
+C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/gotoxyExample2.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ejemplo31.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/binarySearch.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/exponentialSearch.dir

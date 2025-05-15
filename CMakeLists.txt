@@ -99,13 +99,22 @@ add_executable(ejemplo29 section6/ejemplo29.cpp)
 ## Ejecutable para ejemplo30
 add_executable(ejemplo30 section6/ejemplo30.cpp)
 
+## Ejecutable para gotoxyExample
+add_executable(gotoxyExample section6/gotoxyExample.cpp)
+
+## Ejecutable para gotoxyExample1
+add_executable(gotoxyExample1 section6/gotoxyExample1.cpp)
+
+## Ejecutable para gotoxyExample2
+add_executable(gotoxyExample2 section6/gotoxyExample2.cpp)
+
 ## Ejecutable para ejemplo31
 add_executable(ejemplo31 section7/ejemplo31.cpp)
 
 ## Ejecutable para binarySearch
 add_executable(binarySearch section7/binarySearch.cpp)
 
-## Ejecutable para exponentialSearch
+## Ejecutable para exopnentialSearch
 add_executable(exponentialSearch section7/exponentialSearch.cpp)
 
 ## Ejecutable para interpolationSearch
