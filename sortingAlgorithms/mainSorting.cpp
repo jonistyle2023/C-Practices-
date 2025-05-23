@@ -5,21 +5,29 @@
 // Tarea#3: Caso de estudio de algoritmos de ordenamiento y búsqueda
 // Fundamentos de programación, carrera de software de la Universidad Estatal Península de Santa Elena
 
+// Este programa permite al usuario elegir un algoritmo de ordenamiento y medir su tiempo de ejecución
+// También incluye una función de búsqueda binaria para encontrar un número en el arreglo ordenado
+// Bloque de declaraciones
 #include <iostream>
 #include <vector>
 #include <cstdlib>
 #include <ctime>
 #include <chrono>
 #include <algorithm>
+// Para utilizar tildes y caracteres especiales
+#include <clocale> // Elimina o comenta esta línea si no compila
+#include <windows.h> // Elimína o comenta esta línea si no compila
 
-// Inclusión de headers de algoritmos
+// Inclusión de headers de algoritmos, necesarias para realizar llamadas a los algoritmos de ordenamiento
 #include "bubble_sort.h"
 #include "selection_sort.h"
 #include "insertion_sort.h"
 #include "quicksort.h"
 #include "mergesort.h"
 
+// Usar el espacio de nombres estándar
 using namespace std;
+// Usar el espacio de nombres estándar para la biblioteca de tiempo
 using namespace std::chrono;
 
 // Función para generar datos aleatorios
@@ -45,6 +53,11 @@ bool binarySearch(const vector<int>& arr, int target) {
 }
 
 int main() {
+
+    SetConsoleOutputCP(65001);
+    SetConsoleCP(65001);
+    setlocale(LC_ALL, "es_ES.UTF-8");
+
     const int DATA_SIZE = 10000;
     vector<int> data = generateRandomData(DATA_SIZE, 1, 100000);
 
@@ -61,7 +74,7 @@ int main() {
     // Copia del vector original para evitar modificar el original
     vector<int> arr = data;
 
-    // Medición de tiempo
+    // Medición de tiempo, para capturar el tiempo de ejecución y documentarlo de acuerdo a la opción elegida
     auto start = high_resolution_clock::now();
 
     switch (choice) {

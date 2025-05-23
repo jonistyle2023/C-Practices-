@@ -2,16 +2,26 @@
 // Created by jonathan David Panchana Rodríguez on 23/5/2025.
 //
 
+/* Algoritmos de Búsqueda, este programa llama a los algoritmos de búsqueda lineal y binaria creador en clases individuales.
+ * - Búsqueda Lineal (include/binary_search.cpp)
+ * - Búsqueda Binaria (include/linear_search.cpp)
+ */
+// Bloque de declaraciones
+// Librerías necesarias
 #include <iostream>
 #include <vector>
 #include <cstdlib>
 #include <ctime>
 #include <algorithm>
 #include <chrono>
-
+// Para utilizar tildes y caracteres especiales
+#include <clocale> // Elimina o comenta esta línea si no compila
+#include <windows.h> // Elimína o comenta esta línea si no compila
+// Librerías de búsqueda
 #include "linear_search.h"
 #include "binary_search.h"
 
+// Usar el espacio de nombres estándar
 using namespace std;
 
 // Genera un vector de números aleatorios entre min y max
@@ -24,7 +34,13 @@ vector<int> generateRandomData(int size, int minValue, int maxValue) {
     return data;
 }
 
+// Función principal
 int main() {
+
+    SetConsoleOutputCP(65001);
+    SetConsoleCP(65001);
+    setlocale(LC_ALL, "es_ES.UTF-8");
+
     const int DATA_SIZE = 10000;
     const int MIN_VALUE = 1;
     const int MAX_VALUE = 100000;
@@ -59,6 +75,8 @@ int main() {
             return 1;
     }
 
+    // Este bloque de código mide el tiempo de ejecución, con el fin de mostrar el tiempo que tarda en buscar el número y adjuntarlo
+    // en la respectiva documentación
     auto end = chrono::high_resolution_clock::now();
     chrono::duration<double, milli> duration = end - start;
 
