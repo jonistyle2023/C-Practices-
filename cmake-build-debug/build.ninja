@@ -52,6 +52,7 @@ build cmake_object_order_depends_target_fundamentosProgramacion: phony || .
 build CMakeFiles/fundamentosProgramacion.dir/main.cpp.obj: CXX_COMPILER__fundamentosProgramacion_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/main.cpp || cmake_object_order_depends_target_fundamentosProgramacion
   DEP_FILE = CMakeFiles\fundamentosProgramacion.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\fundamentosProgramacion.dir
   OBJECT_FILE_DIR = CMakeFiles\fundamentosProgramacion.dir
 
@@ -85,6 +86,7 @@ build cmake_object_order_depends_target_ejemplo1: phony || .
 build CMakeFiles/ejemplo1.dir/section1/ejemplo1.cpp.obj: CXX_COMPILER__ejemplo1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section1/ejemplo1.cpp || cmake_object_order_depends_target_ejemplo1
   DEP_FILE = CMakeFiles\ejemplo1.dir\section1\ejemplo1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo1.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo1.dir\section1
 
@@ -118,6 +120,7 @@ build cmake_object_order_depends_target_ejemplo2: phony || .
 build CMakeFiles/ejemplo2.dir/section1/ejemplo2.cpp.obj: CXX_COMPILER__ejemplo2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section1/ejemplo2.cpp || cmake_object_order_depends_target_ejemplo2
   DEP_FILE = CMakeFiles\ejemplo2.dir\section1\ejemplo2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo2.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo2.dir\section1
 
@@ -151,6 +154,7 @@ build cmake_object_order_depends_target_ejemplo3: phony || .
 build CMakeFiles/ejemplo3.dir/section1/ejemplo3.cpp.obj: CXX_COMPILER__ejemplo3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section1/ejemplo3.cpp || cmake_object_order_depends_target_ejemplo3
   DEP_FILE = CMakeFiles\ejemplo3.dir\section1\ejemplo3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo3.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo3.dir\section1
 
@@ -184,6 +188,7 @@ build cmake_object_order_depends_target_ejemplo4: phony || .
 build CMakeFiles/ejemplo4.dir/section2/ejemplo4.cpp.obj: CXX_COMPILER__ejemplo4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo4.cpp || cmake_object_order_depends_target_ejemplo4
   DEP_FILE = CMakeFiles\ejemplo4.dir\section2\ejemplo4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo4.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo4.dir\section2
 
@@ -217,6 +222,7 @@ build cmake_object_order_depends_target_ejemplo5: phony || .
 build CMakeFiles/ejemplo5.dir/section2/ejemplo5.cpp.obj: CXX_COMPILER__ejemplo5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo5.cpp || cmake_object_order_depends_target_ejemplo5
   DEP_FILE = CMakeFiles\ejemplo5.dir\section2\ejemplo5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo5.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo5.dir\section2
 
@@ -250,6 +256,7 @@ build cmake_object_order_depends_target_ejemplo6: phony || .
 build CMakeFiles/ejemplo6.dir/section2/ejemplo6.cpp.obj: CXX_COMPILER__ejemplo6_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo6.cpp || cmake_object_order_depends_target_ejemplo6
   DEP_FILE = CMakeFiles\ejemplo6.dir\section2\ejemplo6.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo6.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo6.dir\section2
 
@@ -283,6 +290,7 @@ build cmake_object_order_depends_target_ejemplo7: phony || .
 build CMakeFiles/ejemplo7.dir/section2/ejemplo7.cpp.obj: CXX_COMPILER__ejemplo7_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo7.cpp || cmake_object_order_depends_target_ejemplo7
   DEP_FILE = CMakeFiles\ejemplo7.dir\section2\ejemplo7.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo7.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo7.dir\section2
 
@@ -316,6 +324,7 @@ build cmake_object_order_depends_target_ejemplo8: phony || .
 build CMakeFiles/ejemplo8.dir/section3/ejemplo8.cpp.obj: CXX_COMPILER__ejemplo8_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo8.cpp || cmake_object_order_depends_target_ejemplo8
   DEP_FILE = CMakeFiles\ejemplo8.dir\section3\ejemplo8.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo8.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo8.dir\section3
 
@@ -349,6 +358,7 @@ build cmake_object_order_depends_target_ejemplo9: phony || .
 build CMakeFiles/ejemplo9.dir/section3/ejemplo9.cpp.obj: CXX_COMPILER__ejemplo9_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo9.cpp || cmake_object_order_depends_target_ejemplo9
   DEP_FILE = CMakeFiles\ejemplo9.dir\section3\ejemplo9.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo9.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo9.dir\section3
 
@@ -382,6 +392,7 @@ build cmake_object_order_depends_target_ejemplo10: phony || .
 build CMakeFiles/ejemplo10.dir/section3/ejemplo10.cpp.obj: CXX_COMPILER__ejemplo10_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo10.cpp || cmake_object_order_depends_target_ejemplo10
   DEP_FILE = CMakeFiles\ejemplo10.dir\section3\ejemplo10.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo10.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo10.dir\section3
 
@@ -415,6 +426,7 @@ build cmake_object_order_depends_target_ejemplo11: phony || .
 build CMakeFiles/ejemplo11.dir/section3/ejemplo11.cpp.obj: CXX_COMPILER__ejemplo11_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo11.cpp || cmake_object_order_depends_target_ejemplo11
   DEP_FILE = CMakeFiles\ejemplo11.dir\section3\ejemplo11.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo11.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo11.dir\section3
 
@@ -448,6 +460,7 @@ build cmake_object_order_depends_target_ejemplo12: phony || .
 build CMakeFiles/ejemplo12.dir/section3/ejemplo12.cpp.obj: CXX_COMPILER__ejemplo12_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo12.cpp || cmake_object_order_depends_target_ejemplo12
   DEP_FILE = CMakeFiles\ejemplo12.dir\section3\ejemplo12.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo12.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo12.dir\section3
 
@@ -481,6 +494,7 @@ build cmake_object_order_depends_target_ejemplo13: phony || .
 build CMakeFiles/ejemplo13.dir/section4/ejemplo13.cpp.obj: CXX_COMPILER__ejemplo13_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo13.cpp || cmake_object_order_depends_target_ejemplo13
   DEP_FILE = CMakeFiles\ejemplo13.dir\section4\ejemplo13.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo13.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo13.dir\section4
 
@@ -514,6 +528,7 @@ build cmake_object_order_depends_target_ejemplo14: phony || .
 build CMakeFiles/ejemplo14.dir/section4/ejemplo14.cpp.obj: CXX_COMPILER__ejemplo14_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo14.cpp || cmake_object_order_depends_target_ejemplo14
   DEP_FILE = CMakeFiles\ejemplo14.dir\section4\ejemplo14.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo14.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo14.dir\section4
 
@@ -547,6 +562,7 @@ build cmake_object_order_depends_target_ejemplo15: phony || .
 build CMakeFiles/ejemplo15.dir/section4/ejemplo15.cpp.obj: CXX_COMPILER__ejemplo15_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo15.cpp || cmake_object_order_depends_target_ejemplo15
   DEP_FILE = CMakeFiles\ejemplo15.dir\section4\ejemplo15.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo15.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo15.dir\section4
 
@@ -580,6 +596,7 @@ build cmake_object_order_depends_target_ejemplo16: phony || .
 build CMakeFiles/ejemplo16.dir/section4/ejemplo16.cpp.obj: CXX_COMPILER__ejemplo16_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo16.cpp || cmake_object_order_depends_target_ejemplo16
   DEP_FILE = CMakeFiles\ejemplo16.dir\section4\ejemplo16.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo16.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo16.dir\section4
 
@@ -613,6 +630,7 @@ build cmake_object_order_depends_target_ejemplo17: phony || .
 build CMakeFiles/ejemplo17.dir/section4/ejemplo17.cpp.obj: CXX_COMPILER__ejemplo17_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo17.cpp || cmake_object_order_depends_target_ejemplo17
   DEP_FILE = CMakeFiles\ejemplo17.dir\section4\ejemplo17.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo17.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo17.dir\section4
 
@@ -646,6 +664,7 @@ build cmake_object_order_depends_target_ejemplo18: phony || .
 build CMakeFiles/ejemplo18.dir/section4/ejemplo18.cpp.obj: CXX_COMPILER__ejemplo18_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo18.cpp || cmake_object_order_depends_target_ejemplo18
   DEP_FILE = CMakeFiles\ejemplo18.dir\section4\ejemplo18.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo18.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo18.dir\section4
 
@@ -679,6 +698,7 @@ build cmake_object_order_depends_target_ejemplo19: phony || .
 build CMakeFiles/ejemplo19.dir/section4/ejemplo19.cpp.obj: CXX_COMPILER__ejemplo19_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo19.cpp || cmake_object_order_depends_target_ejemplo19
   DEP_FILE = CMakeFiles\ejemplo19.dir\section4\ejemplo19.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo19.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo19.dir\section4
 
@@ -712,6 +732,7 @@ build cmake_object_order_depends_target_ejemplo20: phony || .
 build CMakeFiles/ejemplo20.dir/section5/ejemplo20.cpp.obj: CXX_COMPILER__ejemplo20_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo20.cpp || cmake_object_order_depends_target_ejemplo20
   DEP_FILE = CMakeFiles\ejemplo20.dir\section5\ejemplo20.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo20.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo20.dir\section5
 
@@ -745,6 +766,7 @@ build cmake_object_order_depends_target_ejemplo21: phony || .
 build CMakeFiles/ejemplo21.dir/section5/ejemplo21.cpp.obj: CXX_COMPILER__ejemplo21_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo21.cpp || cmake_object_order_depends_target_ejemplo21
   DEP_FILE = CMakeFiles\ejemplo21.dir\section5\ejemplo21.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo21.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo21.dir\section5
 
@@ -778,6 +800,7 @@ build cmake_object_order_depends_target_ejemplo22: phony || .
 build CMakeFiles/ejemplo22.dir/section5/ejemplo22.cpp.obj: CXX_COMPILER__ejemplo22_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo22.cpp || cmake_object_order_depends_target_ejemplo22
   DEP_FILE = CMakeFiles\ejemplo22.dir\section5\ejemplo22.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo22.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo22.dir\section5
 
@@ -811,6 +834,7 @@ build cmake_object_order_depends_target_ejemplo23: phony || .
 build CMakeFiles/ejemplo23.dir/section5/ejemplo23.cpp.obj: CXX_COMPILER__ejemplo23_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo23.cpp || cmake_object_order_depends_target_ejemplo23
   DEP_FILE = CMakeFiles\ejemplo23.dir\section5\ejemplo23.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo23.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo23.dir\section5
 
@@ -844,6 +868,7 @@ build cmake_object_order_depends_target_ejemplo24: phony || .
 build CMakeFiles/ejemplo24.dir/section6/ejemplo24.cpp.obj: CXX_COMPILER__ejemplo24_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo24.cpp || cmake_object_order_depends_target_ejemplo24
   DEP_FILE = CMakeFiles\ejemplo24.dir\section6\ejemplo24.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo24.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo24.dir\section6
 
@@ -877,6 +902,7 @@ build cmake_object_order_depends_target_ejemplo25: phony || .
 build CMakeFiles/ejemplo25.dir/section6/ejemplo25.cpp.obj: CXX_COMPILER__ejemplo25_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo25.cpp || cmake_object_order_depends_target_ejemplo25
   DEP_FILE = CMakeFiles\ejemplo25.dir\section6\ejemplo25.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo25.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo25.dir\section6
 
@@ -910,6 +936,7 @@ build cmake_object_order_depends_target_ejemplo26: phony || .
 build CMakeFiles/ejemplo26.dir/section6/ejemplo26.cpp.obj: CXX_COMPILER__ejemplo26_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo26.cpp || cmake_object_order_depends_target_ejemplo26
   DEP_FILE = CMakeFiles\ejemplo26.dir\section6\ejemplo26.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo26.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo26.dir\section6
 
@@ -943,6 +970,7 @@ build cmake_object_order_depends_target_ejemplo27: phony || .
 build CMakeFiles/ejemplo27.dir/section6/ejemplo27.cpp.obj: CXX_COMPILER__ejemplo27_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo27.cpp || cmake_object_order_depends_target_ejemplo27
   DEP_FILE = CMakeFiles\ejemplo27.dir\section6\ejemplo27.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo27.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo27.dir\section6
 
@@ -976,6 +1004,7 @@ build cmake_object_order_depends_target_ejemplo28: phony || .
 build CMakeFiles/ejemplo28.dir/section6/ejemplo28.cpp.obj: CXX_COMPILER__ejemplo28_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo28.cpp || cmake_object_order_depends_target_ejemplo28
   DEP_FILE = CMakeFiles\ejemplo28.dir\section6\ejemplo28.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo28.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo28.dir\section6
 
@@ -1009,6 +1038,7 @@ build cmake_object_order_depends_target_ejemplo29: phony || .
 build CMakeFiles/ejemplo29.dir/section6/ejemplo29.cpp.obj: CXX_COMPILER__ejemplo29_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo29.cpp || cmake_object_order_depends_target_ejemplo29
   DEP_FILE = CMakeFiles\ejemplo29.dir\section6\ejemplo29.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo29.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo29.dir\section6
 
@@ -1042,6 +1072,7 @@ build cmake_object_order_depends_target_ejemplo30: phony || .
 build CMakeFiles/ejemplo30.dir/section6/ejemplo30.cpp.obj: CXX_COMPILER__ejemplo30_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo30.cpp || cmake_object_order_depends_target_ejemplo30
   DEP_FILE = CMakeFiles\ejemplo30.dir\section6\ejemplo30.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo30.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo30.dir\section6
 
@@ -1075,6 +1106,7 @@ build cmake_object_order_depends_target_gotoxyExample: phony || .
 build CMakeFiles/gotoxyExample.dir/section6/gotoxyExample.cpp.obj: CXX_COMPILER__gotoxyExample_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/gotoxyExample.cpp || cmake_object_order_depends_target_gotoxyExample
   DEP_FILE = CMakeFiles\gotoxyExample.dir\section6\gotoxyExample.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\gotoxyExample.dir
   OBJECT_FILE_DIR = CMakeFiles\gotoxyExample.dir\section6
 
@@ -1108,6 +1140,7 @@ build cmake_object_order_depends_target_gotoxyExample1: phony || .
 build CMakeFiles/gotoxyExample1.dir/section6/gotoxyExample1.cpp.obj: CXX_COMPILER__gotoxyExample1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/gotoxyExample1.cpp || cmake_object_order_depends_target_gotoxyExample1
   DEP_FILE = CMakeFiles\gotoxyExample1.dir\section6\gotoxyExample1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\gotoxyExample1.dir
   OBJECT_FILE_DIR = CMakeFiles\gotoxyExample1.dir\section6
 
@@ -1141,6 +1174,7 @@ build cmake_object_order_depends_target_gotoxyExample2: phony || .
 build CMakeFiles/gotoxyExample2.dir/section6/gotoxyExample2.cpp.obj: CXX_COMPILER__gotoxyExample2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/gotoxyExample2.cpp || cmake_object_order_depends_target_gotoxyExample2
   DEP_FILE = CMakeFiles\gotoxyExample2.dir\section6\gotoxyExample2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\gotoxyExample2.dir
   OBJECT_FILE_DIR = CMakeFiles\gotoxyExample2.dir\section6
 
@@ -1174,6 +1208,7 @@ build cmake_object_order_depends_target_leccion1: phony || .
 build CMakeFiles/leccion1.dir/lessons/leccion1.cpp.obj: CXX_COMPILER__leccion1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/lessons/leccion1.cpp || cmake_object_order_depends_target_leccion1
   DEP_FILE = CMakeFiles\leccion1.dir\lessons\leccion1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\leccion1.dir
   OBJECT_FILE_DIR = CMakeFiles\leccion1.dir\lessons
 
@@ -1207,6 +1242,7 @@ build cmake_object_order_depends_target_ejercicio1: phony || .
 build CMakeFiles/ejercicio1.dir/exercises1-3/ejercicio1.cpp.obj: CXX_COMPILER__ejercicio1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio1.cpp || cmake_object_order_depends_target_ejercicio1
   DEP_FILE = CMakeFiles\ejercicio1.dir\exercises1-3\ejercicio1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio1.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio1.dir\exercises1-3
 
@@ -1240,6 +1276,7 @@ build cmake_object_order_depends_target_ejercicio2: phony || .
 build CMakeFiles/ejercicio2.dir/exercises1-3/ejercicio2.cpp.obj: CXX_COMPILER__ejercicio2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio2.cpp || cmake_object_order_depends_target_ejercicio2
   DEP_FILE = CMakeFiles\ejercicio2.dir\exercises1-3\ejercicio2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio2.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio2.dir\exercises1-3
 
@@ -1273,6 +1310,7 @@ build cmake_object_order_depends_target_ejercicio3: phony || .
 build CMakeFiles/ejercicio3.dir/exercises1-3/ejercicio3.cpp.obj: CXX_COMPILER__ejercicio3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio3.cpp || cmake_object_order_depends_target_ejercicio3
   DEP_FILE = CMakeFiles\ejercicio3.dir\exercises1-3\ejercicio3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio3.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio3.dir\exercises1-3
 
@@ -1306,6 +1344,7 @@ build cmake_object_order_depends_target_ejercicio4: phony || .
 build CMakeFiles/ejercicio4.dir/exercises1-3/ejercicio4.cpp.obj: CXX_COMPILER__ejercicio4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio4.cpp || cmake_object_order_depends_target_ejercicio4
   DEP_FILE = CMakeFiles\ejercicio4.dir\exercises1-3\ejercicio4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio4.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio4.dir\exercises1-3
 
@@ -1339,6 +1378,7 @@ build cmake_object_order_depends_target_ejercicio5: phony || .
 build CMakeFiles/ejercicio5.dir/exercises1-3/ejercicio5.cpp.obj: CXX_COMPILER__ejercicio5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio5.cpp || cmake_object_order_depends_target_ejercicio5
   DEP_FILE = CMakeFiles\ejercicio5.dir\exercises1-3\ejercicio5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio5.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio5.dir\exercises1-3
 
@@ -1372,6 +1412,7 @@ build cmake_object_order_depends_target_ejercicio6: phony || .
 build CMakeFiles/ejercicio6.dir/exercises1-3/ejercicio6.cpp.obj: CXX_COMPILER__ejercicio6_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio6.cpp || cmake_object_order_depends_target_ejercicio6
   DEP_FILE = CMakeFiles\ejercicio6.dir\exercises1-3\ejercicio6.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio6.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio6.dir\exercises1-3
 
@@ -1405,6 +1446,7 @@ build cmake_object_order_depends_target_ejercicio7: phony || .
 build CMakeFiles/ejercicio7.dir/exercises1-3/ejercicio7.cpp.obj: CXX_COMPILER__ejercicio7_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio7.cpp || cmake_object_order_depends_target_ejercicio7
   DEP_FILE = CMakeFiles\ejercicio7.dir\exercises1-3\ejercicio7.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio7.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio7.dir\exercises1-3
 
@@ -1438,6 +1480,7 @@ build cmake_object_order_depends_target_ejercicio8: phony || .
 build CMakeFiles/ejercicio8.dir/exercises1-3/ejercicio8.cpp.obj: CXX_COMPILER__ejercicio8_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio8.cpp || cmake_object_order_depends_target_ejercicio8
   DEP_FILE = CMakeFiles\ejercicio8.dir\exercises1-3\ejercicio8.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio8.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio8.dir\exercises1-3
 
@@ -1471,6 +1514,7 @@ build cmake_object_order_depends_target_taller1: phony || .
 build CMakeFiles/taller1.dir/workshops/taller1.cpp.obj: CXX_COMPILER__taller1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/taller1.cpp || cmake_object_order_depends_target_taller1
   DEP_FILE = CMakeFiles\taller1.dir\workshops\taller1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\taller1.dir
   OBJECT_FILE_DIR = CMakeFiles\taller1.dir\workshops
 
@@ -1504,6 +1548,7 @@ build cmake_object_order_depends_target_taller2: phony || .
 build CMakeFiles/taller2.dir/workshops/taller2.cpp.obj: CXX_COMPILER__taller2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/taller2.cpp || cmake_object_order_depends_target_taller2
   DEP_FILE = CMakeFiles\taller2.dir\workshops\taller2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\taller2.dir
   OBJECT_FILE_DIR = CMakeFiles\taller2.dir\workshops
 
@@ -1537,6 +1582,7 @@ build cmake_object_order_depends_target_taller3: phony || .
 build CMakeFiles/taller3.dir/workshops/EJ_U2_011.cpp.obj: CXX_COMPILER__taller3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/EJ_U2_011.cpp || cmake_object_order_depends_target_taller3
   DEP_FILE = CMakeFiles\taller3.dir\workshops\EJ_U2_011.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\taller3.dir
   OBJECT_FILE_DIR = CMakeFiles\taller3.dir\workshops
 
@@ -1570,6 +1616,7 @@ build cmake_object_order_depends_target_fibonacci: phony || .
 build CMakeFiles/fibonacci.dir/workshops/fibonacci.cpp.obj: CXX_COMPILER__fibonacci_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/fibonacci.cpp || cmake_object_order_depends_target_fibonacci
   DEP_FILE = CMakeFiles\fibonacci.dir\workshops\fibonacci.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\fibonacci.dir
   OBJECT_FILE_DIR = CMakeFiles\fibonacci.dir\workshops
 
@@ -1603,6 +1650,7 @@ build cmake_object_order_depends_target_examen: phony || .
 build CMakeFiles/examen.dir/Exams/examenP1-e1.cpp.obj: CXX_COMPILER__examen_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e1.cpp || cmake_object_order_depends_target_examen
   DEP_FILE = CMakeFiles\examen.dir\Exams\examenP1-e1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\examen.dir
   OBJECT_FILE_DIR = CMakeFiles\examen.dir\Exams
 
@@ -1636,6 +1684,7 @@ build cmake_object_order_depends_target_examen2: phony || .
 build CMakeFiles/examen2.dir/Exams/examenP1-e2.cpp.obj: CXX_COMPILER__examen2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e2.cpp || cmake_object_order_depends_target_examen2
   DEP_FILE = CMakeFiles\examen2.dir\Exams\examenP1-e2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\examen2.dir
   OBJECT_FILE_DIR = CMakeFiles\examen2.dir\Exams
 
@@ -1669,6 +1718,7 @@ build cmake_object_order_depends_target_examen3: phony || .
 build CMakeFiles/examen3.dir/Exams/examenP1-e3.cpp.obj: CXX_COMPILER__examen3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e3.cpp || cmake_object_order_depends_target_examen3
   DEP_FILE = CMakeFiles\examen3.dir\Exams\examenP1-e3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\examen3.dir
   OBJECT_FILE_DIR = CMakeFiles\examen3.dir\Exams
 
@@ -1702,6 +1752,7 @@ build cmake_object_order_depends_target_examen4: phony || .
 build CMakeFiles/examen4.dir/Exams/examenP1-e4.cpp.obj: CXX_COMPILER__examen4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e4.cpp || cmake_object_order_depends_target_examen4
   DEP_FILE = CMakeFiles\examen4.dir\Exams\examenP1-e4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\examen4.dir
   OBJECT_FILE_DIR = CMakeFiles\examen4.dir\Exams
 
@@ -1735,6 +1786,7 @@ build cmake_object_order_depends_target_recursividad1: phony || .
 build CMakeFiles/recursividad1.dir/recursividad/recursividad1.cpp.obj: CXX_COMPILER__recursividad1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad1.cpp || cmake_object_order_depends_target_recursividad1
   DEP_FILE = CMakeFiles\recursividad1.dir\recursividad\recursividad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad1.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad1.dir\recursividad
 
@@ -1768,6 +1820,7 @@ build cmake_object_order_depends_target_recursividad2: phony || .
 build CMakeFiles/recursividad2.dir/recursividad/recursividad2.cpp.obj: CXX_COMPILER__recursividad2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad2.cpp || cmake_object_order_depends_target_recursividad2
   DEP_FILE = CMakeFiles\recursividad2.dir\recursividad\recursividad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad2.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad2.dir\recursividad
 
@@ -1801,6 +1854,7 @@ build cmake_object_order_depends_target_recursividad3: phony || .
 build CMakeFiles/recursividad3.dir/recursividad/recursividad3.cpp.obj: CXX_COMPILER__recursividad3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad3.cpp || cmake_object_order_depends_target_recursividad3
   DEP_FILE = CMakeFiles\recursividad3.dir\recursividad\recursividad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad3.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad3.dir\recursividad
 
@@ -1834,6 +1888,7 @@ build cmake_object_order_depends_target_recursividad4: phony || .
 build CMakeFiles/recursividad4.dir/recursividad/recursividad4.cpp.obj: CXX_COMPILER__recursividad4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad4.cpp || cmake_object_order_depends_target_recursividad4
   DEP_FILE = CMakeFiles\recursividad4.dir\recursividad\recursividad4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad4.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad4.dir\recursividad
 
@@ -1867,6 +1922,7 @@ build cmake_object_order_depends_target_recursividad5: phony || .
 build CMakeFiles/recursividad5.dir/recursividad/recursividad5.cpp.obj: CXX_COMPILER__recursividad5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad5.cpp || cmake_object_order_depends_target_recursividad5
   DEP_FILE = CMakeFiles\recursividad5.dir\recursividad\recursividad5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad5.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad5.dir\recursividad
 
@@ -1887,6 +1943,123 @@ build recursividad5.exe: CXX_EXECUTABLE_LINKER__recursividad5_Debug CMakeFiles/r
   TARGET_FILE = recursividad5.exe
   TARGET_IMPLIB = librecursividad5.dll.a
   TARGET_PDB = recursividad5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SortingAPP
+
+
+#############################################
+# Order-only phony target for SortingAPP
+
+build cmake_object_order_depends_target_SortingAPP: phony || .
+
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/mainSorting.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/mainSorting.cpp || cmake_object_order_depends_target_SortingAPP
+  DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\mainSorting.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\SortingAPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms
+
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/bubble_sort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/bubble_sort.cpp || cmake_object_order_depends_target_SortingAPP
+  DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\bubble_sort.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\SortingAPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
+
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/insertion_sort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/insertion_sort.cpp || cmake_object_order_depends_target_SortingAPP
+  DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\insertion_sort.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\SortingAPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
+
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/mergesort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/mergesort.cpp || cmake_object_order_depends_target_SortingAPP
+  DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\mergesort.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\SortingAPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
+
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/quicksort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/quicksort.cpp || cmake_object_order_depends_target_SortingAPP
+  DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\quicksort.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\SortingAPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
+
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/selection_sort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/selection_sort.cpp || cmake_object_order_depends_target_SortingAPP
+  DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\selection_sort.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\SortingAPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SortingAPP
+
+
+#############################################
+# Link the executable SortingAPP.exe
+
+build SortingAPP.exe: CXX_EXECUTABLE_LINKER__SortingAPP_Debug CMakeFiles/SortingAPP.dir/sortingAlgorithms/mainSorting.cpp.obj CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/bubble_sort.cpp.obj CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/insertion_sort.cpp.obj CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/mergesort.cpp.obj CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/quicksort.cpp.obj CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/selection_sort.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SortingAPP.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SortingAPP.exe
+  TARGET_IMPLIB = libSortingAPP.dll.a
+  TARGET_PDB = SortingAPP.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SearchAPP
+
+
+#############################################
+# Order-only phony target for SearchAPP
+
+build cmake_object_order_depends_target_SearchAPP: phony || .
+
+build CMakeFiles/SearchAPP.dir/searchAlgorithms/mainSearch.cpp.obj: CXX_COMPILER__SearchAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/mainSearch.cpp || cmake_object_order_depends_target_SearchAPP
+  DEP_FILE = CMakeFiles\SearchAPP.dir\searchAlgorithms\mainSearch.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\SearchAPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\SearchAPP.dir\searchAlgorithms
+
+build CMakeFiles/SearchAPP.dir/searchAlgorithms/searches/binary_search.cpp.obj: CXX_COMPILER__SearchAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/searches/binary_search.cpp || cmake_object_order_depends_target_SearchAPP
+  DEP_FILE = CMakeFiles\SearchAPP.dir\searchAlgorithms\searches\binary_search.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\SearchAPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\SearchAPP.dir\searchAlgorithms\searches
+
+build CMakeFiles/SearchAPP.dir/searchAlgorithms/searches/linear_search.cpp.obj: CXX_COMPILER__SearchAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/searches/linear_search.cpp || cmake_object_order_depends_target_SearchAPP
+  DEP_FILE = CMakeFiles\SearchAPP.dir\searchAlgorithms\searches\linear_search.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\SearchAPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\SearchAPP.dir\searchAlgorithms\searches
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SearchAPP
+
+
+#############################################
+# Link the executable SearchAPP.exe
+
+build SearchAPP.exe: CXX_EXECUTABLE_LINKER__SearchAPP_Debug CMakeFiles/SearchAPP.dir/searchAlgorithms/mainSearch.cpp.obj CMakeFiles/SearchAPP.dir/searchAlgorithms/searches/binary_search.cpp.obj CMakeFiles/SearchAPP.dir/searchAlgorithms/searches/linear_search.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SearchAPP.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SearchAPP.exe
+  TARGET_IMPLIB = libSearchAPP.dll.a
+  TARGET_PDB = SearchAPP.exe.dbg
 
 
 #############################################
@@ -1913,6 +2086,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 # =============================================================================
 # Target aliases.
+
+build SearchAPP: phony SearchAPP.exe
+
+build SortingAPP: phony SortingAPP.exe
 
 build ejemplo1: phony ejemplo1.exe
 
@@ -2034,7 +2211,7 @@ build taller3: phony taller3.exe
 #############################################
 # Folder: C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug
 
-build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe gotoxyExample.exe gotoxyExample1.exe gotoxyExample2.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe gotoxyExample.exe gotoxyExample1.exe gotoxyExample2.exe leccion1.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe SortingAPP.exe SearchAPP.exe
 
 # =============================================================================
 # Built-in targets

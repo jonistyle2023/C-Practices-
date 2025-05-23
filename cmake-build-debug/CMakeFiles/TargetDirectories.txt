@@ -54,5 +54,7 @@ C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFile
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/recursividad3.dir
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/recursividad4.dir
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/recursividad5.dir
+C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/SortingAPP.dir
+C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/SearchAPP.dir
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

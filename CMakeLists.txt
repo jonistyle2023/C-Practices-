@@ -177,3 +177,25 @@ add_executable(recursividad2 recursividad/recursividad2.cpp)
 add_executable(recursividad3 recursividad/recursividad3.cpp)
 add_executable(recursividad4 recursividad/recursividad4.cpp)
 add_executable(recursividad5 recursividad/recursividad5.cpp)
+
+# TAREA #3
+## Ejecutables para la aplicación de algoritmos de ordenamiento
+include_directories(sortingAlgorithms/include)
+set(SOURCES
+    sortingAlgorithms/mainSorting.cpp
+    sortingAlgorithms/sorts/bubble_sort.cpp
+    sortingAlgorithms/sorts/insertion_sort.cpp
+    sortingAlgorithms/sorts/mergesort.cpp
+    sortingAlgorithms/sorts/quicksort.cpp
+    sortingAlgorithms/sorts/selection_sort.cpp
+)
+add_executable(SortingAPP ${SOURCES})
+
+## Ejecutables para la aplicación de algoritmos de búsqueda
+include_directories(searchAlgorithms/include)
+set(SOURCES_SEARCH
+    searchAlgorithms/mainSearch.cpp
+    searchAlgorithms/searches/binary_search.cpp
+    searchAlgorithms/searches/linear_search.cpp
+)
+add_executable(SearchAPP ${SOURCES_SEARCH})
