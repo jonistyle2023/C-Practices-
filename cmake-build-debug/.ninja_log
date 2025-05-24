@@ -66,3 +66,10 @@
 1757	1906	7696883894166075	SearchAPP.exe	4d0a7a14ab5b1b05
 66	3846	7697205510917975	CMakeFiles/SearchAPP.dir/searchAlgorithms/mainSearch.cpp.obj	1b2fd6b78ed1d408
 3847	4224	7697205548735583	SearchAPP.exe	4d0a7a14ab5b1b05
+116	1175	7697636301591671	CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/bubble_sort.cpp.obj	6b61a2661b4b401d
+167	1184	7697636302092592	CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/insertion_sort.cpp.obj	e2188a671d13fb75
+220	1297	7697636302633721	CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/mergesort.cpp.obj	776a981078e180ea
+1185	1784	7697636312276073	CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/selection_sort.cpp.obj	3c7dd9ca36214139
+1176	1789	7697636312190828	CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/quicksort.cpp.obj	2d3f066eec96a81d
+106	4547	7697636301491469	CMakeFiles/SortingAPP.dir/sortingAlgorithms/mainSorting.cpp.obj	714b888cd42216e8
+4547	4895	7697636345893375	SortingAPP.exe	1d0a1592d9970da0

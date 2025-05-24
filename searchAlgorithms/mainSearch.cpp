@@ -6,6 +6,7 @@
  * - Búsqueda Lineal (include/binary_search.cpp)
  * - Búsqueda Binaria (include/linear_search.cpp)
  */
+
 // Bloque de declaraciones
 // Librerías necesarias
 #include <iostream>
