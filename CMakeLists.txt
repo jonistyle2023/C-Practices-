@@ -9,14 +9,17 @@ add_executable(fundamentosProgramacion main.cpp)
 
 # EJECUTABLES PARA LOS EJEMPLOS
 
-## Ejecutable para ejemplo1
-add_executable(ejemplo1 section1/ejemplo1.cpp)
+# Ejecutables para los ejemplos de la sección 1
+set(EJEMPLOS
+        ejemplo1
+        ejemplo2
+        ejemplo3
+)
 
-## Ejecutable para ejemplo2
-add_executable(ejemplo2 section1/ejemplo2.cpp)
-
-## Ejecutable para ejemplo3
-add_executable(ejemplo3 section1/ejemplo3.cpp)
+# Crear ejecutables automáticamente
+foreach(EJEMPLO ${EJEMPLOS})
+    add_executable(${EJEMPLO} section1/${EJEMPLO}.cpp)
+endforeach()
 
 ## Ejecutable para ejemplo4
 add_executable(ejemplo4 section2/ejemplo4.cpp)
