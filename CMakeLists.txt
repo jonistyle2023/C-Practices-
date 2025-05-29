@@ -9,14 +9,17 @@ add_executable(fundamentosProgramacion main.cpp)
 
 # EJECUTABLES PARA LOS EJEMPLOS
 
-## Ejecutable para ejemplo1
-add_executable(ejemplo1 section1/ejemplo1.cpp)
+# Ejecutables para los ejemplos de la sección 1
+set(EJEMPLOS
+        ejemplo1
+        ejemplo2
+        ejemplo3
+)
 
-## Ejecutable para ejemplo2
-add_executable(ejemplo2 section1/ejemplo2.cpp)
-
-## Ejecutable para ejemplo3
-add_executable(ejemplo3 section1/ejemplo3.cpp)
+# Crear ejecutables automáticamente
+foreach(EJEMPLO ${EJEMPLOS})
+    add_executable(${EJEMPLO} section1/${EJEMPLO}.cpp)
+endforeach()
 
 ## Ejecutable para ejemplo4
 add_executable(ejemplo4 section2/ejemplo4.cpp)
@@ -188,6 +191,11 @@ add_executable(examen3 Exams/examenP1-e3.cpp)
 ## Ejecutable para el ejercicio de examen4
 add_executable(examen4 Exams/examenP1-e4.cpp)
 
+# ESTRUCTURAS DE DATOS
+add_executable(ED-1 section8/ED_01.cpp)
+add_executable(ED-2 section8/ED_02.cpp)
+add_executable(ED-3 section8/ED_03.cpp)
+
 # EJERCICIOS DE RECURSIVIDAD
 ## Ejecutable para el ejercicio de recursividad1
 add_executable(recursividad1 recursividad/recursividad1.cpp)
@@ -195,3 +203,25 @@ add_executable(recursividad2 recursividad/recursividad2.cpp)
 add_executable(recursividad3 recursividad/recursividad3.cpp)
 add_executable(recursividad4 recursividad/recursividad4.cpp)
 add_executable(recursividad5 recursividad/recursividad5.cpp)
+
+# TAREA #3
+## Ejecutables para la aplicación de algoritmos de ordenamiento
+include_directories(sortingAlgorithms/include)
+set(SOURCES
+    sortingAlgorithms/mainSorting.cpp
+    sortingAlgorithms/sorts/bubble_sort.cpp
+    sortingAlgorithms/sorts/insertion_sort.cpp
+    sortingAlgorithms/sorts/mergesort.cpp
+    sortingAlgorithms/sorts/quicksort.cpp
+    sortingAlgorithms/sorts/selection_sort.cpp
+)
+add_executable(SortingAPP ${SOURCES})
+
+## Ejecutables para la aplicación de algoritmos de búsqueda
+include_directories(searchAlgorithms/include)
+set(SOURCES_SEARCH
+    searchAlgorithms/mainSearch.cpp
+    searchAlgorithms/searches/binary_search.cpp
+    searchAlgorithms/searches/linear_search.cpp
+)
+add_executable(SearchAPP ${SOURCES_SEARCH})

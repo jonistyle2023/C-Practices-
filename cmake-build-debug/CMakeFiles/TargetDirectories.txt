@@ -55,10 +55,15 @@ C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/examen2.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/examen3.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/examen4.dir
+C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ED-1.dir
+C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ED-2.dir
+C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/ED-3.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/recursividad1.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/recursividad2.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/recursividad3.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/recursividad4.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/recursividad5.dir
+C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/SortingAPP.dir
+C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/SearchAPP.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
