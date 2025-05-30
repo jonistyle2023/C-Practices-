@@ -135,6 +135,8 @@ add_executable(linearSearch section7/linearSearch.cpp)
 
 ## Ejecutable para lección1
 add_executable(leccion1 lessons/leccion1.cpp)
+## Ejecutable para lección2
+add_executable(leccion2 lessons/leccion2.cpp)
 
 #------------------------------------------------
 
