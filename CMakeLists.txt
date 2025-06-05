@@ -198,6 +198,9 @@ add_executable(ED-1 section8/ED_01.cpp)
 add_executable(ED-2 section8/ED_02.cpp)
 add_executable(ED-3 section8/ED_03.cpp)
 
+# ARCHIVOS
+add_executable(archivo1 section8/A_EJ01.cpp)
+
 # EJERCICIOS DE RECURSIVIDAD
 ## Ejecutable para el ejercicio de recursividad1
 add_executable(recursividad1 recursividad/recursividad1.cpp)

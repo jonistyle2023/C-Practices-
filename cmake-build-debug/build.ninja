@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target fundamentosProgramacion
 
@@ -49,10 +49,10 @@ cmake_ninja_workdir = C$:/Users/jonat/CLionProjects/fundamentosProgramacion/cmak
 
 build cmake_object_order_depends_target_fundamentosProgramacion: phony || .
 
-build CMakeFiles/fundamentosProgramacion.dir/main.cpp.obj: CXX_COMPILER__fundamentosProgramacion_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/main.cpp || cmake_object_order_depends_target_fundamentosProgramacion
+build CMakeFiles/fundamentosProgramacion.dir/main.cpp.obj: CXX_COMPILER__fundamentosProgramacion_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/main.cpp || cmake_object_order_depends_target_fundamentosProgramacion
   DEP_FILE = CMakeFiles\fundamentosProgramacion.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\fundamentosProgramacion.dir
   OBJECT_FILE_DIR = CMakeFiles\fundamentosProgramacion.dir
 
@@ -83,10 +83,10 @@ build fundamentosProgramacion.exe: CXX_EXECUTABLE_LINKER__fundamentosProgramacio
 
 build cmake_object_order_depends_target_ejemplo1: phony || .
 
-build CMakeFiles/ejemplo1.dir/section1/ejemplo1.cpp.obj: CXX_COMPILER__ejemplo1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section1/ejemplo1.cpp || cmake_object_order_depends_target_ejemplo1
+build CMakeFiles/ejemplo1.dir/section1/ejemplo1.cpp.obj: CXX_COMPILER__ejemplo1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section1/ejemplo1.cpp || cmake_object_order_depends_target_ejemplo1
   DEP_FILE = CMakeFiles\ejemplo1.dir\section1\ejemplo1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo1.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo1.dir\section1
 
@@ -117,10 +117,10 @@ build ejemplo1.exe: CXX_EXECUTABLE_LINKER__ejemplo1_Debug CMakeFiles/ejemplo1.di
 
 build cmake_object_order_depends_target_ejemplo2: phony || .
 
-build CMakeFiles/ejemplo2.dir/section1/ejemplo2.cpp.obj: CXX_COMPILER__ejemplo2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section1/ejemplo2.cpp || cmake_object_order_depends_target_ejemplo2
+build CMakeFiles/ejemplo2.dir/section1/ejemplo2.cpp.obj: CXX_COMPILER__ejemplo2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section1/ejemplo2.cpp || cmake_object_order_depends_target_ejemplo2
   DEP_FILE = CMakeFiles\ejemplo2.dir\section1\ejemplo2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo2.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo2.dir\section1
 
@@ -151,10 +151,10 @@ build ejemplo2.exe: CXX_EXECUTABLE_LINKER__ejemplo2_Debug CMakeFiles/ejemplo2.di
 
 build cmake_object_order_depends_target_ejemplo3: phony || .
 
-build CMakeFiles/ejemplo3.dir/section1/ejemplo3.cpp.obj: CXX_COMPILER__ejemplo3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section1/ejemplo3.cpp || cmake_object_order_depends_target_ejemplo3
+build CMakeFiles/ejemplo3.dir/section1/ejemplo3.cpp.obj: CXX_COMPILER__ejemplo3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section1/ejemplo3.cpp || cmake_object_order_depends_target_ejemplo3
   DEP_FILE = CMakeFiles\ejemplo3.dir\section1\ejemplo3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo3.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo3.dir\section1
 
@@ -185,10 +185,10 @@ build ejemplo3.exe: CXX_EXECUTABLE_LINKER__ejemplo3_Debug CMakeFiles/ejemplo3.di
 
 build cmake_object_order_depends_target_ejemplo4: phony || .
 
-build CMakeFiles/ejemplo4.dir/section2/ejemplo4.cpp.obj: CXX_COMPILER__ejemplo4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo4.cpp || cmake_object_order_depends_target_ejemplo4
+build CMakeFiles/ejemplo4.dir/section2/ejemplo4.cpp.obj: CXX_COMPILER__ejemplo4_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section2/ejemplo4.cpp || cmake_object_order_depends_target_ejemplo4
   DEP_FILE = CMakeFiles\ejemplo4.dir\section2\ejemplo4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo4.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo4.dir\section2
 
@@ -219,10 +219,10 @@ build ejemplo4.exe: CXX_EXECUTABLE_LINKER__ejemplo4_Debug CMakeFiles/ejemplo4.di
 
 build cmake_object_order_depends_target_ejemplo5: phony || .
 
-build CMakeFiles/ejemplo5.dir/section2/ejemplo5.cpp.obj: CXX_COMPILER__ejemplo5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo5.cpp || cmake_object_order_depends_target_ejemplo5
+build CMakeFiles/ejemplo5.dir/section2/ejemplo5.cpp.obj: CXX_COMPILER__ejemplo5_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section2/ejemplo5.cpp || cmake_object_order_depends_target_ejemplo5
   DEP_FILE = CMakeFiles\ejemplo5.dir\section2\ejemplo5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo5.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo5.dir\section2
 
@@ -253,10 +253,10 @@ build ejemplo5.exe: CXX_EXECUTABLE_LINKER__ejemplo5_Debug CMakeFiles/ejemplo5.di
 
 build cmake_object_order_depends_target_ejemplo6: phony || .
 
-build CMakeFiles/ejemplo6.dir/section2/ejemplo6.cpp.obj: CXX_COMPILER__ejemplo6_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo6.cpp || cmake_object_order_depends_target_ejemplo6
+build CMakeFiles/ejemplo6.dir/section2/ejemplo6.cpp.obj: CXX_COMPILER__ejemplo6_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section2/ejemplo6.cpp || cmake_object_order_depends_target_ejemplo6
   DEP_FILE = CMakeFiles\ejemplo6.dir\section2\ejemplo6.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo6.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo6.dir\section2
 
@@ -287,10 +287,10 @@ build ejemplo6.exe: CXX_EXECUTABLE_LINKER__ejemplo6_Debug CMakeFiles/ejemplo6.di
 
 build cmake_object_order_depends_target_ejemplo7: phony || .
 
-build CMakeFiles/ejemplo7.dir/section2/ejemplo7.cpp.obj: CXX_COMPILER__ejemplo7_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section2/ejemplo7.cpp || cmake_object_order_depends_target_ejemplo7
+build CMakeFiles/ejemplo7.dir/section2/ejemplo7.cpp.obj: CXX_COMPILER__ejemplo7_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section2/ejemplo7.cpp || cmake_object_order_depends_target_ejemplo7
   DEP_FILE = CMakeFiles\ejemplo7.dir\section2\ejemplo7.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo7.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo7.dir\section2
 
@@ -321,10 +321,10 @@ build ejemplo7.exe: CXX_EXECUTABLE_LINKER__ejemplo7_Debug CMakeFiles/ejemplo7.di
 
 build cmake_object_order_depends_target_ejemplo8: phony || .
 
-build CMakeFiles/ejemplo8.dir/section3/ejemplo8.cpp.obj: CXX_COMPILER__ejemplo8_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo8.cpp || cmake_object_order_depends_target_ejemplo8
+build CMakeFiles/ejemplo8.dir/section3/ejemplo8.cpp.obj: CXX_COMPILER__ejemplo8_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo8.cpp || cmake_object_order_depends_target_ejemplo8
   DEP_FILE = CMakeFiles\ejemplo8.dir\section3\ejemplo8.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo8.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo8.dir\section3
 
@@ -355,10 +355,10 @@ build ejemplo8.exe: CXX_EXECUTABLE_LINKER__ejemplo8_Debug CMakeFiles/ejemplo8.di
 
 build cmake_object_order_depends_target_ejemplo9: phony || .
 
-build CMakeFiles/ejemplo9.dir/section3/ejemplo9.cpp.obj: CXX_COMPILER__ejemplo9_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo9.cpp || cmake_object_order_depends_target_ejemplo9
+build CMakeFiles/ejemplo9.dir/section3/ejemplo9.cpp.obj: CXX_COMPILER__ejemplo9_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo9.cpp || cmake_object_order_depends_target_ejemplo9
   DEP_FILE = CMakeFiles\ejemplo9.dir\section3\ejemplo9.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo9.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo9.dir\section3
 
@@ -389,10 +389,10 @@ build ejemplo9.exe: CXX_EXECUTABLE_LINKER__ejemplo9_Debug CMakeFiles/ejemplo9.di
 
 build cmake_object_order_depends_target_ejemplo10: phony || .
 
-build CMakeFiles/ejemplo10.dir/section3/ejemplo10.cpp.obj: CXX_COMPILER__ejemplo10_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo10.cpp || cmake_object_order_depends_target_ejemplo10
+build CMakeFiles/ejemplo10.dir/section3/ejemplo10.cpp.obj: CXX_COMPILER__ejemplo10_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo10.cpp || cmake_object_order_depends_target_ejemplo10
   DEP_FILE = CMakeFiles\ejemplo10.dir\section3\ejemplo10.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo10.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo10.dir\section3
 
@@ -423,10 +423,10 @@ build ejemplo10.exe: CXX_EXECUTABLE_LINKER__ejemplo10_Debug CMakeFiles/ejemplo10
 
 build cmake_object_order_depends_target_ejemplo11: phony || .
 
-build CMakeFiles/ejemplo11.dir/section3/ejemplo11.cpp.obj: CXX_COMPILER__ejemplo11_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo11.cpp || cmake_object_order_depends_target_ejemplo11
+build CMakeFiles/ejemplo11.dir/section3/ejemplo11.cpp.obj: CXX_COMPILER__ejemplo11_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo11.cpp || cmake_object_order_depends_target_ejemplo11
   DEP_FILE = CMakeFiles\ejemplo11.dir\section3\ejemplo11.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo11.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo11.dir\section3
 
@@ -457,10 +457,10 @@ build ejemplo11.exe: CXX_EXECUTABLE_LINKER__ejemplo11_Debug CMakeFiles/ejemplo11
 
 build cmake_object_order_depends_target_ejemplo12: phony || .
 
-build CMakeFiles/ejemplo12.dir/section3/ejemplo12.cpp.obj: CXX_COMPILER__ejemplo12_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section3/ejemplo12.cpp || cmake_object_order_depends_target_ejemplo12
+build CMakeFiles/ejemplo12.dir/section3/ejemplo12.cpp.obj: CXX_COMPILER__ejemplo12_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section3/ejemplo12.cpp || cmake_object_order_depends_target_ejemplo12
   DEP_FILE = CMakeFiles\ejemplo12.dir\section3\ejemplo12.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo12.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo12.dir\section3
 
@@ -491,10 +491,10 @@ build ejemplo12.exe: CXX_EXECUTABLE_LINKER__ejemplo12_Debug CMakeFiles/ejemplo12
 
 build cmake_object_order_depends_target_ejemplo13: phony || .
 
-build CMakeFiles/ejemplo13.dir/section4/ejemplo13.cpp.obj: CXX_COMPILER__ejemplo13_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo13.cpp || cmake_object_order_depends_target_ejemplo13
+build CMakeFiles/ejemplo13.dir/section4/ejemplo13.cpp.obj: CXX_COMPILER__ejemplo13_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo13.cpp || cmake_object_order_depends_target_ejemplo13
   DEP_FILE = CMakeFiles\ejemplo13.dir\section4\ejemplo13.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo13.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo13.dir\section4
 
@@ -525,10 +525,10 @@ build ejemplo13.exe: CXX_EXECUTABLE_LINKER__ejemplo13_Debug CMakeFiles/ejemplo13
 
 build cmake_object_order_depends_target_ejemplo14: phony || .
 
-build CMakeFiles/ejemplo14.dir/section4/ejemplo14.cpp.obj: CXX_COMPILER__ejemplo14_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo14.cpp || cmake_object_order_depends_target_ejemplo14
+build CMakeFiles/ejemplo14.dir/section4/ejemplo14.cpp.obj: CXX_COMPILER__ejemplo14_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo14.cpp || cmake_object_order_depends_target_ejemplo14
   DEP_FILE = CMakeFiles\ejemplo14.dir\section4\ejemplo14.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo14.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo14.dir\section4
 
@@ -559,10 +559,10 @@ build ejemplo14.exe: CXX_EXECUTABLE_LINKER__ejemplo14_Debug CMakeFiles/ejemplo14
 
 build cmake_object_order_depends_target_ejemplo15: phony || .
 
-build CMakeFiles/ejemplo15.dir/section4/ejemplo15.cpp.obj: CXX_COMPILER__ejemplo15_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo15.cpp || cmake_object_order_depends_target_ejemplo15
+build CMakeFiles/ejemplo15.dir/section4/ejemplo15.cpp.obj: CXX_COMPILER__ejemplo15_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo15.cpp || cmake_object_order_depends_target_ejemplo15
   DEP_FILE = CMakeFiles\ejemplo15.dir\section4\ejemplo15.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo15.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo15.dir\section4
 
@@ -593,10 +593,10 @@ build ejemplo15.exe: CXX_EXECUTABLE_LINKER__ejemplo15_Debug CMakeFiles/ejemplo15
 
 build cmake_object_order_depends_target_ejemplo16: phony || .
 
-build CMakeFiles/ejemplo16.dir/section4/ejemplo16.cpp.obj: CXX_COMPILER__ejemplo16_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo16.cpp || cmake_object_order_depends_target_ejemplo16
+build CMakeFiles/ejemplo16.dir/section4/ejemplo16.cpp.obj: CXX_COMPILER__ejemplo16_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo16.cpp || cmake_object_order_depends_target_ejemplo16
   DEP_FILE = CMakeFiles\ejemplo16.dir\section4\ejemplo16.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo16.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo16.dir\section4
 
@@ -627,10 +627,10 @@ build ejemplo16.exe: CXX_EXECUTABLE_LINKER__ejemplo16_Debug CMakeFiles/ejemplo16
 
 build cmake_object_order_depends_target_ejemplo17: phony || .
 
-build CMakeFiles/ejemplo17.dir/section4/ejemplo17.cpp.obj: CXX_COMPILER__ejemplo17_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo17.cpp || cmake_object_order_depends_target_ejemplo17
+build CMakeFiles/ejemplo17.dir/section4/ejemplo17.cpp.obj: CXX_COMPILER__ejemplo17_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo17.cpp || cmake_object_order_depends_target_ejemplo17
   DEP_FILE = CMakeFiles\ejemplo17.dir\section4\ejemplo17.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo17.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo17.dir\section4
 
@@ -661,10 +661,10 @@ build ejemplo17.exe: CXX_EXECUTABLE_LINKER__ejemplo17_Debug CMakeFiles/ejemplo17
 
 build cmake_object_order_depends_target_ejemplo18: phony || .
 
-build CMakeFiles/ejemplo18.dir/section4/ejemplo18.cpp.obj: CXX_COMPILER__ejemplo18_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo18.cpp || cmake_object_order_depends_target_ejemplo18
+build CMakeFiles/ejemplo18.dir/section4/ejemplo18.cpp.obj: CXX_COMPILER__ejemplo18_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo18.cpp || cmake_object_order_depends_target_ejemplo18
   DEP_FILE = CMakeFiles\ejemplo18.dir\section4\ejemplo18.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo18.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo18.dir\section4
 
@@ -695,10 +695,10 @@ build ejemplo18.exe: CXX_EXECUTABLE_LINKER__ejemplo18_Debug CMakeFiles/ejemplo18
 
 build cmake_object_order_depends_target_ejemplo19: phony || .
 
-build CMakeFiles/ejemplo19.dir/section4/ejemplo19.cpp.obj: CXX_COMPILER__ejemplo19_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section4/ejemplo19.cpp || cmake_object_order_depends_target_ejemplo19
+build CMakeFiles/ejemplo19.dir/section4/ejemplo19.cpp.obj: CXX_COMPILER__ejemplo19_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section4/ejemplo19.cpp || cmake_object_order_depends_target_ejemplo19
   DEP_FILE = CMakeFiles\ejemplo19.dir\section4\ejemplo19.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo19.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo19.dir\section4
 
@@ -729,10 +729,10 @@ build ejemplo19.exe: CXX_EXECUTABLE_LINKER__ejemplo19_Debug CMakeFiles/ejemplo19
 
 build cmake_object_order_depends_target_ejemplo20: phony || .
 
-build CMakeFiles/ejemplo20.dir/section5/ejemplo20.cpp.obj: CXX_COMPILER__ejemplo20_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo20.cpp || cmake_object_order_depends_target_ejemplo20
+build CMakeFiles/ejemplo20.dir/section5/ejemplo20.cpp.obj: CXX_COMPILER__ejemplo20_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section5/ejemplo20.cpp || cmake_object_order_depends_target_ejemplo20
   DEP_FILE = CMakeFiles\ejemplo20.dir\section5\ejemplo20.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo20.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo20.dir\section5
 
@@ -763,10 +763,10 @@ build ejemplo20.exe: CXX_EXECUTABLE_LINKER__ejemplo20_Debug CMakeFiles/ejemplo20
 
 build cmake_object_order_depends_target_ejemplo21: phony || .
 
-build CMakeFiles/ejemplo21.dir/section5/ejemplo21.cpp.obj: CXX_COMPILER__ejemplo21_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo21.cpp || cmake_object_order_depends_target_ejemplo21
+build CMakeFiles/ejemplo21.dir/section5/ejemplo21.cpp.obj: CXX_COMPILER__ejemplo21_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section5/ejemplo21.cpp || cmake_object_order_depends_target_ejemplo21
   DEP_FILE = CMakeFiles\ejemplo21.dir\section5\ejemplo21.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo21.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo21.dir\section5
 
@@ -797,10 +797,10 @@ build ejemplo21.exe: CXX_EXECUTABLE_LINKER__ejemplo21_Debug CMakeFiles/ejemplo21
 
 build cmake_object_order_depends_target_ejemplo22: phony || .
 
-build CMakeFiles/ejemplo22.dir/section5/ejemplo22.cpp.obj: CXX_COMPILER__ejemplo22_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo22.cpp || cmake_object_order_depends_target_ejemplo22
+build CMakeFiles/ejemplo22.dir/section5/ejemplo22.cpp.obj: CXX_COMPILER__ejemplo22_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section5/ejemplo22.cpp || cmake_object_order_depends_target_ejemplo22
   DEP_FILE = CMakeFiles\ejemplo22.dir\section5\ejemplo22.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo22.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo22.dir\section5
 
@@ -831,10 +831,10 @@ build ejemplo22.exe: CXX_EXECUTABLE_LINKER__ejemplo22_Debug CMakeFiles/ejemplo22
 
 build cmake_object_order_depends_target_ejemplo23: phony || .
 
-build CMakeFiles/ejemplo23.dir/section5/ejemplo23.cpp.obj: CXX_COMPILER__ejemplo23_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section5/ejemplo23.cpp || cmake_object_order_depends_target_ejemplo23
+build CMakeFiles/ejemplo23.dir/section5/ejemplo23.cpp.obj: CXX_COMPILER__ejemplo23_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section5/ejemplo23.cpp || cmake_object_order_depends_target_ejemplo23
   DEP_FILE = CMakeFiles\ejemplo23.dir\section5\ejemplo23.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo23.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo23.dir\section5
 
@@ -865,10 +865,10 @@ build ejemplo23.exe: CXX_EXECUTABLE_LINKER__ejemplo23_Debug CMakeFiles/ejemplo23
 
 build cmake_object_order_depends_target_ejemplo24: phony || .
 
-build CMakeFiles/ejemplo24.dir/section6/ejemplo24.cpp.obj: CXX_COMPILER__ejemplo24_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo24.cpp || cmake_object_order_depends_target_ejemplo24
+build CMakeFiles/ejemplo24.dir/section6/ejemplo24.cpp.obj: CXX_COMPILER__ejemplo24_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/ejemplo24.cpp || cmake_object_order_depends_target_ejemplo24
   DEP_FILE = CMakeFiles\ejemplo24.dir\section6\ejemplo24.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo24.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo24.dir\section6
 
@@ -899,10 +899,10 @@ build ejemplo24.exe: CXX_EXECUTABLE_LINKER__ejemplo24_Debug CMakeFiles/ejemplo24
 
 build cmake_object_order_depends_target_ejemplo25: phony || .
 
-build CMakeFiles/ejemplo25.dir/section6/ejemplo25.cpp.obj: CXX_COMPILER__ejemplo25_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo25.cpp || cmake_object_order_depends_target_ejemplo25
+build CMakeFiles/ejemplo25.dir/section6/ejemplo25.cpp.obj: CXX_COMPILER__ejemplo25_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/ejemplo25.cpp || cmake_object_order_depends_target_ejemplo25
   DEP_FILE = CMakeFiles\ejemplo25.dir\section6\ejemplo25.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo25.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo25.dir\section6
 
@@ -933,10 +933,10 @@ build ejemplo25.exe: CXX_EXECUTABLE_LINKER__ejemplo25_Debug CMakeFiles/ejemplo25
 
 build cmake_object_order_depends_target_ejemplo26: phony || .
 
-build CMakeFiles/ejemplo26.dir/section6/ejemplo26.cpp.obj: CXX_COMPILER__ejemplo26_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo26.cpp || cmake_object_order_depends_target_ejemplo26
+build CMakeFiles/ejemplo26.dir/section6/ejemplo26.cpp.obj: CXX_COMPILER__ejemplo26_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/ejemplo26.cpp || cmake_object_order_depends_target_ejemplo26
   DEP_FILE = CMakeFiles\ejemplo26.dir\section6\ejemplo26.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo26.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo26.dir\section6
 
@@ -967,10 +967,10 @@ build ejemplo26.exe: CXX_EXECUTABLE_LINKER__ejemplo26_Debug CMakeFiles/ejemplo26
 
 build cmake_object_order_depends_target_ejemplo27: phony || .
 
-build CMakeFiles/ejemplo27.dir/section6/ejemplo27.cpp.obj: CXX_COMPILER__ejemplo27_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo27.cpp || cmake_object_order_depends_target_ejemplo27
+build CMakeFiles/ejemplo27.dir/section6/ejemplo27.cpp.obj: CXX_COMPILER__ejemplo27_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/ejemplo27.cpp || cmake_object_order_depends_target_ejemplo27
   DEP_FILE = CMakeFiles\ejemplo27.dir\section6\ejemplo27.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo27.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo27.dir\section6
 
@@ -1001,10 +1001,10 @@ build ejemplo27.exe: CXX_EXECUTABLE_LINKER__ejemplo27_Debug CMakeFiles/ejemplo27
 
 build cmake_object_order_depends_target_ejemplo28: phony || .
 
-build CMakeFiles/ejemplo28.dir/section6/ejemplo28.cpp.obj: CXX_COMPILER__ejemplo28_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo28.cpp || cmake_object_order_depends_target_ejemplo28
+build CMakeFiles/ejemplo28.dir/section6/ejemplo28.cpp.obj: CXX_COMPILER__ejemplo28_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/ejemplo28.cpp || cmake_object_order_depends_target_ejemplo28
   DEP_FILE = CMakeFiles\ejemplo28.dir\section6\ejemplo28.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo28.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo28.dir\section6
 
@@ -1035,10 +1035,10 @@ build ejemplo28.exe: CXX_EXECUTABLE_LINKER__ejemplo28_Debug CMakeFiles/ejemplo28
 
 build cmake_object_order_depends_target_ejemplo29: phony || .
 
-build CMakeFiles/ejemplo29.dir/section6/ejemplo29.cpp.obj: CXX_COMPILER__ejemplo29_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo29.cpp || cmake_object_order_depends_target_ejemplo29
+build CMakeFiles/ejemplo29.dir/section6/ejemplo29.cpp.obj: CXX_COMPILER__ejemplo29_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/ejemplo29.cpp || cmake_object_order_depends_target_ejemplo29
   DEP_FILE = CMakeFiles\ejemplo29.dir\section6\ejemplo29.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo29.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo29.dir\section6
 
@@ -1069,10 +1069,10 @@ build ejemplo29.exe: CXX_EXECUTABLE_LINKER__ejemplo29_Debug CMakeFiles/ejemplo29
 
 build cmake_object_order_depends_target_ejemplo30: phony || .
 
-build CMakeFiles/ejemplo30.dir/section6/ejemplo30.cpp.obj: CXX_COMPILER__ejemplo30_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/ejemplo30.cpp || cmake_object_order_depends_target_ejemplo30
+build CMakeFiles/ejemplo30.dir/section6/ejemplo30.cpp.obj: CXX_COMPILER__ejemplo30_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/ejemplo30.cpp || cmake_object_order_depends_target_ejemplo30
   DEP_FILE = CMakeFiles\ejemplo30.dir\section6\ejemplo30.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo30.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo30.dir\section6
 
@@ -1103,10 +1103,10 @@ build ejemplo30.exe: CXX_EXECUTABLE_LINKER__ejemplo30_Debug CMakeFiles/ejemplo30
 
 build cmake_object_order_depends_target_gotoxyExample: phony || .
 
-build CMakeFiles/gotoxyExample.dir/section6/gotoxyExample.cpp.obj: CXX_COMPILER__gotoxyExample_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/gotoxyExample.cpp || cmake_object_order_depends_target_gotoxyExample
+build CMakeFiles/gotoxyExample.dir/section6/gotoxyExample.cpp.obj: CXX_COMPILER__gotoxyExample_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/gotoxyExample.cpp || cmake_object_order_depends_target_gotoxyExample
   DEP_FILE = CMakeFiles\gotoxyExample.dir\section6\gotoxyExample.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\gotoxyExample.dir
   OBJECT_FILE_DIR = CMakeFiles\gotoxyExample.dir\section6
 
@@ -1137,10 +1137,10 @@ build gotoxyExample.exe: CXX_EXECUTABLE_LINKER__gotoxyExample_Debug CMakeFiles/g
 
 build cmake_object_order_depends_target_gotoxyExample1: phony || .
 
-build CMakeFiles/gotoxyExample1.dir/section6/gotoxyExample1.cpp.obj: CXX_COMPILER__gotoxyExample1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/gotoxyExample1.cpp || cmake_object_order_depends_target_gotoxyExample1
+build CMakeFiles/gotoxyExample1.dir/section6/gotoxyExample1.cpp.obj: CXX_COMPILER__gotoxyExample1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/gotoxyExample1.cpp || cmake_object_order_depends_target_gotoxyExample1
   DEP_FILE = CMakeFiles\gotoxyExample1.dir\section6\gotoxyExample1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\gotoxyExample1.dir
   OBJECT_FILE_DIR = CMakeFiles\gotoxyExample1.dir\section6
 
@@ -1171,10 +1171,10 @@ build gotoxyExample1.exe: CXX_EXECUTABLE_LINKER__gotoxyExample1_Debug CMakeFiles
 
 build cmake_object_order_depends_target_gotoxyExample2: phony || .
 
-build CMakeFiles/gotoxyExample2.dir/section6/gotoxyExample2.cpp.obj: CXX_COMPILER__gotoxyExample2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section6/gotoxyExample2.cpp || cmake_object_order_depends_target_gotoxyExample2
+build CMakeFiles/gotoxyExample2.dir/section6/gotoxyExample2.cpp.obj: CXX_COMPILER__gotoxyExample2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section6/gotoxyExample2.cpp || cmake_object_order_depends_target_gotoxyExample2
   DEP_FILE = CMakeFiles\gotoxyExample2.dir\section6\gotoxyExample2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\gotoxyExample2.dir
   OBJECT_FILE_DIR = CMakeFiles\gotoxyExample2.dir\section6
 
@@ -1205,10 +1205,10 @@ build gotoxyExample2.exe: CXX_EXECUTABLE_LINKER__gotoxyExample2_Debug CMakeFiles
 
 build cmake_object_order_depends_target_ejemplo31: phony || .
 
-build CMakeFiles/ejemplo31.dir/section7/ejemplo31.cpp.obj: CXX_COMPILER__ejemplo31_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section7/ejemplo31.cpp || cmake_object_order_depends_target_ejemplo31
+build CMakeFiles/ejemplo31.dir/section7/ejemplo31.cpp.obj: CXX_COMPILER__ejemplo31_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/ejemplo31.cpp || cmake_object_order_depends_target_ejemplo31
   DEP_FILE = CMakeFiles\ejemplo31.dir\section7\ejemplo31.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejemplo31.dir
   OBJECT_FILE_DIR = CMakeFiles\ejemplo31.dir\section7
 
@@ -1239,10 +1239,10 @@ build ejemplo31.exe: CXX_EXECUTABLE_LINKER__ejemplo31_Debug CMakeFiles/ejemplo31
 
 build cmake_object_order_depends_target_binarySearch: phony || .
 
-build CMakeFiles/binarySearch.dir/section7/binarySearch.cpp.obj: CXX_COMPILER__binarySearch_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section7/binarySearch.cpp || cmake_object_order_depends_target_binarySearch
+build CMakeFiles/binarySearch.dir/section7/binarySearch.cpp.obj: CXX_COMPILER__binarySearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/binarySearch.cpp || cmake_object_order_depends_target_binarySearch
   DEP_FILE = CMakeFiles\binarySearch.dir\section7\binarySearch.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\binarySearch.dir
   OBJECT_FILE_DIR = CMakeFiles\binarySearch.dir\section7
 
@@ -1273,10 +1273,10 @@ build binarySearch.exe: CXX_EXECUTABLE_LINKER__binarySearch_Debug CMakeFiles/bin
 
 build cmake_object_order_depends_target_exponentialSearch: phony || .
 
-build CMakeFiles/exponentialSearch.dir/section7/exponentialSearch.cpp.obj: CXX_COMPILER__exponentialSearch_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section7/exponentialSearch.cpp || cmake_object_order_depends_target_exponentialSearch
+build CMakeFiles/exponentialSearch.dir/section7/exponentialSearch.cpp.obj: CXX_COMPILER__exponentialSearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/exponentialSearch.cpp || cmake_object_order_depends_target_exponentialSearch
   DEP_FILE = CMakeFiles\exponentialSearch.dir\section7\exponentialSearch.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\exponentialSearch.dir
   OBJECT_FILE_DIR = CMakeFiles\exponentialSearch.dir\section7
 
@@ -1307,10 +1307,10 @@ build exponentialSearch.exe: CXX_EXECUTABLE_LINKER__exponentialSearch_Debug CMak
 
 build cmake_object_order_depends_target_interpolationSearch: phony || .
 
-build CMakeFiles/interpolationSearch.dir/section7/interpolationSearch.cpp.obj: CXX_COMPILER__interpolationSearch_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section7/interpolationSearch.cpp || cmake_object_order_depends_target_interpolationSearch
+build CMakeFiles/interpolationSearch.dir/section7/interpolationSearch.cpp.obj: CXX_COMPILER__interpolationSearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/interpolationSearch.cpp || cmake_object_order_depends_target_interpolationSearch
   DEP_FILE = CMakeFiles\interpolationSearch.dir\section7\interpolationSearch.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\interpolationSearch.dir
   OBJECT_FILE_DIR = CMakeFiles\interpolationSearch.dir\section7
 
@@ -1341,10 +1341,10 @@ build interpolationSearch.exe: CXX_EXECUTABLE_LINKER__interpolationSearch_Debug 
 
 build cmake_object_order_depends_target_jumpSearch: phony || .
 
-build CMakeFiles/jumpSearch.dir/section7/jumpSearch.cpp.obj: CXX_COMPILER__jumpSearch_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section7/jumpSearch.cpp || cmake_object_order_depends_target_jumpSearch
+build CMakeFiles/jumpSearch.dir/section7/jumpSearch.cpp.obj: CXX_COMPILER__jumpSearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/jumpSearch.cpp || cmake_object_order_depends_target_jumpSearch
   DEP_FILE = CMakeFiles\jumpSearch.dir\section7\jumpSearch.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\jumpSearch.dir
   OBJECT_FILE_DIR = CMakeFiles\jumpSearch.dir\section7
 
@@ -1375,10 +1375,10 @@ build jumpSearch.exe: CXX_EXECUTABLE_LINKER__jumpSearch_Debug CMakeFiles/jumpSea
 
 build cmake_object_order_depends_target_linearSearch: phony || .
 
-build CMakeFiles/linearSearch.dir/section7/linearSearch.cpp.obj: CXX_COMPILER__linearSearch_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section7/linearSearch.cpp || cmake_object_order_depends_target_linearSearch
+build CMakeFiles/linearSearch.dir/section7/linearSearch.cpp.obj: CXX_COMPILER__linearSearch_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section7/linearSearch.cpp || cmake_object_order_depends_target_linearSearch
   DEP_FILE = CMakeFiles\linearSearch.dir\section7\linearSearch.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\linearSearch.dir
   OBJECT_FILE_DIR = CMakeFiles\linearSearch.dir\section7
 
@@ -1409,10 +1409,10 @@ build linearSearch.exe: CXX_EXECUTABLE_LINKER__linearSearch_Debug CMakeFiles/lin
 
 build cmake_object_order_depends_target_leccion1: phony || .
 
-build CMakeFiles/leccion1.dir/lessons/leccion1.cpp.obj: CXX_COMPILER__leccion1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/lessons/leccion1.cpp || cmake_object_order_depends_target_leccion1
+build CMakeFiles/leccion1.dir/lessons/leccion1.cpp.obj: CXX_COMPILER__leccion1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/lessons/leccion1.cpp || cmake_object_order_depends_target_leccion1
   DEP_FILE = CMakeFiles\leccion1.dir\lessons\leccion1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\leccion1.dir
   OBJECT_FILE_DIR = CMakeFiles\leccion1.dir\lessons
 
@@ -1443,10 +1443,10 @@ build leccion1.exe: CXX_EXECUTABLE_LINKER__leccion1_Debug CMakeFiles/leccion1.di
 
 build cmake_object_order_depends_target_leccion2: phony || .
 
-build CMakeFiles/leccion2.dir/lessons/leccion2.cpp.obj: CXX_COMPILER__leccion2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/lessons/leccion2.cpp || cmake_object_order_depends_target_leccion2
+build CMakeFiles/leccion2.dir/lessons/leccion2.cpp.obj: CXX_COMPILER__leccion2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/lessons/leccion2.cpp || cmake_object_order_depends_target_leccion2
   DEP_FILE = CMakeFiles\leccion2.dir\lessons\leccion2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\leccion2.dir
   OBJECT_FILE_DIR = CMakeFiles\leccion2.dir\lessons
 
@@ -1477,10 +1477,10 @@ build leccion2.exe: CXX_EXECUTABLE_LINKER__leccion2_Debug CMakeFiles/leccion2.di
 
 build cmake_object_order_depends_target_ejercicio1: phony || .
 
-build CMakeFiles/ejercicio1.dir/exercises1-3/ejercicio1.cpp.obj: CXX_COMPILER__ejercicio1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio1.cpp || cmake_object_order_depends_target_ejercicio1
+build CMakeFiles/ejercicio1.dir/exercises1-3/ejercicio1.cpp.obj: CXX_COMPILER__ejercicio1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio1.cpp || cmake_object_order_depends_target_ejercicio1
   DEP_FILE = CMakeFiles\ejercicio1.dir\exercises1-3\ejercicio1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio1.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio1.dir\exercises1-3
 
@@ -1511,10 +1511,10 @@ build ejercicio1.exe: CXX_EXECUTABLE_LINKER__ejercicio1_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio2: phony || .
 
-build CMakeFiles/ejercicio2.dir/exercises1-3/ejercicio2.cpp.obj: CXX_COMPILER__ejercicio2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio2.cpp || cmake_object_order_depends_target_ejercicio2
+build CMakeFiles/ejercicio2.dir/exercises1-3/ejercicio2.cpp.obj: CXX_COMPILER__ejercicio2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio2.cpp || cmake_object_order_depends_target_ejercicio2
   DEP_FILE = CMakeFiles\ejercicio2.dir\exercises1-3\ejercicio2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio2.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio2.dir\exercises1-3
 
@@ -1545,10 +1545,10 @@ build ejercicio2.exe: CXX_EXECUTABLE_LINKER__ejercicio2_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio3: phony || .
 
-build CMakeFiles/ejercicio3.dir/exercises1-3/ejercicio3.cpp.obj: CXX_COMPILER__ejercicio3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio3.cpp || cmake_object_order_depends_target_ejercicio3
+build CMakeFiles/ejercicio3.dir/exercises1-3/ejercicio3.cpp.obj: CXX_COMPILER__ejercicio3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio3.cpp || cmake_object_order_depends_target_ejercicio3
   DEP_FILE = CMakeFiles\ejercicio3.dir\exercises1-3\ejercicio3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio3.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio3.dir\exercises1-3
 
@@ -1579,10 +1579,10 @@ build ejercicio3.exe: CXX_EXECUTABLE_LINKER__ejercicio3_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio4: phony || .
 
-build CMakeFiles/ejercicio4.dir/exercises1-3/ejercicio4.cpp.obj: CXX_COMPILER__ejercicio4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio4.cpp || cmake_object_order_depends_target_ejercicio4
+build CMakeFiles/ejercicio4.dir/exercises1-3/ejercicio4.cpp.obj: CXX_COMPILER__ejercicio4_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio4.cpp || cmake_object_order_depends_target_ejercicio4
   DEP_FILE = CMakeFiles\ejercicio4.dir\exercises1-3\ejercicio4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio4.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio4.dir\exercises1-3
 
@@ -1613,10 +1613,10 @@ build ejercicio4.exe: CXX_EXECUTABLE_LINKER__ejercicio4_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio5: phony || .
 
-build CMakeFiles/ejercicio5.dir/exercises1-3/ejercicio5.cpp.obj: CXX_COMPILER__ejercicio5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio5.cpp || cmake_object_order_depends_target_ejercicio5
+build CMakeFiles/ejercicio5.dir/exercises1-3/ejercicio5.cpp.obj: CXX_COMPILER__ejercicio5_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio5.cpp || cmake_object_order_depends_target_ejercicio5
   DEP_FILE = CMakeFiles\ejercicio5.dir\exercises1-3\ejercicio5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio5.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio5.dir\exercises1-3
 
@@ -1647,10 +1647,10 @@ build ejercicio5.exe: CXX_EXECUTABLE_LINKER__ejercicio5_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio6: phony || .
 
-build CMakeFiles/ejercicio6.dir/exercises1-3/ejercicio6.cpp.obj: CXX_COMPILER__ejercicio6_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio6.cpp || cmake_object_order_depends_target_ejercicio6
+build CMakeFiles/ejercicio6.dir/exercises1-3/ejercicio6.cpp.obj: CXX_COMPILER__ejercicio6_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio6.cpp || cmake_object_order_depends_target_ejercicio6
   DEP_FILE = CMakeFiles\ejercicio6.dir\exercises1-3\ejercicio6.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio6.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio6.dir\exercises1-3
 
@@ -1681,10 +1681,10 @@ build ejercicio6.exe: CXX_EXECUTABLE_LINKER__ejercicio6_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio7: phony || .
 
-build CMakeFiles/ejercicio7.dir/exercises1-3/ejercicio7.cpp.obj: CXX_COMPILER__ejercicio7_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio7.cpp || cmake_object_order_depends_target_ejercicio7
+build CMakeFiles/ejercicio7.dir/exercises1-3/ejercicio7.cpp.obj: CXX_COMPILER__ejercicio7_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio7.cpp || cmake_object_order_depends_target_ejercicio7
   DEP_FILE = CMakeFiles\ejercicio7.dir\exercises1-3\ejercicio7.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio7.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio7.dir\exercises1-3
 
@@ -1715,10 +1715,10 @@ build ejercicio7.exe: CXX_EXECUTABLE_LINKER__ejercicio7_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_ejercicio8: phony || .
 
-build CMakeFiles/ejercicio8.dir/exercises1-3/ejercicio8.cpp.obj: CXX_COMPILER__ejercicio8_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/exercises1-3/ejercicio8.cpp || cmake_object_order_depends_target_ejercicio8
+build CMakeFiles/ejercicio8.dir/exercises1-3/ejercicio8.cpp.obj: CXX_COMPILER__ejercicio8_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/exercises1-3/ejercicio8.cpp || cmake_object_order_depends_target_ejercicio8
   DEP_FILE = CMakeFiles\ejercicio8.dir\exercises1-3\ejercicio8.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ejercicio8.dir
   OBJECT_FILE_DIR = CMakeFiles\ejercicio8.dir\exercises1-3
 
@@ -1749,10 +1749,10 @@ build ejercicio8.exe: CXX_EXECUTABLE_LINKER__ejercicio8_Debug CMakeFiles/ejercic
 
 build cmake_object_order_depends_target_taller1: phony || .
 
-build CMakeFiles/taller1.dir/workshops/taller1.cpp.obj: CXX_COMPILER__taller1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/taller1.cpp || cmake_object_order_depends_target_taller1
+build CMakeFiles/taller1.dir/workshops/taller1.cpp.obj: CXX_COMPILER__taller1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/workshops/taller1.cpp || cmake_object_order_depends_target_taller1
   DEP_FILE = CMakeFiles\taller1.dir\workshops\taller1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\taller1.dir
   OBJECT_FILE_DIR = CMakeFiles\taller1.dir\workshops
 
@@ -1783,10 +1783,10 @@ build taller1.exe: CXX_EXECUTABLE_LINKER__taller1_Debug CMakeFiles/taller1.dir/w
 
 build cmake_object_order_depends_target_taller2: phony || .
 
-build CMakeFiles/taller2.dir/workshops/taller2.cpp.obj: CXX_COMPILER__taller2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/taller2.cpp || cmake_object_order_depends_target_taller2
+build CMakeFiles/taller2.dir/workshops/taller2.cpp.obj: CXX_COMPILER__taller2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/workshops/taller2.cpp || cmake_object_order_depends_target_taller2
   DEP_FILE = CMakeFiles\taller2.dir\workshops\taller2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\taller2.dir
   OBJECT_FILE_DIR = CMakeFiles\taller2.dir\workshops
 
@@ -1817,10 +1817,10 @@ build taller2.exe: CXX_EXECUTABLE_LINKER__taller2_Debug CMakeFiles/taller2.dir/w
 
 build cmake_object_order_depends_target_taller3: phony || .
 
-build CMakeFiles/taller3.dir/workshops/EJ_U2_011.cpp.obj: CXX_COMPILER__taller3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/EJ_U2_011.cpp || cmake_object_order_depends_target_taller3
+build CMakeFiles/taller3.dir/workshops/EJ_U2_011.cpp.obj: CXX_COMPILER__taller3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/workshops/EJ_U2_011.cpp || cmake_object_order_depends_target_taller3
   DEP_FILE = CMakeFiles\taller3.dir\workshops\EJ_U2_011.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\taller3.dir
   OBJECT_FILE_DIR = CMakeFiles\taller3.dir\workshops
 
@@ -1851,10 +1851,10 @@ build taller3.exe: CXX_EXECUTABLE_LINKER__taller3_Debug CMakeFiles/taller3.dir/w
 
 build cmake_object_order_depends_target_fibonacci: phony || .
 
-build CMakeFiles/fibonacci.dir/workshops/fibonacci.cpp.obj: CXX_COMPILER__fibonacci_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/workshops/fibonacci.cpp || cmake_object_order_depends_target_fibonacci
+build CMakeFiles/fibonacci.dir/workshops/fibonacci.cpp.obj: CXX_COMPILER__fibonacci_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/workshops/fibonacci.cpp || cmake_object_order_depends_target_fibonacci
   DEP_FILE = CMakeFiles\fibonacci.dir\workshops\fibonacci.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\fibonacci.dir
   OBJECT_FILE_DIR = CMakeFiles\fibonacci.dir\workshops
 
@@ -1885,10 +1885,10 @@ build fibonacci.exe: CXX_EXECUTABLE_LINKER__fibonacci_Debug CMakeFiles/fibonacci
 
 build cmake_object_order_depends_target_examen: phony || .
 
-build CMakeFiles/examen.dir/Exams/examenP1-e1.cpp.obj: CXX_COMPILER__examen_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e1.cpp || cmake_object_order_depends_target_examen
+build CMakeFiles/examen.dir/Exams/examenP1-e1.cpp.obj: CXX_COMPILER__examen_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/Exams/examenP1-e1.cpp || cmake_object_order_depends_target_examen
   DEP_FILE = CMakeFiles\examen.dir\Exams\examenP1-e1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\examen.dir
   OBJECT_FILE_DIR = CMakeFiles\examen.dir\Exams
 
@@ -1919,10 +1919,10 @@ build examen.exe: CXX_EXECUTABLE_LINKER__examen_Debug CMakeFiles/examen.dir/Exam
 
 build cmake_object_order_depends_target_examen2: phony || .
 
-build CMakeFiles/examen2.dir/Exams/examenP1-e2.cpp.obj: CXX_COMPILER__examen2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e2.cpp || cmake_object_order_depends_target_examen2
+build CMakeFiles/examen2.dir/Exams/examenP1-e2.cpp.obj: CXX_COMPILER__examen2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/Exams/examenP1-e2.cpp || cmake_object_order_depends_target_examen2
   DEP_FILE = CMakeFiles\examen2.dir\Exams\examenP1-e2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\examen2.dir
   OBJECT_FILE_DIR = CMakeFiles\examen2.dir\Exams
 
@@ -1953,10 +1953,10 @@ build examen2.exe: CXX_EXECUTABLE_LINKER__examen2_Debug CMakeFiles/examen2.dir/E
 
 build cmake_object_order_depends_target_examen3: phony || .
 
-build CMakeFiles/examen3.dir/Exams/examenP1-e3.cpp.obj: CXX_COMPILER__examen3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e3.cpp || cmake_object_order_depends_target_examen3
+build CMakeFiles/examen3.dir/Exams/examenP1-e3.cpp.obj: CXX_COMPILER__examen3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/Exams/examenP1-e3.cpp || cmake_object_order_depends_target_examen3
   DEP_FILE = CMakeFiles\examen3.dir\Exams\examenP1-e3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\examen3.dir
   OBJECT_FILE_DIR = CMakeFiles\examen3.dir\Exams
 
@@ -1987,10 +1987,10 @@ build examen3.exe: CXX_EXECUTABLE_LINKER__examen3_Debug CMakeFiles/examen3.dir/E
 
 build cmake_object_order_depends_target_examen4: phony || .
 
-build CMakeFiles/examen4.dir/Exams/examenP1-e4.cpp.obj: CXX_COMPILER__examen4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/Exams/examenP1-e4.cpp || cmake_object_order_depends_target_examen4
+build CMakeFiles/examen4.dir/Exams/examenP1-e4.cpp.obj: CXX_COMPILER__examen4_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/Exams/examenP1-e4.cpp || cmake_object_order_depends_target_examen4
   DEP_FILE = CMakeFiles\examen4.dir\Exams\examenP1-e4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\examen4.dir
   OBJECT_FILE_DIR = CMakeFiles\examen4.dir\Exams
 
@@ -2021,10 +2021,10 @@ build examen4.exe: CXX_EXECUTABLE_LINKER__examen4_Debug CMakeFiles/examen4.dir/E
 
 build cmake_object_order_depends_target_ED-1: phony || .
 
-build CMakeFiles/ED-1.dir/section8/ED_01.cpp.obj: CXX_COMPILER__ED-1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section8/ED_01.cpp || cmake_object_order_depends_target_ED-1
+build CMakeFiles/ED-1.dir/section8/ED_01.cpp.obj: CXX_COMPILER__ED-1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section8/ED_01.cpp || cmake_object_order_depends_target_ED-1
   DEP_FILE = CMakeFiles\ED-1.dir\section8\ED_01.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ED-1.dir
   OBJECT_FILE_DIR = CMakeFiles\ED-1.dir\section8
 
@@ -2055,10 +2055,10 @@ build ED-1.exe: CXX_EXECUTABLE_LINKER__ED-1_Debug CMakeFiles/ED-1.dir/section8/E
 
 build cmake_object_order_depends_target_ED-2: phony || .
 
-build CMakeFiles/ED-2.dir/section8/ED_02.cpp.obj: CXX_COMPILER__ED-2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section8/ED_02.cpp || cmake_object_order_depends_target_ED-2
+build CMakeFiles/ED-2.dir/section8/ED_02.cpp.obj: CXX_COMPILER__ED-2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section8/ED_02.cpp || cmake_object_order_depends_target_ED-2
   DEP_FILE = CMakeFiles\ED-2.dir\section8\ED_02.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ED-2.dir
   OBJECT_FILE_DIR = CMakeFiles\ED-2.dir\section8
 
@@ -2089,10 +2089,10 @@ build ED-2.exe: CXX_EXECUTABLE_LINKER__ED-2_Debug CMakeFiles/ED-2.dir/section8/E
 
 build cmake_object_order_depends_target_ED-3: phony || .
 
-build CMakeFiles/ED-3.dir/section8/ED_03.cpp.obj: CXX_COMPILER__ED-3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/section8/ED_03.cpp || cmake_object_order_depends_target_ED-3
+build CMakeFiles/ED-3.dir/section8/ED_03.cpp.obj: CXX_COMPILER__ED-3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section8/ED_03.cpp || cmake_object_order_depends_target_ED-3
   DEP_FILE = CMakeFiles\ED-3.dir\section8\ED_03.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\ED-3.dir
   OBJECT_FILE_DIR = CMakeFiles\ED-3.dir\section8
 
@@ -2115,6 +2115,40 @@ build ED-3.exe: CXX_EXECUTABLE_LINKER__ED-3_Debug CMakeFiles/ED-3.dir/section8/E
   TARGET_PDB = ED-3.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target archivo1
+
+
+#############################################
+# Order-only phony target for archivo1
+
+build cmake_object_order_depends_target_archivo1: phony || .
+
+build CMakeFiles/archivo1.dir/section8/A_EJ01.cpp.obj: CXX_COMPILER__archivo1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section8/A_EJ01.cpp || cmake_object_order_depends_target_archivo1
+  DEP_FILE = CMakeFiles\archivo1.dir\section8\A_EJ01.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\archivo1.dir
+  OBJECT_FILE_DIR = CMakeFiles\archivo1.dir\section8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target archivo1
+
+
+#############################################
+# Link the executable archivo1.exe
+
+build archivo1.exe: CXX_EXECUTABLE_LINKER__archivo1_Debug CMakeFiles/archivo1.dir/section8/A_EJ01.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\archivo1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = archivo1.exe
+  TARGET_IMPLIB = libarchivo1.dll.a
+  TARGET_PDB = archivo1.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target recursividad1
 
 
@@ -2123,10 +2157,10 @@ build ED-3.exe: CXX_EXECUTABLE_LINKER__ED-3_Debug CMakeFiles/ED-3.dir/section8/E
 
 build cmake_object_order_depends_target_recursividad1: phony || .
 
-build CMakeFiles/recursividad1.dir/recursividad/recursividad1.cpp.obj: CXX_COMPILER__recursividad1_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad1.cpp || cmake_object_order_depends_target_recursividad1
+build CMakeFiles/recursividad1.dir/recursividad/recursividad1.cpp.obj: CXX_COMPILER__recursividad1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad1.cpp || cmake_object_order_depends_target_recursividad1
   DEP_FILE = CMakeFiles\recursividad1.dir\recursividad\recursividad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad1.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad1.dir\recursividad
 
@@ -2157,10 +2191,10 @@ build recursividad1.exe: CXX_EXECUTABLE_LINKER__recursividad1_Debug CMakeFiles/r
 
 build cmake_object_order_depends_target_recursividad2: phony || .
 
-build CMakeFiles/recursividad2.dir/recursividad/recursividad2.cpp.obj: CXX_COMPILER__recursividad2_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad2.cpp || cmake_object_order_depends_target_recursividad2
+build CMakeFiles/recursividad2.dir/recursividad/recursividad2.cpp.obj: CXX_COMPILER__recursividad2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad2.cpp || cmake_object_order_depends_target_recursividad2
   DEP_FILE = CMakeFiles\recursividad2.dir\recursividad\recursividad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad2.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad2.dir\recursividad
 
@@ -2191,10 +2225,10 @@ build recursividad2.exe: CXX_EXECUTABLE_LINKER__recursividad2_Debug CMakeFiles/r
 
 build cmake_object_order_depends_target_recursividad3: phony || .
 
-build CMakeFiles/recursividad3.dir/recursividad/recursividad3.cpp.obj: CXX_COMPILER__recursividad3_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad3.cpp || cmake_object_order_depends_target_recursividad3
+build CMakeFiles/recursividad3.dir/recursividad/recursividad3.cpp.obj: CXX_COMPILER__recursividad3_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad3.cpp || cmake_object_order_depends_target_recursividad3
   DEP_FILE = CMakeFiles\recursividad3.dir\recursividad\recursividad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad3.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad3.dir\recursividad
 
@@ -2225,10 +2259,10 @@ build recursividad3.exe: CXX_EXECUTABLE_LINKER__recursividad3_Debug CMakeFiles/r
 
 build cmake_object_order_depends_target_recursividad4: phony || .
 
-build CMakeFiles/recursividad4.dir/recursividad/recursividad4.cpp.obj: CXX_COMPILER__recursividad4_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad4.cpp || cmake_object_order_depends_target_recursividad4
+build CMakeFiles/recursividad4.dir/recursividad/recursividad4.cpp.obj: CXX_COMPILER__recursividad4_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad4.cpp || cmake_object_order_depends_target_recursividad4
   DEP_FILE = CMakeFiles\recursividad4.dir\recursividad\recursividad4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad4.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad4.dir\recursividad
 
@@ -2259,10 +2293,10 @@ build recursividad4.exe: CXX_EXECUTABLE_LINKER__recursividad4_Debug CMakeFiles/r
 
 build cmake_object_order_depends_target_recursividad5: phony || .
 
-build CMakeFiles/recursividad5.dir/recursividad/recursividad5.cpp.obj: CXX_COMPILER__recursividad5_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/recursividad/recursividad5.cpp || cmake_object_order_depends_target_recursividad5
+build CMakeFiles/recursividad5.dir/recursividad/recursividad5.cpp.obj: CXX_COMPILER__recursividad5_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/recursividad/recursividad5.cpp || cmake_object_order_depends_target_recursividad5
   DEP_FILE = CMakeFiles\recursividad5.dir\recursividad\recursividad5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\recursividad5.dir
   OBJECT_FILE_DIR = CMakeFiles\recursividad5.dir\recursividad
 
@@ -2293,45 +2327,45 @@ build recursividad5.exe: CXX_EXECUTABLE_LINKER__recursividad5_Debug CMakeFiles/r
 
 build cmake_object_order_depends_target_SortingAPP: phony || .
 
-build CMakeFiles/SortingAPP.dir/sortingAlgorithms/mainSorting.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/mainSorting.cpp || cmake_object_order_depends_target_SortingAPP
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/mainSorting.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/mainSorting.cpp || cmake_object_order_depends_target_SortingAPP
   DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\mainSorting.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\SortingAPP.dir
   OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms
 
-build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/bubble_sort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/bubble_sort.cpp || cmake_object_order_depends_target_SortingAPP
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/bubble_sort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/sorts/bubble_sort.cpp || cmake_object_order_depends_target_SortingAPP
   DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\bubble_sort.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\SortingAPP.dir
   OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
 
-build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/insertion_sort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/insertion_sort.cpp || cmake_object_order_depends_target_SortingAPP
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/insertion_sort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/sorts/insertion_sort.cpp || cmake_object_order_depends_target_SortingAPP
   DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\insertion_sort.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\SortingAPP.dir
   OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
 
-build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/mergesort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/mergesort.cpp || cmake_object_order_depends_target_SortingAPP
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/mergesort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/sorts/mergesort.cpp || cmake_object_order_depends_target_SortingAPP
   DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\mergesort.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\SortingAPP.dir
   OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
 
-build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/quicksort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/quicksort.cpp || cmake_object_order_depends_target_SortingAPP
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/quicksort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/sorts/quicksort.cpp || cmake_object_order_depends_target_SortingAPP
   DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\quicksort.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\SortingAPP.dir
   OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
 
-build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/selection_sort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/sorts/selection_sort.cpp || cmake_object_order_depends_target_SortingAPP
+build CMakeFiles/SortingAPP.dir/sortingAlgorithms/sorts/selection_sort.cpp.obj: CXX_COMPILER__SortingAPP_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/sorts/selection_sort.cpp || cmake_object_order_depends_target_SortingAPP
   DEP_FILE = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts\selection_sort.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\SortingAPP.dir
   OBJECT_FILE_DIR = CMakeFiles\SortingAPP.dir\sortingAlgorithms\sorts
 
@@ -2362,24 +2396,24 @@ build SortingAPP.exe: CXX_EXECUTABLE_LINKER__SortingAPP_Debug CMakeFiles/Sorting
 
 build cmake_object_order_depends_target_SearchAPP: phony || .
 
-build CMakeFiles/SearchAPP.dir/searchAlgorithms/mainSearch.cpp.obj: CXX_COMPILER__SearchAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/mainSearch.cpp || cmake_object_order_depends_target_SearchAPP
+build CMakeFiles/SearchAPP.dir/searchAlgorithms/mainSearch.cpp.obj: CXX_COMPILER__SearchAPP_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/mainSearch.cpp || cmake_object_order_depends_target_SearchAPP
   DEP_FILE = CMakeFiles\SearchAPP.dir\searchAlgorithms\mainSearch.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\SearchAPP.dir
   OBJECT_FILE_DIR = CMakeFiles\SearchAPP.dir\searchAlgorithms
 
-build CMakeFiles/SearchAPP.dir/searchAlgorithms/searches/binary_search.cpp.obj: CXX_COMPILER__SearchAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/searches/binary_search.cpp || cmake_object_order_depends_target_SearchAPP
+build CMakeFiles/SearchAPP.dir/searchAlgorithms/searches/binary_search.cpp.obj: CXX_COMPILER__SearchAPP_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/searches/binary_search.cpp || cmake_object_order_depends_target_SearchAPP
   DEP_FILE = CMakeFiles\SearchAPP.dir\searchAlgorithms\searches\binary_search.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\SearchAPP.dir
   OBJECT_FILE_DIR = CMakeFiles\SearchAPP.dir\searchAlgorithms\searches
 
-build CMakeFiles/SearchAPP.dir/searchAlgorithms/searches/linear_search.cpp.obj: CXX_COMPILER__SearchAPP_unscanned_Debug C$:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/searches/linear_search.cpp || cmake_object_order_depends_target_SearchAPP
+build CMakeFiles/SearchAPP.dir/searchAlgorithms/searches/linear_search.cpp.obj: CXX_COMPILER__SearchAPP_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/searches/linear_search.cpp || cmake_object_order_depends_target_SearchAPP
   DEP_FILE = CMakeFiles\SearchAPP.dir\searchAlgorithms\searches\linear_search.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/sortingAlgorithms/include -IC:/Users/jonat/CLionProjects/fundamentosProgramacion/searchAlgorithms/include
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
   OBJECT_DIR = CMakeFiles\SearchAPP.dir
   OBJECT_FILE_DIR = CMakeFiles\SearchAPP.dir\searchAlgorithms\searches
 
@@ -2406,7 +2440,7 @@ build SearchAPP.exe: CXX_EXECUTABLE_LINKER__SearchAPP_Debug CMakeFiles/SearchAPP
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\jonat\CLionProjects\fundamentosProgramacion\cmake-build-debug && C:\Users\jonat\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\jonat.COSMOS-PC\CLionProjects\C-Practices-\cmake-build-debug && C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -2417,7 +2451,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\jonat\CLionProjects\fundamentosProgramacion\cmake-build-debug && C:\Users\jonat\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\jonat\CLionProjects\fundamentosProgramacion -BC:\Users\jonat\CLionProjects\fundamentosProgramacion\cmake-build-debug"
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\jonat.COSMOS-PC\CLionProjects\C-Practices-\cmake-build-debug && C:\Users\jonat.COSMOS-PC\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\jonat.COSMOS-PC\CLionProjects\C-Practices- -BC:\Users\jonat.COSMOS-PC\CLionProjects\C-Practices-\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -2436,6 +2470,8 @@ build ED-3: phony ED-3.exe
 build SearchAPP: phony SearchAPP.exe
 
 build SortingAPP: phony SortingAPP.exe
+
+build archivo1: phony archivo1.exe
 
 build binarySearch: phony binarySearch.exe
 
@@ -2569,9 +2605,9 @@ build taller3: phony taller3.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/jonat/CLionProjects/fundamentosProgramacion/cmake-build-debug
+# Folder: C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug
 
-build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe gotoxyExample.exe gotoxyExample1.exe gotoxyExample2.exe ejemplo31.exe binarySearch.exe exponentialSearch.exe interpolationSearch.exe jumpSearch.exe linearSearch.exe leccion1.exe leccion2.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe ED-1.exe ED-2.exe ED-3.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe SortingAPP.exe SearchAPP.exe
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe gotoxyExample.exe gotoxyExample1.exe gotoxyExample2.exe ejemplo31.exe binarySearch.exe exponentialSearch.exe interpolationSearch.exe jumpSearch.exe linearSearch.exe leccion1.exe leccion2.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe ED-1.exe ED-2.exe ED-3.exe archivo1.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe SortingAPP.exe SearchAPP.exe
 
 # =============================================================================
 # Built-in targets
@@ -2580,14 +2616,14 @@ build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/jonat/CLionProjects/fundamentosProgramacion/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Users/jonat/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/jonat/CLionProjects/fundamentosProgramacion/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake: phony
+build C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Users/jonat.COSMOS-PC/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake: phony
 
 
 #############################################
