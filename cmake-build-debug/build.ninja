@@ -2149,6 +2149,108 @@ build archivo1.exe: CXX_EXECUTABLE_LINKER__archivo1_Debug CMakeFiles/archivo1.di
   TARGET_PDB = archivo1.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target archivo2
+
+
+#############################################
+# Order-only phony target for archivo2
+
+build cmake_object_order_depends_target_archivo2: phony || .
+
+build CMakeFiles/archivo2.dir/section8/A_EJ02.cpp.obj: CXX_COMPILER__archivo2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section8/A_EJ02.cpp || cmake_object_order_depends_target_archivo2
+  DEP_FILE = CMakeFiles\archivo2.dir\section8\A_EJ02.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\archivo2.dir
+  OBJECT_FILE_DIR = CMakeFiles\archivo2.dir\section8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target archivo2
+
+
+#############################################
+# Link the executable archivo2.exe
+
+build archivo2.exe: CXX_EXECUTABLE_LINKER__archivo2_Debug CMakeFiles/archivo2.dir/section8/A_EJ02.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\archivo2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = archivo2.exe
+  TARGET_IMPLIB = libarchivo2.dll.a
+  TARGET_PDB = archivo2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Aarchivo1
+
+
+#############################################
+# Order-only phony target for Aarchivo1
+
+build cmake_object_order_depends_target_Aarchivo1: phony || .
+
+build CMakeFiles/Aarchivo1.dir/section9/Ar_01.cpp.obj: CXX_COMPILER__Aarchivo1_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section9/Ar_01.cpp || cmake_object_order_depends_target_Aarchivo1
+  DEP_FILE = CMakeFiles\Aarchivo1.dir\section9\Ar_01.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\Aarchivo1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Aarchivo1.dir\section9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Aarchivo1
+
+
+#############################################
+# Link the executable Aarchivo1.exe
+
+build Aarchivo1.exe: CXX_EXECUTABLE_LINKER__Aarchivo1_Debug CMakeFiles/Aarchivo1.dir/section9/Ar_01.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Aarchivo1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Aarchivo1.exe
+  TARGET_IMPLIB = libAarchivo1.dll.a
+  TARGET_PDB = Aarchivo1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Aarchivo2
+
+
+#############################################
+# Order-only phony target for Aarchivo2
+
+build cmake_object_order_depends_target_Aarchivo2: phony || .
+
+build CMakeFiles/Aarchivo2.dir/section9/Ar_02.cpp.obj: CXX_COMPILER__Aarchivo2_unscanned_Debug C$:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/section9/Ar_02.cpp || cmake_object_order_depends_target_Aarchivo2
+  DEP_FILE = CMakeFiles\Aarchivo2.dir\section9\Ar_02.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/sortingAlgorithms/include -IC:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/searchAlgorithms/include
+  OBJECT_DIR = CMakeFiles\Aarchivo2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Aarchivo2.dir\section9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Aarchivo2
+
+
+#############################################
+# Link the executable Aarchivo2.exe
+
+build Aarchivo2.exe: CXX_EXECUTABLE_LINKER__Aarchivo2_Debug CMakeFiles/Aarchivo2.dir/section9/Ar_02.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Aarchivo2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Aarchivo2.exe
+  TARGET_IMPLIB = libAarchivo2.dll.a
+  TARGET_PDB = Aarchivo2.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target recursividad1
 
 
@@ -2461,6 +2563,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build Aarchivo1: phony Aarchivo1.exe
+
+build Aarchivo2: phony Aarchivo2.exe
+
 build ED-1: phony ED-1.exe
 
 build ED-2: phony ED-2.exe
@@ -2472,6 +2578,8 @@ build SearchAPP: phony SearchAPP.exe
 build SortingAPP: phony SortingAPP.exe
 
 build archivo1: phony archivo1.exe
+
+build archivo2: phony archivo2.exe
 
 build binarySearch: phony binarySearch.exe
 
@@ -2607,7 +2715,7 @@ build taller3: phony taller3.exe
 #############################################
 # Folder: C:/Users/jonat.COSMOS-PC/CLionProjects/C-Practices-/cmake-build-debug
 
-build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe gotoxyExample.exe gotoxyExample1.exe gotoxyExample2.exe ejemplo31.exe binarySearch.exe exponentialSearch.exe interpolationSearch.exe jumpSearch.exe linearSearch.exe leccion1.exe leccion2.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe ED-1.exe ED-2.exe ED-3.exe archivo1.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe SortingAPP.exe SearchAPP.exe
+build all: phony fundamentosProgramacion.exe ejemplo1.exe ejemplo2.exe ejemplo3.exe ejemplo4.exe ejemplo5.exe ejemplo6.exe ejemplo7.exe ejemplo8.exe ejemplo9.exe ejemplo10.exe ejemplo11.exe ejemplo12.exe ejemplo13.exe ejemplo14.exe ejemplo15.exe ejemplo16.exe ejemplo17.exe ejemplo18.exe ejemplo19.exe ejemplo20.exe ejemplo21.exe ejemplo22.exe ejemplo23.exe ejemplo24.exe ejemplo25.exe ejemplo26.exe ejemplo27.exe ejemplo28.exe ejemplo29.exe ejemplo30.exe gotoxyExample.exe gotoxyExample1.exe gotoxyExample2.exe ejemplo31.exe binarySearch.exe exponentialSearch.exe interpolationSearch.exe jumpSearch.exe linearSearch.exe leccion1.exe leccion2.exe ejercicio1.exe ejercicio2.exe ejercicio3.exe ejercicio4.exe ejercicio5.exe ejercicio6.exe ejercicio7.exe ejercicio8.exe taller1.exe taller2.exe taller3.exe fibonacci.exe examen.exe examen2.exe examen3.exe examen4.exe ED-1.exe ED-2.exe ED-3.exe archivo1.exe archivo2.exe Aarchivo1.exe Aarchivo2.exe recursividad1.exe recursividad2.exe recursividad3.exe recursividad4.exe recursividad5.exe SortingAPP.exe SearchAPP.exe
 
 # =============================================================================
 # Built-in targets

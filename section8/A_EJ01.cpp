@@ -10,6 +10,10 @@
 // Definir librerias
 #include <iostream>
 #include <map>
+
+// Librerias para hacer uso de las tildes
+#include <clocale>
+#include <windows.h>
 // Espacio de nombres
 using namespace std;
 // Variables y constantes globales
@@ -24,8 +28,12 @@ map<string, int>::iterator it;
 // Bloque de instrucciones
 // Función principal
 int main() {
-    //Ingreso de cantidad de elementos al diccionario
 
+    SetConsoleOutputCP(65001);
+    SetConsoleCP(65001);
+    setlocale(LC_ALL, "es_ES.UTF-8");
+
+    //Ingreso de cantidad de elementos al diccionario
     cout << "Ingrese el número de elementos: ";
     cin >> Lim;
     getchar();

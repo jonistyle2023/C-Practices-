@@ -4,14 +4,14 @@ Curso: SW 2/2
 Fecha: 29/05/2025 */
 
 //Bloque de Declaraciones
-//Definir librer�as
+//Definir librerías
 #include<iostream>
 //Espacio de nombres
 using namespace std;
-//Definir variables y constantes gloables
+//Definir variables y constantes globables
 int i, j;
 char RP;
-//Declarar estructuras Param�tricas (Secundarias)
+//Declarar estructuras Paramametricas (Secundarias)
 struct TB_DIR
 {
 	char CIUDAD[30];
