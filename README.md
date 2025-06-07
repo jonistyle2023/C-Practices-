@@ -3,10 +3,12 @@
 >[!NOTE]
 >
 > **Realizado por:** _Jonathan David Panchana Rodríguez_
+> 
+> Este repositorio contiene una serie de ejemplos y ejercicios básicos para aprender C++, fueron realizados a media que iba aprendiendo el lenguaje, por lo que pueden contener errores o malas prácticas.
 
 >[!IMPORTANT]
 > 
-> Todos los créditos al respectivo Autor
+> Todos los créditos al respectivo Docente tutor de la materia *Fundamentos de programación* de la carrera de **Software**, el cual es el Ing. _Alfredo Tumbaco_ Msc.
 
 ---
 
@@ -64,6 +66,34 @@
 - **Ejemplo 24:** Uso de arreglos *Unidimensionales*.
 - **Ejemplo 25:** Uso de arreglos *Bidimensionales*.
 - **Ejemplo 26:** Uso de arreglos *Tridimensionales*.
+- **Ejemplo 27:** Uso de punteros y arreglos *Unidimensionales*.
+- **Ejemplo 28:** Uso de punteros y arreglos *Bidimensionales*.
+- **Ejemplo 29:** Uso de punteros y arreglos *Tridimensionales*.
+- **Ejemplo 30:** Uso de libreria gotoxy.
+- **gotoxyExample:** Uso de libreria gotoxy con punteros y arreglos *Unidimensionales*.
+- **gotoxyExample1:** Uso de libreria gotoxy con punteros y arreglos *Bidimensionales*.
+- **gotoxyExample2:** Uso de libreria gotoxy con punteros y arreglos *Tridimensionales*.
+
+--- 
+
+### **Sección 7: Algoritmos de Búsqueda**
+- **binarySearch:** Algoritmo de búsqueda *binaria*.
+- **ejemplo31:** Algoritmo de **ordenamiento de burbuja** (Bubble sort).
+
+---
+
+### **Sección 8: Diccionario y Estructuras de Datos**
+- **A_EJ01:** Uso de **struct** para crear un diccionario.
+- **A_EJ02:** Uso de **struct** para crear un diccionario con funciones.
+- **AD_01:** Estructura compuesta.
+- **AD_02:** Estructura anidada compuesta.
+- **AD_03:** Estructura anidada compuesta con arreglos.
+
+---
+
+### **Sección 9: Manejo de Archivos**
+- **Ar_01:** Manejo de archivos de texto.
+- **Ar_02:** Manejo de archivos de texto con funciones.
 
 ---
 
@@ -88,4 +118,47 @@
 - **Recursividad4:** Generador de la serie Fibonacci hasta un límite definido por el usuario.
 - **Recursividad5:** Programa conversor recursivo de números decimales a binarios.
 
+### **Aplicación de Algorítmos de Ordenamiento**
 
+>[!IMPORTANT]
+>
+> Ubicado en la carpeta `sortingAlgorithms`.
+
+```
+project-root/
+├── include/
+│   ├── bubble_sort.h
+│   ├── selection_sort.h
+│   ├── insertion_sort.h
+│   ├── quicksort.h
+│   └── mergesort.h
+│
+├── sorts/
+│   ├── bubble_sort.cpp
+│   ├── selection_sort.cpp
+│   ├── insertion_sort.cpp
+│   ├── quicksort.cpp
+│   └── mergesort.cpp
+│
+├── mainSorting.cpp // Archivo principal para ejecutar los algoritmos de ordenamiento
+└── CMakeLists.txt
+```
+
+### **Aplicación de Algoritmos de Búsqueda**
+
+>[!IMPORTANT]
+>
+> Ubicado en la carpeta `searchAlgorithms`.
+
+```
+searchAlgorithms/                  <-- Carpeta raíz del nuevo proyecto
+├── mainSearch.cpp                 <-- Archivo principal general
+│
+├── include/                       <-- Headers de los algoritmos
+│   ├── linear_search.h
+│   └── binary_search.h
+│
+├── searches/                      <-- Implementaciones de búsqueda
+│   ├── linear_search.cpp
+│   └── binary_search.cpp
+```
